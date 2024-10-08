@@ -33,32 +33,47 @@ public class CustomHeuristic implements Heuristic{
 			
 			// Difference in marked positions per small board
 			int positionsSetDifference = curBoard.getPositionsSetCount(player.playerNumber()) - curBoard.getPositionsSetCount(player.next().playerNumber());
-			if(positionsSetDifference > 0)
-				value += positionsSetDifference*2;
-			
+			if(positionsSetDifference > 0) {
+				value += positionsSetDifference;
+			}
 			GameStatus res = curBoard.checkIfWon();
 			
 			// Reward wins on small board
 			if(res == player){
-				value+= 012;
+				value+= 100;
 			}
 			// Punish losses on small boards
 			if(res == player.next()){
-				value-=012;
+				value-=30;
+			}
+			// punish draws
+			if(res == GameStatus.DRAW){
+				value-=5;
 			}
 			
 			// Reward for difference in partial wins on small board
-			value+= curBoard.partialWinsDifference(player);
+//			value+= curBoard.partialWinsDifference(player)*2;
+			if(curBoard.partialWinsDifference(player)>0){
+				value+=15;
+			}
+
+			// Reward for playing the center on a small board
+			if(curBoard.getPos(4) == player){
+				value+=5;
+			}
 		}
 		
 		// prioritize the center
 		if(ultimateBoard.getBoard(4).getGameStatus() == player){
-			value += 30;
+			value += 200;
 		}
 		
 		// Reward for more partial wins than the opponent on large game
 		value += ultimateBoard.partialWinsDifference(player) * 100;
-		
+
+		// random jiggle
+		value+= (int) (Math.random()*5);
+
 		return value;
 	}
 }

@@ -33,7 +33,16 @@ public class HumanPlayer implements Player {
 		
 		ultimateBoard.makeMove(board * 9 + position);
 	}
-	
+
+	public String getName(){
+		return "Human";
+	}
+
+	@Override
+	public String getSymbol() {
+		return "";
+	}
+
 	public static void main(String[] args) {
 		GameStatus result = new Game(new HumanPlayer(), new MiniMax(new CustomHeuristic(GameStatus.TWO), 7)).run();
 		System.out.println(result);

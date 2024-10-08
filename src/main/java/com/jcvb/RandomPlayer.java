@@ -11,4 +11,14 @@ public class RandomPlayer implements Player {
 		
 		ultimateBoard.makeMove(move);
 	}
+
+	@Override
+	public String getName() {
+		return "RandomPlayer";
+	}
+
+	@Override
+	public String getSymbol() {
+		return "";
+	}
 }

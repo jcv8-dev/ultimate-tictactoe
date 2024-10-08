@@ -4,11 +4,11 @@ import java.util.HashMap;
 import java.util.List;
 import java.util.Map;
 
-public class MonteCarloGameSearch implements Heuristic{
+public class MonteCarloGameSearchHeuristic implements Heuristic{
 	
 	private final int amountOfSimulations;
 	
-	public MonteCarloGameSearch(int amountOfSimulations) {
+	public MonteCarloGameSearchHeuristic(int amountOfSimulations) {
 		this.amountOfSimulations = amountOfSimulations;
 	}
 	

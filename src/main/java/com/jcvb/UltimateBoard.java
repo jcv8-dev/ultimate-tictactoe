@@ -7,6 +7,7 @@ public class UltimateBoard {
 	public Bitboard[] boardArray;
 	private int nextBitBoard;
 	private GameStatus currentPlayer;
+	private GameStatus status;
 	
 	public UltimateBoard() {
 		boardArray = new Bitboard[9];
@@ -85,8 +86,9 @@ public class UltimateBoard {
 	public GameStatus checkGameWon(GameStatus player) {
 		// horizontal checks
 		for (int i = 0; i < 9; i=i+3) {
-			if ((boardArray[i].getGameStatus() == player) && (boardArray[i+1].getGameStatus() == player) && (boardArray[i+2].getGameStatus() == player))
+			if ((boardArray[i].getGameStatus() == player) && (boardArray[i+1].getGameStatus() == player) && (boardArray[i+2].getGameStatus() == player)) {
 				return player;
+			}
 		}
 		
 		// vertical checks
@@ -98,8 +100,10 @@ public class UltimateBoard {
 		for (int i = 0; i < 3; i++) {
 			int[] pos = vertical[i];
 			
-			if ((boardArray[pos[0]].getGameStatus() == player) && (boardArray[pos[1]].getGameStatus() == player) && (boardArray[pos[2]].getGameStatus() == player))
+			if ((boardArray[pos[0]].getGameStatus() == player) && (boardArray[pos[1]].getGameStatus() == player) && (boardArray[pos[2]].getGameStatus() == player)){
 				return player;
+			}
+
 		}
 		// diagonal checks
 		if ((boardArray[0].getGameStatus() == player) && (boardArray[4].getGameStatus() == player) && (boardArray[8].getGameStatus() == player))
@@ -109,7 +113,27 @@ public class UltimateBoard {
 			
 		return checkDraw();
 	}
-	
+
+	public boolean playerOneHasWon(){
+		return checkGameWon(GameStatus.ONE) == GameStatus.ONE;
+	}
+
+	public boolean isGameOver(){
+		return checkGameWon(currentPlayer) == GameStatus.RUNNING;
+	}
+
+	public GameStatus getGameStatus(){
+		if(checkGameWon(currentPlayer) == currentPlayer){
+			return currentPlayer;
+		} else if(checkGameWon(currentPlayer.next()) == currentPlayer.next()){
+			return currentPlayer.next();
+		} else if(checkDraw() == GameStatus.DRAW){
+			return GameStatus.DRAW;
+		} else {
+			return GameStatus.RUNNING;
+		}
+	}
+
 	private GameStatus checkDraw() {
 		for (int i = 0; i < 9; i++) {
 				if(boardArray[i].getGameStatus() == GameStatus.RUNNING)
@@ -199,6 +223,7 @@ public class UltimateBoard {
 				boardBase+=3;
 			}
 		}
+		sb.append("\n");
 		return sb.toString();
 	}
 }

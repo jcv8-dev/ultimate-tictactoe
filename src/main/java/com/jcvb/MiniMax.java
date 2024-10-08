@@ -7,10 +7,12 @@ public class MiniMax implements Player {
 
 	private final int MAX_DEPTH;
 	private final Heuristic heuristic;
+	private final String name;
 	
 	public MiniMax(Heuristic heuristic, int depth) {
 		this.heuristic = heuristic;
 		this.MAX_DEPTH = depth;
+		this.name = "MiniMax w/ " + heuristic.getClass().getSimpleName();
 	}
 	
 	public int minimax(UltimateBoard ultimateBoard, int depth, boolean isMaximizing, int alpha, int beta){
@@ -100,7 +102,17 @@ public class MiniMax implements Player {
 		int bestMove = getBestMoveThreaded(ultimateBoard);
 		ultimateBoard.makeMove(bestMove);
 	}
-	
+
+	@Override
+	public String getName() {
+		return name;
+	}
+
+	@Override
+	public String getSymbol() {
+		return "";
+	}
+
 	public static void main(String[] args) {
 		GameStatus result = new Game(new MiniMax(new CustomHeuristic(GameStatus.ONE), 7), new MiniMax(new CustomHeuristic(GameStatus.TWO), 7)).run();
 		System.out.println(result);
