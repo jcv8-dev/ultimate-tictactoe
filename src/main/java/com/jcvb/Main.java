@@ -7,28 +7,34 @@ public class Main {
 		// MiniMax, RandomPlayer, Draw
 		int[] wins = new int[3];
 		int DEPTH = 8;
-		Player monteCarloTreeSearch1 = new MiniMax(new CustomHeuristic(GameStatus.ONE), DEPTH);//new MonteCarloTreeSearch(GameStatus.ONE, new CustomHeuristic(GameStatus.ONE));
-		Player monteCarloTreeSearch2 = new MiniMax(new CustomHeuristic(GameStatus.TWO), DEPTH);//new MonteCarloTreeSearch(GameStatus.TWO, new CustomHeuristic(GameStatus.TWO));
+		Player miniMax1 = new MiniMax(new CustomHeuristic(GameStatus.ONE), DEPTH);
+		Player miniMax2 = new MiniMax(new CustomHeuristic(GameStatus.TWO), DEPTH);
+
+		Player monteCarloTreeSearch1 = new MonteCarloTreeSearch(GameStatus.ONE);
+		Player monteCarloTreeSearch2 = new MonteCarloTreeSearch(GameStatus.TWO);
+
 		Player randomPlayer = new RandomPlayer();
 
 		for (int i = 0; i < NUM_GAMES; i++) {
 			GameStatus result;
 			if (i % 2 == 0) {
+//				result = new Game(randomPlayer, miniMax2).run();
 				result = new Game(randomPlayer, monteCarloTreeSearch2).run();
 				if(result.ordinal() == 0){
 					wins[1]++;
 				} else if(result.ordinal() == 1){
 					wins[0]++;
 				}
-				printVictoryMessage(result, i, "Random", "MonteCarloTreeSearch");
+//				printVictoryMessage(result, i, "Random", "miniMax");
+				printVictoryMessage(result, i, "Random", "MCTS");
 			} else {
+//				result = new Game(minimax1, randomPlayer).run();
 				result = new Game(monteCarloTreeSearch1, randomPlayer).run();
 				wins[result.ordinal()]++;
 
-
-				printVictoryMessage(result, i, "MonteCarloTreeSearch", "Random");
+//				printVictoryMessage(result, i, "miniMax", "Random");
+				printVictoryMessage(result, i, "MCTS", "Random");
 			}
-//			wins[result.ordinal()]++;
 			printStats(wins, monteCarloTreeSearch1, randomPlayer);
 		}
 		

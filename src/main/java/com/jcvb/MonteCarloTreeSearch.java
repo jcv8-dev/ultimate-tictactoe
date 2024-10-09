@@ -7,13 +7,11 @@ import java.util.Random;
 public class MonteCarloTreeSearch implements Player {
 
     private final GameStatus player;
-    private final int simulations = 100000;  // Number of MCTS simulations
-    private final double explorationConstant = Math.sqrt(2);  // UCT exploration constant
-    private final Heuristic heuristic;  // Reference to the Heuristic interface implementation
+    private final int simulations = 200000;  // Number of MCTS simulations
+    private final double explorationConstant = 1.5;  // UCT exploration constant
 
-    public MonteCarloTreeSearch(GameStatus player, Heuristic heuristic) {
+    public MonteCarloTreeSearch(GameStatus player) {
         this.player = player;
-        this.heuristic = heuristic;
     }
 
     @Override
@@ -28,15 +26,15 @@ public class MonteCarloTreeSearch implements Player {
         Node root = new Node(ultimateBoard.deepClone(), null, -1);
         for (int i = 0; i < simulations; i++) {
             Node selectedNode = selectNode(root);
-            GameStatus winner = selectedNode.ultimateBoard.checkGameWon(selectedNode.playerToMove);
+            GameStatus winner = selectedNode.ultimateBoard.getWinner();
 
-            // If the game isn't finished, we expand the node and simulate using heuristics
+            // If the game isn't finished, expand and simulate
             if (winner == GameStatus.RUNNING) {
                 expandNode(selectedNode);
-                GameStatus rolloutResult = simulateHeuristicPlay(selectedNode);
+                GameStatus rolloutResult = simulateRandomPlay(selectedNode);
                 backpropagate(selectedNode, rolloutResult);
             } else {
-                // If game is finished, propagate the result immediately
+                // Game already finished, propagate result immediately
                 backpropagate(selectedNode, winner);
             }
         }
@@ -63,64 +61,38 @@ public class MonteCarloTreeSearch implements Player {
     }
 
     /**
-     * Heuristic-based simulation (rollout phase).
+     * Random simulation (rollout phase).
      */
-    private GameStatus simulateHeuristicPlay(Node node) {
+    private GameStatus simulateRandomPlay(Node node) {
         UltimateBoard simulatedBoard = node.ultimateBoard.deepClone();
         GameStatus currentPlayer = node.playerToMove;
+        Random random = new Random();
 
-        while (simulatedBoard.checkGameWon(currentPlayer) == GameStatus.RUNNING) {
+        // Play randomly until the game is won or a draw
+        while (!simulatedBoard.isGameOver()) {
             List<Integer> possibleMoves = simulatedBoard.getPossibleMoves();
             if (possibleMoves.isEmpty()) {
                 break;
             }
 
-            // Choose the best move based on heuristic evaluation
-            int bestMove = chooseHeuristicMove(simulatedBoard, currentPlayer);
-            simulatedBoard.makeMove(bestMove);  // Use makeMove instead of playMove
+            // Randomly select a move
+            int randomMove = possibleMoves.get(random.nextInt(possibleMoves.size()));
+            simulatedBoard.makeMove(randomMove);
 
             // Switch to the next player
-            currentPlayer = (currentPlayer == GameStatus.ONE) ? GameStatus.TWO : GameStatus.ONE;
+            currentPlayer = currentPlayer.next();
         }
 
         return simulatedBoard.checkGameWon(currentPlayer);
-    }
-
-    /**
-     * Selects the best move based on the heuristic.
-     */
-    private int chooseHeuristicMove(UltimateBoard board, GameStatus currentPlayer) {
-        List<Integer> possibleMoves = board.getPossibleMoves();
-        int bestMove = possibleMoves.get(0);
-        int bestScore = Integer.MIN_VALUE;
-
-        for (int move : possibleMoves) {
-            UltimateBoard clone = board.deepClone();
-            clone.makeMove(move);  // Use makeMove instead of playMove
-
-            // Evaluate the board from the perspective of the current player or opponent
-            int score = heuristic.evaluate(clone, currentPlayer);
-
-            // If evaluating the opponent's move, flip the score (opponent's gain is current player's loss)
-            if (currentPlayer != this.player) {
-                score = -score;
-            }
-
-            // Choose the move with the highest heuristic score
-            if (score > bestScore) {
-                bestScore = score;
-                bestMove = move;
-            }
-        }
-
-        return bestMove;  // Return the best move according to the heuristic
     }
 
     private void backpropagate(Node node, GameStatus result) {
         while (node != null) {
             node.visits++;
             if (result == node.playerToMove) {
-                node.wins++;
+                node.wins--;  // Penalize if it's the losing player
+            } else {
+                node.wins++;  // Reward if it's the winning player
             }
             node = node.parent;
         }
@@ -128,7 +100,7 @@ public class MonteCarloTreeSearch implements Player {
 
     @Override
     public String getName() {
-        return "MonteCarloTreeSearch (Heuristic Based)";
+        return "MonteCarloTreeSearch (Random Simulation)";
     }
 
     @Override

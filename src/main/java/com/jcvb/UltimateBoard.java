@@ -7,6 +7,7 @@ public class UltimateBoard {
 	public Bitboard[] boardArray;
 	private int nextBitBoard;
 	private GameStatus currentPlayer;
+	private GameStatus winner;
 	private GameStatus status;
 	
 	public UltimateBoard() {
@@ -106,30 +107,32 @@ public class UltimateBoard {
 
 		}
 		// diagonal checks
-		if ((boardArray[0].getGameStatus() == player) && (boardArray[4].getGameStatus() == player) && (boardArray[8].getGameStatus() == player))
+		if ((boardArray[0].getGameStatus() == player) && (boardArray[4].getGameStatus() == player) && (boardArray[8].getGameStatus() == player)) {
 			return player;
-		if ((boardArray[2].getGameStatus() == player) && (boardArray[4].getGameStatus() == player) && (boardArray[6].getGameStatus() == player))
+		}
+		if ((boardArray[2].getGameStatus() == player) && (boardArray[4].getGameStatus() == player) && (boardArray[6].getGameStatus() == player)){
 			return player;
-			
+		}
 		return checkDraw();
 	}
 
-	public boolean playerOneHasWon(){
-		return checkGameWon(GameStatus.ONE) == GameStatus.ONE;
-	}
 
 	public boolean isGameOver(){
-		return checkGameWon(currentPlayer) == GameStatus.RUNNING;
+		return checkGameWon(currentPlayer) != GameStatus.RUNNING;
 	}
 
-	public GameStatus getGameStatus(){
+	public GameStatus getWinner() {
 		if(checkGameWon(currentPlayer) == currentPlayer){
+			winner = currentPlayer;
 			return currentPlayer;
 		} else if(checkGameWon(currentPlayer.next()) == currentPlayer.next()){
+			winner = currentPlayer.next();
 			return currentPlayer.next();
 		} else if(checkDraw() == GameStatus.DRAW){
+			winner = GameStatus.DRAW;
 			return GameStatus.DRAW;
 		} else {
+			winner = GameStatus.RUNNING;
 			return GameStatus.RUNNING;
 		}
 	}

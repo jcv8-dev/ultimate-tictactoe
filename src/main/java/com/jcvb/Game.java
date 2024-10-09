@@ -10,11 +10,11 @@ public class Game {
 	}
 	
 	public GameStatus run() {
-		GameStatus status = GameStatus.RUNNING;
+		GameStatus status = ultimateBoard.getWinner();
 		while (status == GameStatus.RUNNING) {
 			System.out.println(one.getName()+" is thinking");
 			one.play(ultimateBoard);
-			status = ultimateBoard.checkGameWon(GameStatus.ONE);
+			status = ultimateBoard.getWinner();
 //			System.out.println(ultimateBoard);
 
 			if (status != GameStatus.RUNNING) {
@@ -22,10 +22,9 @@ public class Game {
 			}
 			System.out.println(two.getName()+" is thinking");
 			two.play(ultimateBoard);
-			status = ultimateBoard.checkGameWon(GameStatus.TWO);
+			status = ultimateBoard.getWinner();
 			System.out.println(ultimateBoard);
 		}
-		System.out.println(ultimateBoard);
 		return status;
 	}
 }
