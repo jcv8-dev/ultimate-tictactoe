@@ -7,8 +7,9 @@ import java.util.Random;
 public class MonteCarloTreeSearch implements Player {
 
     private final GameStatus player;
-    private final int simulations = 200000;  // Number of MCTS simulations
-    private final double explorationConstant = 1.5;  // UCT exploration constant
+    private final int simulations = 300000;  // Number of MCTS simulations
+    private final double explorationConstant = Math.sqrt(2);  // UCT exploration constant
+    private final int msPerMove = 500;
 
     public MonteCarloTreeSearch(GameStatus player) {
         this.player = player;
@@ -24,7 +25,10 @@ public class MonteCarloTreeSearch implements Player {
 
     private int findBestMove(UltimateBoard ultimateBoard) {
         Node root = new Node(ultimateBoard.deepClone(), null, -1);
-        for (int i = 0; i < simulations; i++) {
+        long start = System.currentTimeMillis();
+        int iteration_count = 0;
+        while(System.currentTimeMillis() - start < msPerMove) {
+            iteration_count++;
             Node selectedNode = selectNode(root);
             GameStatus winner = selectedNode.ultimateBoard.getWinner();
 
@@ -38,7 +42,7 @@ public class MonteCarloTreeSearch implements Player {
                 backpropagate(selectedNode, winner);
             }
         }
-
+        System.out.println("MCTS went though " + iteration_count + " iterations");
         // Choose the best move from the root node based on visit count or win rate
         Node bestChild = root.getBestChild();
         return (bestChild != null) ? bestChild.move : -1;
@@ -89,10 +93,10 @@ public class MonteCarloTreeSearch implements Player {
     private void backpropagate(Node node, GameStatus result) {
         while (node != null) {
             node.visits++;
-            if (result == node.playerToMove) {
-                node.wins--;  // Penalize if it's the losing player
-            } else {
+            if (result == node.playerToMove.next()) {
                 node.wins++;  // Reward if it's the winning player
+            } else {
+                node.wins--;  // Penalize if it's the loosing player or if it's a draw
             }
             node = node.parent;
         }
