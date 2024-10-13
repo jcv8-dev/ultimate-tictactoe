@@ -130,6 +130,11 @@ public class MonteCarloTreeSearchMultithreaded implements Player {
         return null;
     }
 
+    @Override
+    public String getParam() {
+        return "";
+    }
+
     // Inner class for tree node representation
     private class Node {
         UltimateBoard ultimateBoard;

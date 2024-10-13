@@ -21,4 +21,9 @@ public class RandomPlayer implements Player {
 	public String getSymbol() {
 		return "";
 	}
+
+	@Override
+	public String getParam() {
+		return "Zufall";
+	}
 }

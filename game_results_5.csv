@@ -1,0 +1,21 @@
+Game Number,Player 1 Name,Player 2 Name,Player 1 Parameter,Player 2 Parameter,Player 1 Avg Time,Player 2 Avg Time,Winner,Timestamp
+0,RandomPlayer,MonteCarloTreeSearch (Random Simulation),Zufall,Ms/Move: 500,0,500,MonteCarloTreeSearch (Random Simulation),2024-10-13 14:09:34
+1,MonteCarloTreeSearch (Random Simulation),RandomPlayer,Ms/Move: 500,Zufall,503,0,MonteCarloTreeSearch (Random Simulation),2024-10-13 14:09:44
+2,RandomPlayer,MonteCarloTreeSearch (Random Simulation),Zufall,Ms/Move: 500,0,505,MonteCarloTreeSearch (Random Simulation),2024-10-13 14:09:53
+3,MonteCarloTreeSearch (Random Simulation),RandomPlayer,Ms/Move: 500,Zufall,509,0,MonteCarloTreeSearch (Random Simulation),2024-10-13 14:10:04
+4,RandomPlayer,MonteCarloTreeSearch (Random Simulation),Zufall,Ms/Move: 500,0,502,MonteCarloTreeSearch (Random Simulation),2024-10-13 14:10:13
+5,MonteCarloTreeSearch (Random Simulation),RandomPlayer,Ms/Move: 500,Zufall,500,0,MonteCarloTreeSearch (Random Simulation),2024-10-13 14:10:22
+6,RandomPlayer,MonteCarloTreeSearch (Random Simulation),Zufall,Ms/Move: 500,0,500,MonteCarloTreeSearch (Random Simulation),2024-10-13 14:10:29
+7,MonteCarloTreeSearch (Random Simulation),RandomPlayer,Ms/Move: 500,Zufall,503,0,MonteCarloTreeSearch (Random Simulation),2024-10-13 14:10:37
+8,RandomPlayer,MonteCarloTreeSearch (Random Simulation),Zufall,Ms/Move: 500,0,510,MonteCarloTreeSearch (Random Simulation),2024-10-13 14:10:47
+9,MonteCarloTreeSearch (Random Simulation),RandomPlayer,Ms/Move: 500,Zufall,500,0,MonteCarloTreeSearch (Random Simulation),2024-10-13 14:10:55
+10,RandomPlayer,MonteCarloTreeSearch (Random Simulation),Zufall,Ms/Move: 500,0,500,MonteCarloTreeSearch (Random Simulation),2024-10-13 14:11:05
+11,MonteCarloTreeSearch (Random Simulation),RandomPlayer,Ms/Move: 500,Zufall,514,0,MonteCarloTreeSearch (Random Simulation),2024-10-13 14:11:14
+12,RandomPlayer,MonteCarloTreeSearch (Random Simulation),Zufall,Ms/Move: 500,0,514,MonteCarloTreeSearch (Random Simulation),2024-10-13 14:11:23
+13,MonteCarloTreeSearch (Random Simulation),RandomPlayer,Ms/Move: 500,Zufall,500,0,MonteCarloTreeSearch (Random Simulation),2024-10-13 14:11:32
+14,RandomPlayer,MonteCarloTreeSearch (Random Simulation),Zufall,Ms/Move: 500,0,500,MonteCarloTreeSearch (Random Simulation),2024-10-13 14:11:40
+15,MonteCarloTreeSearch (Random Simulation),RandomPlayer,Ms/Move: 500,Zufall,503,0,MonteCarloTreeSearch (Random Simulation),2024-10-13 14:11:47
+16,RandomPlayer,MonteCarloTreeSearch (Random Simulation),Zufall,Ms/Move: 500,0,500,MonteCarloTreeSearch (Random Simulation),2024-10-13 14:11:55
+17,MonteCarloTreeSearch (Random Simulation),RandomPlayer,Ms/Move: 500,Zufall,500,0,MonteCarloTreeSearch (Random Simulation),2024-10-13 14:12:02
+18,RandomPlayer,MonteCarloTreeSearch (Random Simulation),Zufall,Ms/Move: 500,0,501,MonteCarloTreeSearch (Random Simulation),2024-10-13 14:12:11
+19,MonteCarloTreeSearch (Random Simulation),RandomPlayer,Ms/Move: 500,Zufall,501,0,MonteCarloTreeSearch (Random Simulation),2024-10-13 14:12:19

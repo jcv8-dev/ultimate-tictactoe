@@ -47,4 +47,8 @@ public class HumanPlayer implements Player {
 		GameStatus result = new Game(new HumanPlayer(), new MiniMax(new CustomHeuristic(GameStatus.TWO), 7)).run();
 		System.out.println(result);
 	}
+	@Override
+	public String getParam(){
+		return "Mensch";
+	}
 }

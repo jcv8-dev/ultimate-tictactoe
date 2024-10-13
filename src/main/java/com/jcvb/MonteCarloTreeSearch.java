@@ -9,7 +9,7 @@ public class MonteCarloTreeSearch implements Player {
     private final GameStatus player;
     private final int simulations = 300000;  // Number of MCTS simulations
     private final double explorationConstant = Math.sqrt(2);  // UCT exploration constant
-    private final int msPerMove = 500;
+    private final int msPerMove = 10000;
 
     public MonteCarloTreeSearch(GameStatus player) {
         this.player = player;
@@ -114,6 +114,11 @@ public class MonteCarloTreeSearch implements Player {
         return null;
     }
 
+    @Override
+    public String getParam() {
+        return "Ms/Move: " + msPerMove;
+    }
+
     // Inner class for tree node representation
     private class Node {
         UltimateBoard ultimateBoard;
@@ -153,4 +158,10 @@ public class MonteCarloTreeSearch implements Player {
             return winRate + explorationTerm;
         }
     }
+
+    public static void main(String[] args) {
+        GameStatus result = new Game(new MonteCarloTreeSearch(GameStatus.ONE), new HumanPlayer()).run();
+        System.out.println(result);
+    }
+
 }

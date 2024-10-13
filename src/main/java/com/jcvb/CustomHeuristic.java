@@ -24,7 +24,7 @@ public class CustomHeuristic implements Heuristic{
 			return Integer.MAX_VALUE;
 		
 		// Player has won
-		if (ultimateBoard.checkGameWon(player.next()) == player.next())
+		if (ultimateBoard.checkGameWon(player.next()) == player.next() || ultimateBoard.checkGameWon(player.next()) == GameStatus.DRAW)
 			return Integer.MIN_VALUE;
 		
 		
@@ -33,14 +33,14 @@ public class CustomHeuristic implements Heuristic{
 			
 			// Difference in marked positions per small board
 			int positionsSetDifference = curBoard.getPositionsSetCount(player.playerNumber()) - curBoard.getPositionsSetCount(player.next().playerNumber());
-			if(positionsSetDifference > 0) {
-				value += positionsSetDifference;
-			}
+
+			value += positionsSetDifference * 10;
+
 			GameStatus res = curBoard.checkIfWon();
 			
 			// Reward wins on small board
 			if(res == player){
-				value+= 100;
+				value+= 300;
 			}
 			// Punish losses on small boards
 			if(res == player.next()){
@@ -52,14 +52,12 @@ public class CustomHeuristic implements Heuristic{
 			}
 			
 			// Reward for difference in partial wins on small board
-//			value+= curBoard.partialWinsDifference(player)*2;
-			if(curBoard.partialWinsDifference(player)>0){
-				value+=15;
-			}
+			value+= curBoard.partialWinsDifference(player)*30;
+
 
 			// Reward for playing the center on a small board
 			if(curBoard.getPos(4) == player){
-				value+=5;
+				value++;
 			}
 		}
 		
@@ -69,7 +67,7 @@ public class CustomHeuristic implements Heuristic{
 		}
 		
 		// Reward for more partial wins than the opponent on large game
-		value += ultimateBoard.partialWinsDifference(player) * 100;
+		value += ultimateBoard.partialWinsDifference(player) * 300;
 
 		// random jiggle
 		value+= (int) (Math.random()*5);

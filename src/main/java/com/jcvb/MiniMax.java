@@ -117,4 +117,9 @@ public class MiniMax implements Player {
 		GameStatus result = new Game(new MiniMax(new CustomHeuristic(GameStatus.ONE), 7), new MiniMax(new CustomHeuristic(GameStatus.TWO), 7)).run();
 		System.out.println(result);
 	}
+
+	@Override
+	public String getParam(){
+		return "Depth: " + MAX_DEPTH;
+	}
 }
