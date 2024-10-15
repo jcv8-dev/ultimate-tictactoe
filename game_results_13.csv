@@ -1,2 +1,9 @@
 Game Number,Player 1 Name,Player 2 Name,Player 1 Moves, Player 2 Moves, PlPlayer 1 Parameter,Player 2 Parameter,Player 1 Avg Time,Player 2 Avg Time,Winner,Timestamp
 0,MiniMax w/ CustomHeuristic,MonteCarloTreeSearch (Random Simulation),14,14,Depth: 12,Ms/Move: 100,75174,100,MonteCarloTreeSearch (Random Simulation),2024-10-13 19:03:53
+1,MonteCarloTreeSearch (Random Simulation),MiniMax w/ CustomHeuristic,10,9,Ms/Move: 100,Depth: 12,100,1459012,MonteCarloTreeSearch (Random Simulation),2024-10-13 22:42:45
+2,MiniMax w/ CustomHeuristic,MonteCarloTreeSearch (Random Simulation),12,12,Depth: 12,Ms/Move: 100,280204,100,MonteCarloTreeSearch (Random Simulation),2024-10-13 23:38:49
+3,MonteCarloTreeSearch (Random Simulation),MiniMax w/ CustomHeuristic,12,11,Ms/Move: 100,Depth: 12,100,142275,MonteCarloTreeSearch (Random Simulation),2024-10-14 00:04:55
+4,MiniMax w/ CustomHeuristic,MonteCarloTreeSearch (Random Simulation),12,12,Depth: 12,Ms/Move: 100,147059,100,MonteCarloTreeSearch (Random Simulation),2024-10-14 00:34:21
+5,MonteCarloTreeSearch (Random Simulation),MiniMax w/ CustomHeuristic,10,9,Ms/Move: 100,Depth: 12,100,78028,MonteCarloTreeSearch (Random Simulation),2024-10-14 00:46:04
+6,MiniMax w/ CustomHeuristic,MonteCarloTreeSearch (Random Simulation),10,10,Depth: 12,Ms/Move: 100,4796363,100,MonteCarloTreeSearch (Random Simulation),2024-10-14 14:05:29
+7,MonteCarloTreeSearch (Random Simulation),MiniMax w/ CustomHeuristic,10,9,Ms/Move: 100,Depth: 12,100,62132,MonteCarloTreeSearch (Random Simulation),2024-10-14 14:14:49

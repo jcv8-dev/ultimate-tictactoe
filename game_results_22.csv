@@ -1,0 +1,1001 @@
+Game Number,Player 1 Name,Player 2 Name,Player 1 Moves,Player 2 Moves,Player 1 Parameter,Player 2 Parameter,Player 1 Avg Time,Player 2 Avg Time,Winner,Timestamp
+0,MiniMax w/ CustomHeuristic,RandomPlayer,23,22,Depth: 0,Zufall,0,0,MiniMax w/ CustomHeuristic,2024-10-15 18:29:58
+1,RandomPlayer,MiniMax w/ CustomHeuristic,22,22,Zufall,Depth: 1,0,0,MiniMax w/ CustomHeuristic,2024-10-15 18:29:58
+2,MiniMax w/ CustomHeuristic,RandomPlayer,24,23,Depth: 2,Zufall,1,0,MiniMax w/ CustomHeuristic,2024-10-15 18:29:58
+3,RandomPlayer,MiniMax w/ CustomHeuristic,18,18,Zufall,Depth: 3,0,5,MiniMax w/ CustomHeuristic,2024-10-15 18:29:58
+4,MiniMax w/ CustomHeuristic,RandomPlayer,27,26,Depth: 4,Zufall,16,0,MiniMax w/ CustomHeuristic,2024-10-15 18:29:58
+5,RandomPlayer,MiniMax w/ CustomHeuristic,19,19,Zufall,Depth: 5,0,15,MiniMax w/ CustomHeuristic,2024-10-15 18:29:58
+6,MiniMax w/ CustomHeuristic,RandomPlayer,20,19,Depth: 6,Zufall,21,0,MiniMax w/ CustomHeuristic,2024-10-15 18:29:59
+7,RandomPlayer,MiniMax w/ CustomHeuristic,21,21,Zufall,Depth: 7,0,228,MiniMax w/ CustomHeuristic,2024-10-15 18:30:04
+8,MiniMax w/ CustomHeuristic,RandomPlayer,24,23,Depth: 8,Zufall,422,0,MiniMax w/ CustomHeuristic,2024-10-15 18:30:14
+9,RandomPlayer,MiniMax w/ CustomHeuristic,21,21,Zufall,Depth: 9,0,2995,MiniMax w/ CustomHeuristic,2024-10-15 18:31:17
+10,MiniMax w/ CustomHeuristic,RandomPlayer,19,18,Depth: 0,Zufall,0,0,MiniMax w/ CustomHeuristic,2024-10-15 18:31:17
+11,RandomPlayer,MiniMax w/ CustomHeuristic,17,17,Zufall,Depth: 1,0,0,MiniMax w/ CustomHeuristic,2024-10-15 18:31:17
+12,MiniMax w/ CustomHeuristic,RandomPlayer,21,20,Depth: 2,Zufall,0,0,MiniMax w/ CustomHeuristic,2024-10-15 18:31:17
+13,RandomPlayer,MiniMax w/ CustomHeuristic,23,23,Zufall,Depth: 3,0,0,MiniMax w/ CustomHeuristic,2024-10-15 18:31:17
+14,MiniMax w/ CustomHeuristic,RandomPlayer,31,31,Depth: 4,Zufall,1,0,Draw,2024-10-15 18:31:17
+15,RandomPlayer,MiniMax w/ CustomHeuristic,19,19,Zufall,Depth: 5,0,4,MiniMax w/ CustomHeuristic,2024-10-15 18:31:17
+16,MiniMax w/ CustomHeuristic,RandomPlayer,20,19,Depth: 6,Zufall,12,0,MiniMax w/ CustomHeuristic,2024-10-15 18:31:17
+17,RandomPlayer,MiniMax w/ CustomHeuristic,21,21,Zufall,Depth: 7,0,74,MiniMax w/ CustomHeuristic,2024-10-15 18:31:19
+18,MiniMax w/ CustomHeuristic,RandomPlayer,24,24,Depth: 8,Zufall,1007,0,RandomPlayer,2024-10-15 18:31:43
+19,RandomPlayer,MiniMax w/ CustomHeuristic,25,25,Zufall,Depth: 9,0,450,MiniMax w/ CustomHeuristic,2024-10-15 18:31:54
+20,MiniMax w/ CustomHeuristic,RandomPlayer,17,16,Depth: 0,Zufall,0,0,MiniMax w/ CustomHeuristic,2024-10-15 18:31:54
+21,RandomPlayer,MiniMax w/ CustomHeuristic,25,24,Zufall,Depth: 1,0,0,Draw,2024-10-15 18:31:54
+22,MiniMax w/ CustomHeuristic,RandomPlayer,24,23,Depth: 2,Zufall,0,0,MiniMax w/ CustomHeuristic,2024-10-15 18:31:54
+23,RandomPlayer,MiniMax w/ CustomHeuristic,28,27,Zufall,Depth: 3,0,0,Draw,2024-10-15 18:31:54
+24,MiniMax w/ CustomHeuristic,RandomPlayer,19,18,Depth: 4,Zufall,1,0,MiniMax w/ CustomHeuristic,2024-10-15 18:31:54
+25,RandomPlayer,MiniMax w/ CustomHeuristic,27,26,Zufall,Depth: 5,0,1,Draw,2024-10-15 18:31:54
+26,MiniMax w/ CustomHeuristic,RandomPlayer,25,24,Depth: 6,Zufall,13,0,MiniMax w/ CustomHeuristic,2024-10-15 18:31:55
+27,RandomPlayer,MiniMax w/ CustomHeuristic,23,23,Zufall,Depth: 7,0,55,MiniMax w/ CustomHeuristic,2024-10-15 18:31:56
+28,MiniMax w/ CustomHeuristic,RandomPlayer,25,24,Depth: 8,Zufall,3263,0,MiniMax w/ CustomHeuristic,2024-10-15 18:33:17
+29,RandomPlayer,MiniMax w/ CustomHeuristic,26,25,Zufall,Depth: 9,0,1253,RandomPlayer,2024-10-15 18:33:49
+30,MiniMax w/ CustomHeuristic,RandomPlayer,19,18,Depth: 0,Zufall,0,0,MiniMax w/ CustomHeuristic,2024-10-15 18:33:49
+31,RandomPlayer,MiniMax w/ CustomHeuristic,14,14,Zufall,Depth: 1,0,0,MiniMax w/ CustomHeuristic,2024-10-15 18:33:49
+32,MiniMax w/ CustomHeuristic,RandomPlayer,25,24,Depth: 2,Zufall,0,0,MiniMax w/ CustomHeuristic,2024-10-15 18:33:49
+33,RandomPlayer,MiniMax w/ CustomHeuristic,19,19,Zufall,Depth: 3,0,0,MiniMax w/ CustomHeuristic,2024-10-15 18:33:49
+34,MiniMax w/ CustomHeuristic,RandomPlayer,15,14,Depth: 4,Zufall,3,0,MiniMax w/ CustomHeuristic,2024-10-15 18:33:49
+35,RandomPlayer,MiniMax w/ CustomHeuristic,25,25,Zufall,Depth: 5,0,3,MiniMax w/ CustomHeuristic,2024-10-15 18:33:49
+36,MiniMax w/ CustomHeuristic,RandomPlayer,27,27,Depth: 6,Zufall,33,0,RandomPlayer,2024-10-15 18:33:50
+37,RandomPlayer,MiniMax w/ CustomHeuristic,24,24,Zufall,Depth: 7,0,91,MiniMax w/ CustomHeuristic,2024-10-15 18:33:52
+38,MiniMax w/ CustomHeuristic,RandomPlayer,20,19,Depth: 8,Zufall,1107,0,MiniMax w/ CustomHeuristic,2024-10-15 18:34:14
+39,RandomPlayer,MiniMax w/ CustomHeuristic,19,19,Zufall,Depth: 9,0,424,MiniMax w/ CustomHeuristic,2024-10-15 18:34:22
+40,MiniMax w/ CustomHeuristic,RandomPlayer,20,19,Depth: 0,Zufall,0,0,MiniMax w/ CustomHeuristic,2024-10-15 18:34:22
+41,RandomPlayer,MiniMax w/ CustomHeuristic,20,19,Zufall,Depth: 1,0,0,RandomPlayer,2024-10-15 18:34:22
+42,MiniMax w/ CustomHeuristic,RandomPlayer,24,23,Depth: 2,Zufall,0,0,MiniMax w/ CustomHeuristic,2024-10-15 18:34:22
+43,RandomPlayer,MiniMax w/ CustomHeuristic,27,26,Zufall,Depth: 3,0,0,Draw,2024-10-15 18:34:22
+44,MiniMax w/ CustomHeuristic,RandomPlayer,24,23,Depth: 4,Zufall,1,0,MiniMax w/ CustomHeuristic,2024-10-15 18:34:22
+45,RandomPlayer,MiniMax w/ CustomHeuristic,19,19,Zufall,Depth: 5,0,13,MiniMax w/ CustomHeuristic,2024-10-15 18:34:23
+46,MiniMax w/ CustomHeuristic,RandomPlayer,18,17,Depth: 6,Zufall,31,0,MiniMax w/ CustomHeuristic,2024-10-15 18:34:23
+47,RandomPlayer,MiniMax w/ CustomHeuristic,26,26,Zufall,Depth: 7,0,42,MiniMax w/ CustomHeuristic,2024-10-15 18:34:24
+48,MiniMax w/ CustomHeuristic,RandomPlayer,27,27,Depth: 8,Zufall,2884,0,RandomPlayer,2024-10-15 18:35:42
+49,RandomPlayer,MiniMax w/ CustomHeuristic,26,26,Zufall,Depth: 9,0,1781,MiniMax w/ CustomHeuristic,2024-10-15 18:36:29
+50,MiniMax w/ CustomHeuristic,RandomPlayer,22,21,Depth: 0,Zufall,0,0,MiniMax w/ CustomHeuristic,2024-10-15 18:36:29
+51,RandomPlayer,MiniMax w/ CustomHeuristic,20,19,Zufall,Depth: 1,0,0,RandomPlayer,2024-10-15 18:36:29
+52,MiniMax w/ CustomHeuristic,RandomPlayer,24,23,Depth: 2,Zufall,0,0,MiniMax w/ CustomHeuristic,2024-10-15 18:36:29
+53,RandomPlayer,MiniMax w/ CustomHeuristic,26,26,Zufall,Depth: 3,0,0,MiniMax w/ CustomHeuristic,2024-10-15 18:36:29
+54,MiniMax w/ CustomHeuristic,RandomPlayer,22,21,Depth: 4,Zufall,1,0,MiniMax w/ CustomHeuristic,2024-10-15 18:36:29
+55,RandomPlayer,MiniMax w/ CustomHeuristic,26,26,Zufall,Depth: 5,0,2,MiniMax w/ CustomHeuristic,2024-10-15 18:36:29
+56,MiniMax w/ CustomHeuristic,RandomPlayer,23,22,Depth: 6,Zufall,21,0,MiniMax w/ CustomHeuristic,2024-10-15 18:36:29
+57,RandomPlayer,MiniMax w/ CustomHeuristic,26,26,Zufall,Depth: 7,0,44,MiniMax w/ CustomHeuristic,2024-10-15 18:36:30
+58,MiniMax w/ CustomHeuristic,RandomPlayer,24,23,Depth: 8,Zufall,98,0,MiniMax w/ CustomHeuristic,2024-10-15 18:36:33
+59,RandomPlayer,MiniMax w/ CustomHeuristic,24,24,Zufall,Depth: 9,0,961,MiniMax w/ CustomHeuristic,2024-10-15 18:36:56
+60,MiniMax w/ CustomHeuristic,RandomPlayer,16,15,Depth: 0,Zufall,0,0,MiniMax w/ CustomHeuristic,2024-10-15 18:36:56
+61,RandomPlayer,MiniMax w/ CustomHeuristic,16,15,Zufall,Depth: 1,0,0,RandomPlayer,2024-10-15 18:36:56
+62,MiniMax w/ CustomHeuristic,RandomPlayer,19,18,Depth: 2,Zufall,0,0,MiniMax w/ CustomHeuristic,2024-10-15 18:36:56
+63,RandomPlayer,MiniMax w/ CustomHeuristic,14,14,Zufall,Depth: 3,0,0,MiniMax w/ CustomHeuristic,2024-10-15 18:36:56
+64,MiniMax w/ CustomHeuristic,RandomPlayer,18,17,Depth: 4,Zufall,1,0,MiniMax w/ CustomHeuristic,2024-10-15 18:36:56
+65,RandomPlayer,MiniMax w/ CustomHeuristic,26,25,Zufall,Depth: 5,0,6,Draw,2024-10-15 18:36:56
+66,MiniMax w/ CustomHeuristic,RandomPlayer,26,25,Depth: 6,Zufall,16,0,MiniMax w/ CustomHeuristic,2024-10-15 18:36:56
+67,RandomPlayer,MiniMax w/ CustomHeuristic,23,23,Zufall,Depth: 7,0,20,MiniMax w/ CustomHeuristic,2024-10-15 18:36:57
+68,MiniMax w/ CustomHeuristic,RandomPlayer,23,22,Depth: 8,Zufall,322,0,MiniMax w/ CustomHeuristic,2024-10-15 18:37:04
+69,RandomPlayer,MiniMax w/ CustomHeuristic,21,21,Zufall,Depth: 9,0,504,MiniMax w/ CustomHeuristic,2024-10-15 18:37:15
+70,MiniMax w/ CustomHeuristic,RandomPlayer,24,23,Depth: 0,Zufall,0,0,MiniMax w/ CustomHeuristic,2024-10-15 18:37:15
+71,RandomPlayer,MiniMax w/ CustomHeuristic,19,19,Zufall,Depth: 1,0,0,MiniMax w/ CustomHeuristic,2024-10-15 18:37:15
+72,MiniMax w/ CustomHeuristic,RandomPlayer,20,19,Depth: 2,Zufall,0,0,MiniMax w/ CustomHeuristic,2024-10-15 18:37:15
+73,RandomPlayer,MiniMax w/ CustomHeuristic,26,25,Zufall,Depth: 3,0,0,RandomPlayer,2024-10-15 18:37:15
+74,MiniMax w/ CustomHeuristic,RandomPlayer,25,25,Depth: 4,Zufall,1,0,RandomPlayer,2024-10-15 18:37:15
+75,RandomPlayer,MiniMax w/ CustomHeuristic,26,26,Zufall,Depth: 5,0,2,MiniMax w/ CustomHeuristic,2024-10-15 18:37:15
+76,MiniMax w/ CustomHeuristic,RandomPlayer,29,28,Depth: 6,Zufall,42,0,MiniMax w/ CustomHeuristic,2024-10-15 18:37:16
+77,RandomPlayer,MiniMax w/ CustomHeuristic,20,19,Zufall,Depth: 7,0,229,RandomPlayer,2024-10-15 18:37:21
+78,MiniMax w/ CustomHeuristic,RandomPlayer,17,16,Depth: 8,Zufall,401,0,MiniMax w/ CustomHeuristic,2024-10-15 18:37:27
+79,RandomPlayer,MiniMax w/ CustomHeuristic,27,26,Zufall,Depth: 9,0,246,RandomPlayer,2024-10-15 18:37:34
+80,MiniMax w/ CustomHeuristic,RandomPlayer,19,18,Depth: 0,Zufall,0,0,MiniMax w/ CustomHeuristic,2024-10-15 18:37:34
+81,RandomPlayer,MiniMax w/ CustomHeuristic,17,17,Zufall,Depth: 1,0,0,MiniMax w/ CustomHeuristic,2024-10-15 18:37:34
+82,MiniMax w/ CustomHeuristic,RandomPlayer,20,19,Depth: 2,Zufall,0,0,MiniMax w/ CustomHeuristic,2024-10-15 18:37:34
+83,RandomPlayer,MiniMax w/ CustomHeuristic,15,15,Zufall,Depth: 3,0,0,MiniMax w/ CustomHeuristic,2024-10-15 18:37:34
+84,MiniMax w/ CustomHeuristic,RandomPlayer,15,14,Depth: 4,Zufall,2,0,MiniMax w/ CustomHeuristic,2024-10-15 18:37:34
+85,RandomPlayer,MiniMax w/ CustomHeuristic,23,23,Zufall,Depth: 5,0,18,MiniMax w/ CustomHeuristic,2024-10-15 18:37:34
+86,MiniMax w/ CustomHeuristic,RandomPlayer,20,19,Depth: 6,Zufall,31,0,MiniMax w/ CustomHeuristic,2024-10-15 18:37:35
+87,RandomPlayer,MiniMax w/ CustomHeuristic,18,18,Zufall,Depth: 7,0,23,MiniMax w/ CustomHeuristic,2024-10-15 18:37:35
+88,MiniMax w/ CustomHeuristic,RandomPlayer,30,29,Depth: 8,Zufall,193,0,MiniMax w/ CustomHeuristic,2024-10-15 18:37:41
+89,RandomPlayer,MiniMax w/ CustomHeuristic,24,24,Zufall,Depth: 9,0,1576,MiniMax w/ CustomHeuristic,2024-10-15 18:38:19
+90,MiniMax w/ CustomHeuristic,RandomPlayer,19,18,Depth: 0,Zufall,0,0,MiniMax w/ CustomHeuristic,2024-10-15 18:38:19
+91,RandomPlayer,MiniMax w/ CustomHeuristic,20,20,Zufall,Depth: 1,0,0,MiniMax w/ CustomHeuristic,2024-10-15 18:38:19
+92,MiniMax w/ CustomHeuristic,RandomPlayer,28,28,Depth: 2,Zufall,0,0,Draw,2024-10-15 18:38:19
+93,RandomPlayer,MiniMax w/ CustomHeuristic,19,19,Zufall,Depth: 3,0,0,MiniMax w/ CustomHeuristic,2024-10-15 18:38:19
+94,MiniMax w/ CustomHeuristic,RandomPlayer,22,21,Depth: 4,Zufall,1,0,MiniMax w/ CustomHeuristic,2024-10-15 18:38:19
+95,RandomPlayer,MiniMax w/ CustomHeuristic,22,22,Zufall,Depth: 5,0,32,MiniMax w/ CustomHeuristic,2024-10-15 18:38:20
+96,MiniMax w/ CustomHeuristic,RandomPlayer,25,24,Depth: 6,Zufall,54,0,MiniMax w/ CustomHeuristic,2024-10-15 18:38:21
+97,RandomPlayer,MiniMax w/ CustomHeuristic,28,27,Zufall,Depth: 7,0,124,RandomPlayer,2024-10-15 18:38:25
+98,MiniMax w/ CustomHeuristic,RandomPlayer,23,22,Depth: 8,Zufall,1587,0,MiniMax w/ CustomHeuristic,2024-10-15 18:39:01
+99,RandomPlayer,MiniMax w/ CustomHeuristic,27,27,Zufall,Depth: 9,0,4160,MiniMax w/ CustomHeuristic,2024-10-15 18:40:53
+100,MiniMax w/ CustomHeuristic,RandomPlayer,22,22,Depth: 0,Zufall,0,0,RandomPlayer,2024-10-15 18:40:53
+101,RandomPlayer,MiniMax w/ CustomHeuristic,22,22,Zufall,Depth: 1,0,0,MiniMax w/ CustomHeuristic,2024-10-15 18:40:53
+102,MiniMax w/ CustomHeuristic,RandomPlayer,18,17,Depth: 2,Zufall,0,0,MiniMax w/ CustomHeuristic,2024-10-15 18:40:53
+103,RandomPlayer,MiniMax w/ CustomHeuristic,19,19,Zufall,Depth: 3,0,0,MiniMax w/ CustomHeuristic,2024-10-15 18:40:53
+104,MiniMax w/ CustomHeuristic,RandomPlayer,28,27,Depth: 4,Zufall,1,0,MiniMax w/ CustomHeuristic,2024-10-15 18:40:53
+105,RandomPlayer,MiniMax w/ CustomHeuristic,21,21,Zufall,Depth: 5,0,3,MiniMax w/ CustomHeuristic,2024-10-15 18:40:54
+106,MiniMax w/ CustomHeuristic,RandomPlayer,22,21,Depth: 6,Zufall,22,0,MiniMax w/ CustomHeuristic,2024-10-15 18:40:54
+107,RandomPlayer,MiniMax w/ CustomHeuristic,28,28,Zufall,Depth: 7,0,28,MiniMax w/ CustomHeuristic,2024-10-15 18:40:55
+108,MiniMax w/ CustomHeuristic,RandomPlayer,21,20,Depth: 8,Zufall,268,0,MiniMax w/ CustomHeuristic,2024-10-15 18:41:00
+109,RandomPlayer,MiniMax w/ CustomHeuristic,21,21,Zufall,Depth: 9,0,2259,MiniMax w/ CustomHeuristic,2024-10-15 18:41:48
+110,MiniMax w/ CustomHeuristic,RandomPlayer,26,25,Depth: 0,Zufall,0,0,MiniMax w/ CustomHeuristic,2024-10-15 18:41:48
+111,RandomPlayer,MiniMax w/ CustomHeuristic,17,17,Zufall,Depth: 1,0,0,MiniMax w/ CustomHeuristic,2024-10-15 18:41:48
+112,MiniMax w/ CustomHeuristic,RandomPlayer,16,15,Depth: 2,Zufall,0,0,MiniMax w/ CustomHeuristic,2024-10-15 18:41:48
+113,RandomPlayer,MiniMax w/ CustomHeuristic,18,18,Zufall,Depth: 3,0,0,MiniMax w/ CustomHeuristic,2024-10-15 18:41:48
+114,MiniMax w/ CustomHeuristic,RandomPlayer,20,20,Depth: 4,Zufall,1,0,RandomPlayer,2024-10-15 18:41:48
+115,RandomPlayer,MiniMax w/ CustomHeuristic,26,25,Zufall,Depth: 5,0,1,RandomPlayer,2024-10-15 18:41:48
+116,MiniMax w/ CustomHeuristic,RandomPlayer,22,22,Depth: 6,Zufall,41,0,RandomPlayer,2024-10-15 18:41:49
+117,RandomPlayer,MiniMax w/ CustomHeuristic,20,19,Zufall,Depth: 7,0,292,RandomPlayer,2024-10-15 18:41:54
+118,MiniMax w/ CustomHeuristic,RandomPlayer,21,20,Depth: 8,Zufall,717,0,MiniMax w/ CustomHeuristic,2024-10-15 18:42:10
+119,RandomPlayer,MiniMax w/ CustomHeuristic,30,30,Zufall,Depth: 9,0,847,MiniMax w/ CustomHeuristic,2024-10-15 18:42:35
+120,MiniMax w/ CustomHeuristic,RandomPlayer,23,22,Depth: 0,Zufall,0,0,MiniMax w/ CustomHeuristic,2024-10-15 18:42:35
+121,RandomPlayer,MiniMax w/ CustomHeuristic,17,17,Zufall,Depth: 1,0,0,MiniMax w/ CustomHeuristic,2024-10-15 18:42:35
+122,MiniMax w/ CustomHeuristic,RandomPlayer,22,21,Depth: 2,Zufall,0,0,MiniMax w/ CustomHeuristic,2024-10-15 18:42:35
+123,RandomPlayer,MiniMax w/ CustomHeuristic,20,20,Zufall,Depth: 3,0,0,MiniMax w/ CustomHeuristic,2024-10-15 18:42:35
+124,MiniMax w/ CustomHeuristic,RandomPlayer,29,29,Depth: 4,Zufall,1,0,Draw,2024-10-15 18:42:35
+125,RandomPlayer,MiniMax w/ CustomHeuristic,19,19,Zufall,Depth: 5,0,3,MiniMax w/ CustomHeuristic,2024-10-15 18:42:35
+126,MiniMax w/ CustomHeuristic,RandomPlayer,24,23,Depth: 6,Zufall,14,0,MiniMax w/ CustomHeuristic,2024-10-15 18:42:35
+127,RandomPlayer,MiniMax w/ CustomHeuristic,21,21,Zufall,Depth: 7,0,202,MiniMax w/ CustomHeuristic,2024-10-15 18:42:40
+128,MiniMax w/ CustomHeuristic,RandomPlayer,26,25,Depth: 8,Zufall,1468,0,MiniMax w/ CustomHeuristic,2024-10-15 18:43:18
+129,RandomPlayer,MiniMax w/ CustomHeuristic,20,20,Zufall,Depth: 9,0,536,MiniMax w/ CustomHeuristic,2024-10-15 18:43:29
+130,MiniMax w/ CustomHeuristic,RandomPlayer,17,16,Depth: 0,Zufall,0,0,MiniMax w/ CustomHeuristic,2024-10-15 18:43:29
+131,RandomPlayer,MiniMax w/ CustomHeuristic,26,25,Zufall,Depth: 1,0,0,Draw,2024-10-15 18:43:29
+132,MiniMax w/ CustomHeuristic,RandomPlayer,23,22,Depth: 2,Zufall,0,0,MiniMax w/ CustomHeuristic,2024-10-15 18:43:29
+133,RandomPlayer,MiniMax w/ CustomHeuristic,16,16,Zufall,Depth: 3,0,0,MiniMax w/ CustomHeuristic,2024-10-15 18:43:29
+134,MiniMax w/ CustomHeuristic,RandomPlayer,26,26,Depth: 4,Zufall,1,0,RandomPlayer,2024-10-15 18:43:29
+135,RandomPlayer,MiniMax w/ CustomHeuristic,24,24,Zufall,Depth: 5,0,10,MiniMax w/ CustomHeuristic,2024-10-15 18:43:29
+136,MiniMax w/ CustomHeuristic,RandomPlayer,24,23,Depth: 6,Zufall,51,0,MiniMax w/ CustomHeuristic,2024-10-15 18:43:30
+137,RandomPlayer,MiniMax w/ CustomHeuristic,23,23,Zufall,Depth: 7,0,20,MiniMax w/ CustomHeuristic,2024-10-15 18:43:31
+138,MiniMax w/ CustomHeuristic,RandomPlayer,22,21,Depth: 8,Zufall,430,0,MiniMax w/ CustomHeuristic,2024-10-15 18:43:40
+139,RandomPlayer,MiniMax w/ CustomHeuristic,26,26,Zufall,Depth: 9,0,334,MiniMax w/ CustomHeuristic,2024-10-15 18:43:49
+140,MiniMax w/ CustomHeuristic,RandomPlayer,22,21,Depth: 0,Zufall,0,0,MiniMax w/ CustomHeuristic,2024-10-15 18:43:49
+141,RandomPlayer,MiniMax w/ CustomHeuristic,15,15,Zufall,Depth: 1,0,0,MiniMax w/ CustomHeuristic,2024-10-15 18:43:49
+142,MiniMax w/ CustomHeuristic,RandomPlayer,19,18,Depth: 2,Zufall,0,0,MiniMax w/ CustomHeuristic,2024-10-15 18:43:49
+143,RandomPlayer,MiniMax w/ CustomHeuristic,22,22,Zufall,Depth: 3,0,0,MiniMax w/ CustomHeuristic,2024-10-15 18:43:49
+144,MiniMax w/ CustomHeuristic,RandomPlayer,17,16,Depth: 4,Zufall,4,0,MiniMax w/ CustomHeuristic,2024-10-15 18:43:49
+145,RandomPlayer,MiniMax w/ CustomHeuristic,23,23,Zufall,Depth: 5,0,5,MiniMax w/ CustomHeuristic,2024-10-15 18:43:49
+146,MiniMax w/ CustomHeuristic,RandomPlayer,21,20,Depth: 6,Zufall,12,0,MiniMax w/ CustomHeuristic,2024-10-15 18:43:49
+147,RandomPlayer,MiniMax w/ CustomHeuristic,21,21,Zufall,Depth: 7,0,75,MiniMax w/ CustomHeuristic,2024-10-15 18:43:51
+148,MiniMax w/ CustomHeuristic,RandomPlayer,27,26,Depth: 8,Zufall,1079,0,MiniMax w/ CustomHeuristic,2024-10-15 18:44:20
+149,RandomPlayer,MiniMax w/ CustomHeuristic,20,20,Zufall,Depth: 9,0,681,MiniMax w/ CustomHeuristic,2024-10-15 18:44:34
+150,MiniMax w/ CustomHeuristic,RandomPlayer,20,19,Depth: 0,Zufall,0,0,MiniMax w/ CustomHeuristic,2024-10-15 18:44:34
+151,RandomPlayer,MiniMax w/ CustomHeuristic,16,16,Zufall,Depth: 1,0,0,MiniMax w/ CustomHeuristic,2024-10-15 18:44:34
+152,MiniMax w/ CustomHeuristic,RandomPlayer,24,23,Depth: 2,Zufall,0,0,MiniMax w/ CustomHeuristic,2024-10-15 18:44:34
+153,RandomPlayer,MiniMax w/ CustomHeuristic,21,21,Zufall,Depth: 3,0,0,MiniMax w/ CustomHeuristic,2024-10-15 18:44:34
+154,MiniMax w/ CustomHeuristic,RandomPlayer,18,17,Depth: 4,Zufall,2,0,MiniMax w/ CustomHeuristic,2024-10-15 18:44:34
+155,RandomPlayer,MiniMax w/ CustomHeuristic,15,14,Zufall,Depth: 5,0,42,RandomPlayer,2024-10-15 18:44:34
+156,MiniMax w/ CustomHeuristic,RandomPlayer,19,18,Depth: 6,Zufall,15,0,MiniMax w/ CustomHeuristic,2024-10-15 18:44:35
+157,RandomPlayer,MiniMax w/ CustomHeuristic,26,26,Zufall,Depth: 7,0,88,MiniMax w/ CustomHeuristic,2024-10-15 18:44:37
+158,MiniMax w/ CustomHeuristic,RandomPlayer,20,19,Depth: 8,Zufall,943,0,MiniMax w/ CustomHeuristic,2024-10-15 18:44:56
+159,RandomPlayer,MiniMax w/ CustomHeuristic,23,23,Zufall,Depth: 9,0,1352,MiniMax w/ CustomHeuristic,2024-10-15 18:45:27
+160,MiniMax w/ CustomHeuristic,RandomPlayer,27,27,Depth: 0,Zufall,0,0,Draw,2024-10-15 18:45:27
+161,RandomPlayer,MiniMax w/ CustomHeuristic,23,23,Zufall,Depth: 1,0,0,MiniMax w/ CustomHeuristic,2024-10-15 18:45:27
+162,MiniMax w/ CustomHeuristic,RandomPlayer,24,23,Depth: 2,Zufall,0,0,MiniMax w/ CustomHeuristic,2024-10-15 18:45:27
+163,RandomPlayer,MiniMax w/ CustomHeuristic,21,21,Zufall,Depth: 3,0,0,MiniMax w/ CustomHeuristic,2024-10-15 18:45:27
+164,MiniMax w/ CustomHeuristic,RandomPlayer,24,24,Depth: 4,Zufall,1,0,RandomPlayer,2024-10-15 18:45:27
+165,RandomPlayer,MiniMax w/ CustomHeuristic,20,20,Zufall,Depth: 5,0,7,MiniMax w/ CustomHeuristic,2024-10-15 18:45:27
+166,MiniMax w/ CustomHeuristic,RandomPlayer,20,19,Depth: 6,Zufall,53,0,MiniMax w/ CustomHeuristic,2024-10-15 18:45:28
+167,RandomPlayer,MiniMax w/ CustomHeuristic,28,27,Zufall,Depth: 7,0,44,Draw,2024-10-15 18:45:29
+168,MiniMax w/ CustomHeuristic,RandomPlayer,26,25,Depth: 8,Zufall,135,0,MiniMax w/ CustomHeuristic,2024-10-15 18:45:33
+169,RandomPlayer,MiniMax w/ CustomHeuristic,25,24,Zufall,Depth: 9,0,1665,RandomPlayer,2024-10-15 18:46:13
+170,MiniMax w/ CustomHeuristic,RandomPlayer,19,18,Depth: 0,Zufall,0,0,MiniMax w/ CustomHeuristic,2024-10-15 18:46:13
+171,RandomPlayer,MiniMax w/ CustomHeuristic,21,21,Zufall,Depth: 1,0,0,MiniMax w/ CustomHeuristic,2024-10-15 18:46:13
+172,MiniMax w/ CustomHeuristic,RandomPlayer,18,17,Depth: 2,Zufall,0,0,MiniMax w/ CustomHeuristic,2024-10-15 18:46:13
+173,RandomPlayer,MiniMax w/ CustomHeuristic,20,20,Zufall,Depth: 3,0,0,MiniMax w/ CustomHeuristic,2024-10-15 18:46:13
+174,MiniMax w/ CustomHeuristic,RandomPlayer,28,28,Depth: 4,Zufall,0,0,Draw,2024-10-15 18:46:13
+175,RandomPlayer,MiniMax w/ CustomHeuristic,27,27,Zufall,Depth: 5,0,3,MiniMax w/ CustomHeuristic,2024-10-15 18:46:13
+176,MiniMax w/ CustomHeuristic,RandomPlayer,14,13,Depth: 6,Zufall,36,0,MiniMax w/ CustomHeuristic,2024-10-15 18:46:14
+177,RandomPlayer,MiniMax w/ CustomHeuristic,16,16,Zufall,Depth: 7,0,67,MiniMax w/ CustomHeuristic,2024-10-15 18:46:15
+178,MiniMax w/ CustomHeuristic,RandomPlayer,23,22,Depth: 8,Zufall,453,0,MiniMax w/ CustomHeuristic,2024-10-15 18:46:25
+179,RandomPlayer,MiniMax w/ CustomHeuristic,23,22,Zufall,Depth: 9,0,583,RandomPlayer,2024-10-15 18:46:38
+180,MiniMax w/ CustomHeuristic,RandomPlayer,21,20,Depth: 0,Zufall,0,0,MiniMax w/ CustomHeuristic,2024-10-15 18:46:38
+181,RandomPlayer,MiniMax w/ CustomHeuristic,19,18,Zufall,Depth: 1,0,0,RandomPlayer,2024-10-15 18:46:38
+182,MiniMax w/ CustomHeuristic,RandomPlayer,21,20,Depth: 2,Zufall,0,0,MiniMax w/ CustomHeuristic,2024-10-15 18:46:38
+183,RandomPlayer,MiniMax w/ CustomHeuristic,22,22,Zufall,Depth: 3,0,0,MiniMax w/ CustomHeuristic,2024-10-15 18:46:38
+184,MiniMax w/ CustomHeuristic,RandomPlayer,15,15,Depth: 4,Zufall,6,0,RandomPlayer,2024-10-15 18:46:38
+185,RandomPlayer,MiniMax w/ CustomHeuristic,20,20,Zufall,Depth: 5,0,3,MiniMax w/ CustomHeuristic,2024-10-15 18:46:38
+186,MiniMax w/ CustomHeuristic,RandomPlayer,18,17,Depth: 6,Zufall,31,0,MiniMax w/ CustomHeuristic,2024-10-15 18:46:39
+187,RandomPlayer,MiniMax w/ CustomHeuristic,21,21,Zufall,Depth: 7,0,40,MiniMax w/ CustomHeuristic,2024-10-15 18:46:40
+188,MiniMax w/ CustomHeuristic,RandomPlayer,22,21,Depth: 8,Zufall,1007,0,MiniMax w/ CustomHeuristic,2024-10-15 18:47:02
+189,RandomPlayer,MiniMax w/ CustomHeuristic,23,22,Zufall,Depth: 9,0,3564,RandomPlayer,2024-10-15 18:48:20
+190,MiniMax w/ CustomHeuristic,RandomPlayer,24,23,Depth: 0,Zufall,0,0,MiniMax w/ CustomHeuristic,2024-10-15 18:48:20
+191,RandomPlayer,MiniMax w/ CustomHeuristic,16,16,Zufall,Depth: 1,0,0,MiniMax w/ CustomHeuristic,2024-10-15 18:48:20
+192,MiniMax w/ CustomHeuristic,RandomPlayer,22,21,Depth: 2,Zufall,0,0,MiniMax w/ CustomHeuristic,2024-10-15 18:48:20
+193,RandomPlayer,MiniMax w/ CustomHeuristic,16,16,Zufall,Depth: 3,0,0,MiniMax w/ CustomHeuristic,2024-10-15 18:48:20
+194,MiniMax w/ CustomHeuristic,RandomPlayer,17,16,Depth: 4,Zufall,1,0,MiniMax w/ CustomHeuristic,2024-10-15 18:48:20
+195,RandomPlayer,MiniMax w/ CustomHeuristic,17,17,Zufall,Depth: 5,0,3,MiniMax w/ CustomHeuristic,2024-10-15 18:48:20
+196,MiniMax w/ CustomHeuristic,RandomPlayer,29,28,Depth: 6,Zufall,19,0,MiniMax w/ CustomHeuristic,2024-10-15 18:48:21
+197,RandomPlayer,MiniMax w/ CustomHeuristic,28,28,Zufall,Depth: 7,0,51,MiniMax w/ CustomHeuristic,2024-10-15 18:48:22
+198,MiniMax w/ CustomHeuristic,RandomPlayer,20,19,Depth: 8,Zufall,98,0,MiniMax w/ CustomHeuristic,2024-10-15 18:48:24
+199,RandomPlayer,MiniMax w/ CustomHeuristic,28,28,Zufall,Depth: 9,0,673,MiniMax w/ CustomHeuristic,2024-10-15 18:48:43
+200,MiniMax w/ CustomHeuristic,RandomPlayer,24,23,Depth: 0,Zufall,0,0,MiniMax w/ CustomHeuristic,2024-10-15 18:48:43
+201,RandomPlayer,MiniMax w/ CustomHeuristic,19,19,Zufall,Depth: 1,0,0,MiniMax w/ CustomHeuristic,2024-10-15 18:48:43
+202,MiniMax w/ CustomHeuristic,RandomPlayer,23,22,Depth: 2,Zufall,0,0,MiniMax w/ CustomHeuristic,2024-10-15 18:48:43
+203,RandomPlayer,MiniMax w/ CustomHeuristic,15,15,Zufall,Depth: 3,0,1,MiniMax w/ CustomHeuristic,2024-10-15 18:48:43
+204,MiniMax w/ CustomHeuristic,RandomPlayer,25,24,Depth: 4,Zufall,7,0,MiniMax w/ CustomHeuristic,2024-10-15 18:48:43
+205,RandomPlayer,MiniMax w/ CustomHeuristic,20,20,Zufall,Depth: 5,0,8,MiniMax w/ CustomHeuristic,2024-10-15 18:48:43
+206,MiniMax w/ CustomHeuristic,RandomPlayer,23,22,Depth: 6,Zufall,39,0,MiniMax w/ CustomHeuristic,2024-10-15 18:48:44
+207,RandomPlayer,MiniMax w/ CustomHeuristic,21,21,Zufall,Depth: 7,0,44,MiniMax w/ CustomHeuristic,2024-10-15 18:48:45
+208,MiniMax w/ CustomHeuristic,RandomPlayer,24,23,Depth: 8,Zufall,625,0,MiniMax w/ CustomHeuristic,2024-10-15 18:49:00
+209,RandomPlayer,MiniMax w/ CustomHeuristic,25,25,Zufall,Depth: 9,0,1248,MiniMax w/ CustomHeuristic,2024-10-15 18:49:31
+210,MiniMax w/ CustomHeuristic,RandomPlayer,24,24,Depth: 0,Zufall,0,0,Draw,2024-10-15 18:49:31
+211,RandomPlayer,MiniMax w/ CustomHeuristic,22,21,Zufall,Depth: 1,0,0,RandomPlayer,2024-10-15 18:49:31
+212,MiniMax w/ CustomHeuristic,RandomPlayer,20,19,Depth: 2,Zufall,0,0,MiniMax w/ CustomHeuristic,2024-10-15 18:49:31
+213,RandomPlayer,MiniMax w/ CustomHeuristic,18,18,Zufall,Depth: 3,0,0,MiniMax w/ CustomHeuristic,2024-10-15 18:49:32
+214,MiniMax w/ CustomHeuristic,RandomPlayer,19,18,Depth: 4,Zufall,1,0,MiniMax w/ CustomHeuristic,2024-10-15 18:49:32
+215,RandomPlayer,MiniMax w/ CustomHeuristic,21,21,Zufall,Depth: 5,0,8,MiniMax w/ CustomHeuristic,2024-10-15 18:49:32
+216,MiniMax w/ CustomHeuristic,RandomPlayer,24,23,Depth: 6,Zufall,104,0,MiniMax w/ CustomHeuristic,2024-10-15 18:49:34
+217,RandomPlayer,MiniMax w/ CustomHeuristic,16,16,Zufall,Depth: 7,0,80,MiniMax w/ CustomHeuristic,2024-10-15 18:49:35
+218,MiniMax w/ CustomHeuristic,RandomPlayer,20,19,Depth: 8,Zufall,859,0,MiniMax w/ CustomHeuristic,2024-10-15 18:49:53
+219,RandomPlayer,MiniMax w/ CustomHeuristic,18,18,Zufall,Depth: 9,0,1875,MiniMax w/ CustomHeuristic,2024-10-15 18:50:26
+220,MiniMax w/ CustomHeuristic,RandomPlayer,20,19,Depth: 0,Zufall,0,0,MiniMax w/ CustomHeuristic,2024-10-15 18:50:26
+221,RandomPlayer,MiniMax w/ CustomHeuristic,18,18,Zufall,Depth: 1,0,0,MiniMax w/ CustomHeuristic,2024-10-15 18:50:26
+222,MiniMax w/ CustomHeuristic,RandomPlayer,25,24,Depth: 2,Zufall,0,0,MiniMax w/ CustomHeuristic,2024-10-15 18:50:26
+223,RandomPlayer,MiniMax w/ CustomHeuristic,27,26,Zufall,Depth: 3,0,0,RandomPlayer,2024-10-15 18:50:26
+224,MiniMax w/ CustomHeuristic,RandomPlayer,25,24,Depth: 4,Zufall,3,0,MiniMax w/ CustomHeuristic,2024-10-15 18:50:27
+225,RandomPlayer,MiniMax w/ CustomHeuristic,21,20,Zufall,Depth: 5,0,4,RandomPlayer,2024-10-15 18:50:27
+226,MiniMax w/ CustomHeuristic,RandomPlayer,24,23,Depth: 6,Zufall,26,0,MiniMax w/ CustomHeuristic,2024-10-15 18:50:27
+227,RandomPlayer,MiniMax w/ CustomHeuristic,19,19,Zufall,Depth: 7,0,39,MiniMax w/ CustomHeuristic,2024-10-15 18:50:28
+228,MiniMax w/ CustomHeuristic,RandomPlayer,21,20,Depth: 8,Zufall,306,0,MiniMax w/ CustomHeuristic,2024-10-15 18:50:34
+229,RandomPlayer,MiniMax w/ CustomHeuristic,25,25,Zufall,Depth: 9,0,757,MiniMax w/ CustomHeuristic,2024-10-15 18:50:53
+230,MiniMax w/ CustomHeuristic,RandomPlayer,22,22,Depth: 0,Zufall,0,0,RandomPlayer,2024-10-15 18:50:53
+231,RandomPlayer,MiniMax w/ CustomHeuristic,17,17,Zufall,Depth: 1,0,0,MiniMax w/ CustomHeuristic,2024-10-15 18:50:53
+232,MiniMax w/ CustomHeuristic,RandomPlayer,16,15,Depth: 2,Zufall,0,0,MiniMax w/ CustomHeuristic,2024-10-15 18:50:53
+233,RandomPlayer,MiniMax w/ CustomHeuristic,18,18,Zufall,Depth: 3,0,0,MiniMax w/ CustomHeuristic,2024-10-15 18:50:53
+234,MiniMax w/ CustomHeuristic,RandomPlayer,17,16,Depth: 4,Zufall,1,0,MiniMax w/ CustomHeuristic,2024-10-15 18:50:53
+235,RandomPlayer,MiniMax w/ CustomHeuristic,23,22,Zufall,Depth: 5,0,5,RandomPlayer,2024-10-15 18:50:54
+236,MiniMax w/ CustomHeuristic,RandomPlayer,22,21,Depth: 6,Zufall,31,0,MiniMax w/ CustomHeuristic,2024-10-15 18:50:54
+237,RandomPlayer,MiniMax w/ CustomHeuristic,23,22,Zufall,Depth: 7,0,89,RandomPlayer,2024-10-15 18:50:56
+238,MiniMax w/ CustomHeuristic,RandomPlayer,19,18,Depth: 8,Zufall,545,0,MiniMax w/ CustomHeuristic,2024-10-15 18:51:07
+239,RandomPlayer,MiniMax w/ CustomHeuristic,20,20,Zufall,Depth: 9,0,400,MiniMax w/ CustomHeuristic,2024-10-15 18:51:15
+240,MiniMax w/ CustomHeuristic,RandomPlayer,25,24,Depth: 0,Zufall,0,0,MiniMax w/ CustomHeuristic,2024-10-15 18:51:15
+241,RandomPlayer,MiniMax w/ CustomHeuristic,19,19,Zufall,Depth: 1,0,0,MiniMax w/ CustomHeuristic,2024-10-15 18:51:15
+242,MiniMax w/ CustomHeuristic,RandomPlayer,25,25,Depth: 2,Zufall,0,0,Draw,2024-10-15 18:51:15
+243,RandomPlayer,MiniMax w/ CustomHeuristic,16,16,Zufall,Depth: 3,0,0,MiniMax w/ CustomHeuristic,2024-10-15 18:51:15
+244,MiniMax w/ CustomHeuristic,RandomPlayer,19,18,Depth: 4,Zufall,1,0,MiniMax w/ CustomHeuristic,2024-10-15 18:51:15
+245,RandomPlayer,MiniMax w/ CustomHeuristic,29,29,Zufall,Depth: 5,0,1,MiniMax w/ CustomHeuristic,2024-10-15 18:51:15
+246,MiniMax w/ CustomHeuristic,RandomPlayer,27,26,Depth: 6,Zufall,9,0,MiniMax w/ CustomHeuristic,2024-10-15 18:51:15
+247,RandomPlayer,MiniMax w/ CustomHeuristic,26,26,Zufall,Depth: 7,0,21,MiniMax w/ CustomHeuristic,2024-10-15 18:51:16
+248,MiniMax w/ CustomHeuristic,RandomPlayer,19,18,Depth: 8,Zufall,525,0,MiniMax w/ CustomHeuristic,2024-10-15 18:51:26
+249,RandomPlayer,MiniMax w/ CustomHeuristic,26,26,Zufall,Depth: 9,0,520,MiniMax w/ CustomHeuristic,2024-10-15 18:51:39
+250,MiniMax w/ CustomHeuristic,RandomPlayer,22,21,Depth: 0,Zufall,0,0,MiniMax w/ CustomHeuristic,2024-10-15 18:51:39
+251,RandomPlayer,MiniMax w/ CustomHeuristic,18,18,Zufall,Depth: 1,0,0,MiniMax w/ CustomHeuristic,2024-10-15 18:51:39
+252,MiniMax w/ CustomHeuristic,RandomPlayer,18,17,Depth: 2,Zufall,0,0,MiniMax w/ CustomHeuristic,2024-10-15 18:51:39
+253,RandomPlayer,MiniMax w/ CustomHeuristic,22,22,Zufall,Depth: 3,0,0,MiniMax w/ CustomHeuristic,2024-10-15 18:51:39
+254,MiniMax w/ CustomHeuristic,RandomPlayer,19,18,Depth: 4,Zufall,1,0,MiniMax w/ CustomHeuristic,2024-10-15 18:51:39
+255,RandomPlayer,MiniMax w/ CustomHeuristic,30,30,Zufall,Depth: 5,0,1,MiniMax w/ CustomHeuristic,2024-10-15 18:51:39
+256,MiniMax w/ CustomHeuristic,RandomPlayer,18,17,Depth: 6,Zufall,23,0,MiniMax w/ CustomHeuristic,2024-10-15 18:51:40
+257,RandomPlayer,MiniMax w/ CustomHeuristic,18,18,Zufall,Depth: 7,0,59,MiniMax w/ CustomHeuristic,2024-10-15 18:51:41
+258,MiniMax w/ CustomHeuristic,RandomPlayer,27,26,Depth: 8,Zufall,295,0,MiniMax w/ CustomHeuristic,2024-10-15 18:51:49
+259,RandomPlayer,MiniMax w/ CustomHeuristic,25,25,Zufall,Depth: 9,0,1204,MiniMax w/ CustomHeuristic,2024-10-15 18:52:19
+260,MiniMax w/ CustomHeuristic,RandomPlayer,27,26,Depth: 0,Zufall,0,0,MiniMax w/ CustomHeuristic,2024-10-15 18:52:19
+261,RandomPlayer,MiniMax w/ CustomHeuristic,12,12,Zufall,Depth: 1,0,0,MiniMax w/ CustomHeuristic,2024-10-15 18:52:19
+262,MiniMax w/ CustomHeuristic,RandomPlayer,28,27,Depth: 2,Zufall,0,0,MiniMax w/ CustomHeuristic,2024-10-15 18:52:19
+263,RandomPlayer,MiniMax w/ CustomHeuristic,22,22,Zufall,Depth: 3,0,1,MiniMax w/ CustomHeuristic,2024-10-15 18:52:19
+264,MiniMax w/ CustomHeuristic,RandomPlayer,19,18,Depth: 4,Zufall,4,0,MiniMax w/ CustomHeuristic,2024-10-15 18:52:19
+265,RandomPlayer,MiniMax w/ CustomHeuristic,23,23,Zufall,Depth: 5,0,8,MiniMax w/ CustomHeuristic,2024-10-15 18:52:19
+266,MiniMax w/ CustomHeuristic,RandomPlayer,19,18,Depth: 6,Zufall,132,0,MiniMax w/ CustomHeuristic,2024-10-15 18:52:22
+267,RandomPlayer,MiniMax w/ CustomHeuristic,20,20,Zufall,Depth: 7,0,101,MiniMax w/ CustomHeuristic,2024-10-15 18:52:24
+268,MiniMax w/ CustomHeuristic,RandomPlayer,22,21,Depth: 8,Zufall,2174,0,MiniMax w/ CustomHeuristic,2024-10-15 18:53:11
+269,RandomPlayer,MiniMax w/ CustomHeuristic,21,21,Zufall,Depth: 9,0,2959,MiniMax w/ CustomHeuristic,2024-10-15 18:54:14
+270,MiniMax w/ CustomHeuristic,RandomPlayer,19,18,Depth: 0,Zufall,0,0,MiniMax w/ CustomHeuristic,2024-10-15 18:54:14
+271,RandomPlayer,MiniMax w/ CustomHeuristic,24,24,Zufall,Depth: 1,0,0,MiniMax w/ CustomHeuristic,2024-10-15 18:54:14
+272,MiniMax w/ CustomHeuristic,RandomPlayer,27,26,Depth: 2,Zufall,0,0,MiniMax w/ CustomHeuristic,2024-10-15 18:54:14
+273,RandomPlayer,MiniMax w/ CustomHeuristic,26,25,Zufall,Depth: 3,0,0,RandomPlayer,2024-10-15 18:54:14
+274,MiniMax w/ CustomHeuristic,RandomPlayer,24,23,Depth: 4,Zufall,3,0,MiniMax w/ CustomHeuristic,2024-10-15 18:54:14
+275,RandomPlayer,MiniMax w/ CustomHeuristic,19,19,Zufall,Depth: 5,0,6,MiniMax w/ CustomHeuristic,2024-10-15 18:54:14
+276,MiniMax w/ CustomHeuristic,RandomPlayer,21,20,Depth: 6,Zufall,14,0,MiniMax w/ CustomHeuristic,2024-10-15 18:54:14
+277,RandomPlayer,MiniMax w/ CustomHeuristic,26,25,Zufall,Depth: 7,0,135,RandomPlayer,2024-10-15 18:54:17
+278,MiniMax w/ CustomHeuristic,RandomPlayer,18,17,Depth: 8,Zufall,8794,0,MiniMax w/ CustomHeuristic,2024-10-15 18:56:56
+279,RandomPlayer,MiniMax w/ CustomHeuristic,23,23,Zufall,Depth: 9,0,1118,MiniMax w/ CustomHeuristic,2024-10-15 18:57:22
+280,MiniMax w/ CustomHeuristic,RandomPlayer,18,17,Depth: 0,Zufall,0,0,MiniMax w/ CustomHeuristic,2024-10-15 18:57:22
+281,RandomPlayer,MiniMax w/ CustomHeuristic,26,25,Zufall,Depth: 1,0,0,Draw,2024-10-15 18:57:22
+282,MiniMax w/ CustomHeuristic,RandomPlayer,29,28,Depth: 2,Zufall,0,0,MiniMax w/ CustomHeuristic,2024-10-15 18:57:22
+283,RandomPlayer,MiniMax w/ CustomHeuristic,21,20,Zufall,Depth: 3,0,0,RandomPlayer,2024-10-15 18:57:22
+284,MiniMax w/ CustomHeuristic,RandomPlayer,25,25,Depth: 4,Zufall,2,0,RandomPlayer,2024-10-15 18:57:22
+285,RandomPlayer,MiniMax w/ CustomHeuristic,22,22,Zufall,Depth: 5,0,5,MiniMax w/ CustomHeuristic,2024-10-15 18:57:22
+286,MiniMax w/ CustomHeuristic,RandomPlayer,16,15,Depth: 6,Zufall,37,0,MiniMax w/ CustomHeuristic,2024-10-15 18:57:22
+287,RandomPlayer,MiniMax w/ CustomHeuristic,26,26,Zufall,Depth: 7,0,144,MiniMax w/ CustomHeuristic,2024-10-15 18:57:26
+288,MiniMax w/ CustomHeuristic,RandomPlayer,24,23,Depth: 8,Zufall,120,0,MiniMax w/ CustomHeuristic,2024-10-15 18:57:29
+289,RandomPlayer,MiniMax w/ CustomHeuristic,25,25,Zufall,Depth: 9,0,2885,MiniMax w/ CustomHeuristic,2024-10-15 18:58:41
+290,MiniMax w/ CustomHeuristic,RandomPlayer,26,25,Depth: 0,Zufall,0,0,MiniMax w/ CustomHeuristic,2024-10-15 18:58:41
+291,RandomPlayer,MiniMax w/ CustomHeuristic,22,22,Zufall,Depth: 1,0,0,MiniMax w/ CustomHeuristic,2024-10-15 18:58:41
+292,MiniMax w/ CustomHeuristic,RandomPlayer,13,12,Depth: 2,Zufall,0,0,MiniMax w/ CustomHeuristic,2024-10-15 18:58:41
+293,RandomPlayer,MiniMax w/ CustomHeuristic,16,16,Zufall,Depth: 3,0,1,MiniMax w/ CustomHeuristic,2024-10-15 18:58:41
+294,MiniMax w/ CustomHeuristic,RandomPlayer,25,24,Depth: 4,Zufall,3,0,MiniMax w/ CustomHeuristic,2024-10-15 18:58:41
+295,RandomPlayer,MiniMax w/ CustomHeuristic,24,24,Zufall,Depth: 5,0,4,MiniMax w/ CustomHeuristic,2024-10-15 18:58:41
+296,MiniMax w/ CustomHeuristic,RandomPlayer,22,21,Depth: 6,Zufall,36,0,MiniMax w/ CustomHeuristic,2024-10-15 18:58:42
+297,RandomPlayer,MiniMax w/ CustomHeuristic,23,23,Zufall,Depth: 7,0,401,MiniMax w/ CustomHeuristic,2024-10-15 18:58:51
+298,MiniMax w/ CustomHeuristic,RandomPlayer,26,25,Depth: 8,Zufall,220,0,MiniMax w/ CustomHeuristic,2024-10-15 18:58:57
+299,RandomPlayer,MiniMax w/ CustomHeuristic,23,23,Zufall,Depth: 9,0,583,MiniMax w/ CustomHeuristic,2024-10-15 18:59:10
+300,MiniMax w/ CustomHeuristic,RandomPlayer,23,22,Depth: 0,Zufall,0,0,MiniMax w/ CustomHeuristic,2024-10-15 18:59:10
+301,RandomPlayer,MiniMax w/ CustomHeuristic,17,17,Zufall,Depth: 1,0,0,MiniMax w/ CustomHeuristic,2024-10-15 18:59:10
+302,MiniMax w/ CustomHeuristic,RandomPlayer,14,13,Depth: 2,Zufall,0,0,MiniMax w/ CustomHeuristic,2024-10-15 18:59:10
+303,RandomPlayer,MiniMax w/ CustomHeuristic,20,20,Zufall,Depth: 3,0,1,MiniMax w/ CustomHeuristic,2024-10-15 18:59:11
+304,MiniMax w/ CustomHeuristic,RandomPlayer,20,19,Depth: 4,Zufall,1,0,MiniMax w/ CustomHeuristic,2024-10-15 18:59:11
+305,RandomPlayer,MiniMax w/ CustomHeuristic,25,25,Zufall,Depth: 5,0,4,MiniMax w/ CustomHeuristic,2024-10-15 18:59:11
+306,MiniMax w/ CustomHeuristic,RandomPlayer,27,26,Depth: 6,Zufall,17,0,MiniMax w/ CustomHeuristic,2024-10-15 18:59:11
+307,RandomPlayer,MiniMax w/ CustomHeuristic,20,20,Zufall,Depth: 7,0,164,MiniMax w/ CustomHeuristic,2024-10-15 18:59:14
+308,MiniMax w/ CustomHeuristic,RandomPlayer,25,24,Depth: 8,Zufall,169,0,MiniMax w/ CustomHeuristic,2024-10-15 18:59:19
+309,RandomPlayer,MiniMax w/ CustomHeuristic,21,21,Zufall,Depth: 9,0,11231,MiniMax w/ CustomHeuristic,2024-10-15 19:03:15
+310,MiniMax w/ CustomHeuristic,RandomPlayer,18,17,Depth: 0,Zufall,0,0,MiniMax w/ CustomHeuristic,2024-10-15 19:03:15
+311,RandomPlayer,MiniMax w/ CustomHeuristic,26,25,Zufall,Depth: 1,0,0,Draw,2024-10-15 19:03:15
+312,MiniMax w/ CustomHeuristic,RandomPlayer,18,17,Depth: 2,Zufall,0,0,MiniMax w/ CustomHeuristic,2024-10-15 19:03:15
+313,RandomPlayer,MiniMax w/ CustomHeuristic,21,20,Zufall,Depth: 3,0,0,RandomPlayer,2024-10-15 19:03:15
+314,MiniMax w/ CustomHeuristic,RandomPlayer,23,22,Depth: 4,Zufall,2,0,MiniMax w/ CustomHeuristic,2024-10-15 19:03:15
+315,RandomPlayer,MiniMax w/ CustomHeuristic,16,15,Zufall,Depth: 5,0,7,RandomPlayer,2024-10-15 19:03:15
+316,MiniMax w/ CustomHeuristic,RandomPlayer,26,25,Depth: 6,Zufall,22,0,MiniMax w/ CustomHeuristic,2024-10-15 19:03:15
+317,RandomPlayer,MiniMax w/ CustomHeuristic,27,27,Zufall,Depth: 7,0,87,MiniMax w/ CustomHeuristic,2024-10-15 19:03:18
+318,MiniMax w/ CustomHeuristic,RandomPlayer,30,30,Depth: 8,Zufall,781,0,Draw,2024-10-15 19:03:41
+319,RandomPlayer,MiniMax w/ CustomHeuristic,27,27,Zufall,Depth: 9,0,666,MiniMax w/ CustomHeuristic,2024-10-15 19:03:59
+320,MiniMax w/ CustomHeuristic,RandomPlayer,15,14,Depth: 0,Zufall,0,0,MiniMax w/ CustomHeuristic,2024-10-15 19:03:59
+321,RandomPlayer,MiniMax w/ CustomHeuristic,22,21,Zufall,Depth: 1,0,0,RandomPlayer,2024-10-15 19:03:59
+322,MiniMax w/ CustomHeuristic,RandomPlayer,28,27,Depth: 2,Zufall,0,0,MiniMax w/ CustomHeuristic,2024-10-15 19:03:59
+323,RandomPlayer,MiniMax w/ CustomHeuristic,19,19,Zufall,Depth: 3,0,0,MiniMax w/ CustomHeuristic,2024-10-15 19:03:59
+324,MiniMax w/ CustomHeuristic,RandomPlayer,19,18,Depth: 4,Zufall,4,0,MiniMax w/ CustomHeuristic,2024-10-15 19:03:59
+325,RandomPlayer,MiniMax w/ CustomHeuristic,19,19,Zufall,Depth: 5,0,45,MiniMax w/ CustomHeuristic,2024-10-15 19:04:00
+326,MiniMax w/ CustomHeuristic,RandomPlayer,21,20,Depth: 6,Zufall,21,0,MiniMax w/ CustomHeuristic,2024-10-15 19:04:01
+327,RandomPlayer,MiniMax w/ CustomHeuristic,25,25,Zufall,Depth: 7,0,65,MiniMax w/ CustomHeuristic,2024-10-15 19:04:02
+328,MiniMax w/ CustomHeuristic,RandomPlayer,19,18,Depth: 8,Zufall,1918,0,MiniMax w/ CustomHeuristic,2024-10-15 19:04:39
+329,RandomPlayer,MiniMax w/ CustomHeuristic,30,29,Zufall,Depth: 9,0,1229,RandomPlayer,2024-10-15 19:05:14
+330,MiniMax w/ CustomHeuristic,RandomPlayer,21,20,Depth: 0,Zufall,0,0,MiniMax w/ CustomHeuristic,2024-10-15 19:05:14
+331,RandomPlayer,MiniMax w/ CustomHeuristic,20,19,Zufall,Depth: 1,0,0,RandomPlayer,2024-10-15 19:05:14
+332,MiniMax w/ CustomHeuristic,RandomPlayer,24,23,Depth: 2,Zufall,0,0,MiniMax w/ CustomHeuristic,2024-10-15 19:05:14
+333,RandomPlayer,MiniMax w/ CustomHeuristic,27,27,Zufall,Depth: 3,0,0,MiniMax w/ CustomHeuristic,2024-10-15 19:05:14
+334,MiniMax w/ CustomHeuristic,RandomPlayer,24,24,Depth: 4,Zufall,2,0,Draw,2024-10-15 19:05:14
+335,RandomPlayer,MiniMax w/ CustomHeuristic,15,15,Zufall,Depth: 5,0,11,MiniMax w/ CustomHeuristic,2024-10-15 19:05:15
+336,MiniMax w/ CustomHeuristic,RandomPlayer,25,24,Depth: 6,Zufall,11,0,MiniMax w/ CustomHeuristic,2024-10-15 19:05:15
+337,RandomPlayer,MiniMax w/ CustomHeuristic,24,23,Zufall,Depth: 7,0,68,RandomPlayer,2024-10-15 19:05:17
+338,MiniMax w/ CustomHeuristic,RandomPlayer,28,28,Depth: 8,Zufall,2525,0,RandomPlayer,2024-10-15 19:06:27
+339,RandomPlayer,MiniMax w/ CustomHeuristic,27,26,Zufall,Depth: 9,0,1635,RandomPlayer,2024-10-15 19:07:10
+340,MiniMax w/ CustomHeuristic,RandomPlayer,26,26,Depth: 0,Zufall,0,0,Draw,2024-10-15 19:07:10
+341,RandomPlayer,MiniMax w/ CustomHeuristic,19,19,Zufall,Depth: 1,0,0,MiniMax w/ CustomHeuristic,2024-10-15 19:07:10
+342,MiniMax w/ CustomHeuristic,RandomPlayer,29,29,Depth: 2,Zufall,0,0,Draw,2024-10-15 19:07:10
+343,RandomPlayer,MiniMax w/ CustomHeuristic,24,24,Zufall,Depth: 3,0,0,MiniMax w/ CustomHeuristic,2024-10-15 19:07:10
+344,MiniMax w/ CustomHeuristic,RandomPlayer,26,25,Depth: 4,Zufall,3,0,MiniMax w/ CustomHeuristic,2024-10-15 19:07:10
+345,RandomPlayer,MiniMax w/ CustomHeuristic,22,22,Zufall,Depth: 5,0,6,MiniMax w/ CustomHeuristic,2024-10-15 19:07:10
+346,MiniMax w/ CustomHeuristic,RandomPlayer,16,15,Depth: 6,Zufall,26,0,MiniMax w/ CustomHeuristic,2024-10-15 19:07:10
+347,RandomPlayer,MiniMax w/ CustomHeuristic,25,24,Zufall,Depth: 7,0,206,RandomPlayer,2024-10-15 19:07:15
+348,MiniMax w/ CustomHeuristic,RandomPlayer,24,23,Depth: 8,Zufall,3003,0,MiniMax w/ CustomHeuristic,2024-10-15 19:08:27
+349,RandomPlayer,MiniMax w/ CustomHeuristic,24,24,Zufall,Depth: 9,0,734,MiniMax w/ CustomHeuristic,2024-10-15 19:08:45
+350,MiniMax w/ CustomHeuristic,RandomPlayer,14,13,Depth: 0,Zufall,0,0,MiniMax w/ CustomHeuristic,2024-10-15 19:08:45
+351,RandomPlayer,MiniMax w/ CustomHeuristic,18,17,Zufall,Depth: 1,0,0,RandomPlayer,2024-10-15 19:08:45
+352,MiniMax w/ CustomHeuristic,RandomPlayer,12,11,Depth: 2,Zufall,0,0,MiniMax w/ CustomHeuristic,2024-10-15 19:08:45
+353,RandomPlayer,MiniMax w/ CustomHeuristic,14,14,Zufall,Depth: 3,0,0,MiniMax w/ CustomHeuristic,2024-10-15 19:08:45
+354,MiniMax w/ CustomHeuristic,RandomPlayer,18,17,Depth: 4,Zufall,3,0,MiniMax w/ CustomHeuristic,2024-10-15 19:08:45
+355,RandomPlayer,MiniMax w/ CustomHeuristic,29,28,Zufall,Depth: 5,0,19,Draw,2024-10-15 19:08:46
+356,MiniMax w/ CustomHeuristic,RandomPlayer,22,21,Depth: 6,Zufall,24,0,MiniMax w/ CustomHeuristic,2024-10-15 19:08:46
+357,RandomPlayer,MiniMax w/ CustomHeuristic,17,17,Zufall,Depth: 7,0,171,MiniMax w/ CustomHeuristic,2024-10-15 19:08:49
+358,MiniMax w/ CustomHeuristic,RandomPlayer,25,24,Depth: 8,Zufall,440,0,MiniMax w/ CustomHeuristic,2024-10-15 19:09:00
+359,RandomPlayer,MiniMax w/ CustomHeuristic,25,24,Zufall,Depth: 9,0,445,Draw,2024-10-15 19:09:11
+360,MiniMax w/ CustomHeuristic,RandomPlayer,26,26,Depth: 0,Zufall,0,0,RandomPlayer,2024-10-15 19:09:11
+361,RandomPlayer,MiniMax w/ CustomHeuristic,26,25,Zufall,Depth: 1,0,0,Draw,2024-10-15 19:09:11
+362,MiniMax w/ CustomHeuristic,RandomPlayer,22,21,Depth: 2,Zufall,0,0,MiniMax w/ CustomHeuristic,2024-10-15 19:09:11
+363,RandomPlayer,MiniMax w/ CustomHeuristic,19,19,Zufall,Depth: 3,0,0,MiniMax w/ CustomHeuristic,2024-10-15 19:09:11
+364,MiniMax w/ CustomHeuristic,RandomPlayer,17,16,Depth: 4,Zufall,2,0,MiniMax w/ CustomHeuristic,2024-10-15 19:09:11
+365,RandomPlayer,MiniMax w/ CustomHeuristic,19,19,Zufall,Depth: 5,0,7,MiniMax w/ CustomHeuristic,2024-10-15 19:09:11
+366,MiniMax w/ CustomHeuristic,RandomPlayer,26,25,Depth: 6,Zufall,44,0,MiniMax w/ CustomHeuristic,2024-10-15 19:09:12
+367,RandomPlayer,MiniMax w/ CustomHeuristic,17,17,Zufall,Depth: 7,0,120,MiniMax w/ CustomHeuristic,2024-10-15 19:09:14
+368,MiniMax w/ CustomHeuristic,RandomPlayer,22,21,Depth: 8,Zufall,1768,0,MiniMax w/ CustomHeuristic,2024-10-15 19:09:53
+369,RandomPlayer,MiniMax w/ CustomHeuristic,24,24,Zufall,Depth: 9,0,570,MiniMax w/ CustomHeuristic,2024-10-15 19:10:07
+370,MiniMax w/ CustomHeuristic,RandomPlayer,20,19,Depth: 0,Zufall,0,0,MiniMax w/ CustomHeuristic,2024-10-15 19:10:07
+371,RandomPlayer,MiniMax w/ CustomHeuristic,18,18,Zufall,Depth: 1,0,0,MiniMax w/ CustomHeuristic,2024-10-15 19:10:07
+372,MiniMax w/ CustomHeuristic,RandomPlayer,30,30,Depth: 2,Zufall,0,0,RandomPlayer,2024-10-15 19:10:07
+373,RandomPlayer,MiniMax w/ CustomHeuristic,18,18,Zufall,Depth: 3,0,0,MiniMax w/ CustomHeuristic,2024-10-15 19:10:07
+374,MiniMax w/ CustomHeuristic,RandomPlayer,23,22,Depth: 4,Zufall,2,0,MiniMax w/ CustomHeuristic,2024-10-15 19:10:07
+375,RandomPlayer,MiniMax w/ CustomHeuristic,26,26,Zufall,Depth: 5,0,6,MiniMax w/ CustomHeuristic,2024-10-15 19:10:07
+376,MiniMax w/ CustomHeuristic,RandomPlayer,26,25,Depth: 6,Zufall,52,0,MiniMax w/ CustomHeuristic,2024-10-15 19:10:09
+377,RandomPlayer,MiniMax w/ CustomHeuristic,24,24,Zufall,Depth: 7,0,70,MiniMax w/ CustomHeuristic,2024-10-15 19:10:10
+378,MiniMax w/ CustomHeuristic,RandomPlayer,20,19,Depth: 8,Zufall,1357,0,MiniMax w/ CustomHeuristic,2024-10-15 19:10:37
+379,RandomPlayer,MiniMax w/ CustomHeuristic,26,25,Zufall,Depth: 9,0,6255,RandomPlayer,2024-10-15 19:13:14
+380,MiniMax w/ CustomHeuristic,RandomPlayer,30,30,Depth: 0,Zufall,0,0,Draw,2024-10-15 19:13:14
+381,RandomPlayer,MiniMax w/ CustomHeuristic,19,19,Zufall,Depth: 1,0,0,MiniMax w/ CustomHeuristic,2024-10-15 19:13:14
+382,MiniMax w/ CustomHeuristic,RandomPlayer,24,23,Depth: 2,Zufall,0,0,MiniMax w/ CustomHeuristic,2024-10-15 19:13:14
+383,RandomPlayer,MiniMax w/ CustomHeuristic,17,16,Zufall,Depth: 3,0,0,RandomPlayer,2024-10-15 19:13:14
+384,MiniMax w/ CustomHeuristic,RandomPlayer,18,17,Depth: 4,Zufall,5,0,MiniMax w/ CustomHeuristic,2024-10-15 19:13:14
+385,RandomPlayer,MiniMax w/ CustomHeuristic,20,20,Zufall,Depth: 5,0,9,MiniMax w/ CustomHeuristic,2024-10-15 19:13:14
+386,MiniMax w/ CustomHeuristic,RandomPlayer,23,22,Depth: 6,Zufall,44,0,MiniMax w/ CustomHeuristic,2024-10-15 19:13:15
+387,RandomPlayer,MiniMax w/ CustomHeuristic,28,27,Zufall,Depth: 7,0,40,RandomPlayer,2024-10-15 19:13:16
+388,MiniMax w/ CustomHeuristic,RandomPlayer,22,21,Depth: 8,Zufall,415,0,MiniMax w/ CustomHeuristic,2024-10-15 19:13:25
+389,RandomPlayer,MiniMax w/ CustomHeuristic,26,26,Zufall,Depth: 9,0,553,MiniMax w/ CustomHeuristic,2024-10-15 19:13:40
+390,MiniMax w/ CustomHeuristic,RandomPlayer,29,28,Depth: 0,Zufall,0,0,Draw,2024-10-15 19:13:40
+391,RandomPlayer,MiniMax w/ CustomHeuristic,18,18,Zufall,Depth: 1,0,0,MiniMax w/ CustomHeuristic,2024-10-15 19:13:40
+392,MiniMax w/ CustomHeuristic,RandomPlayer,20,19,Depth: 2,Zufall,0,0,MiniMax w/ CustomHeuristic,2024-10-15 19:13:40
+393,RandomPlayer,MiniMax w/ CustomHeuristic,20,19,Zufall,Depth: 3,0,0,RandomPlayer,2024-10-15 19:13:40
+394,MiniMax w/ CustomHeuristic,RandomPlayer,18,17,Depth: 4,Zufall,4,0,MiniMax w/ CustomHeuristic,2024-10-15 19:13:40
+395,RandomPlayer,MiniMax w/ CustomHeuristic,19,19,Zufall,Depth: 5,0,9,MiniMax w/ CustomHeuristic,2024-10-15 19:13:40
+396,MiniMax w/ CustomHeuristic,RandomPlayer,15,14,Depth: 6,Zufall,26,0,MiniMax w/ CustomHeuristic,2024-10-15 19:13:40
+397,RandomPlayer,MiniMax w/ CustomHeuristic,25,25,Zufall,Depth: 7,0,94,MiniMax w/ CustomHeuristic,2024-10-15 19:13:43
+398,MiniMax w/ CustomHeuristic,RandomPlayer,22,22,Depth: 8,Zufall,141,0,RandomPlayer,2024-10-15 19:13:46
+399,RandomPlayer,MiniMax w/ CustomHeuristic,25,25,Zufall,Depth: 9,0,3607,MiniMax w/ CustomHeuristic,2024-10-15 19:15:16
+400,MiniMax w/ CustomHeuristic,RandomPlayer,30,30,Depth: 0,Zufall,0,0,Draw,2024-10-15 19:15:16
+401,RandomPlayer,MiniMax w/ CustomHeuristic,26,25,Zufall,Depth: 1,0,0,Draw,2024-10-15 19:15:16
+402,MiniMax w/ CustomHeuristic,RandomPlayer,22,22,Depth: 2,Zufall,0,0,RandomPlayer,2024-10-15 19:15:16
+403,RandomPlayer,MiniMax w/ CustomHeuristic,21,21,Zufall,Depth: 3,0,0,MiniMax w/ CustomHeuristic,2024-10-15 19:15:16
+404,MiniMax w/ CustomHeuristic,RandomPlayer,26,25,Depth: 4,Zufall,1,0,MiniMax w/ CustomHeuristic,2024-10-15 19:15:16
+405,RandomPlayer,MiniMax w/ CustomHeuristic,20,20,Zufall,Depth: 5,0,10,MiniMax w/ CustomHeuristic,2024-10-15 19:15:16
+406,MiniMax w/ CustomHeuristic,RandomPlayer,26,25,Depth: 6,Zufall,141,0,MiniMax w/ CustomHeuristic,2024-10-15 19:15:20
+407,RandomPlayer,MiniMax w/ CustomHeuristic,25,25,Zufall,Depth: 7,0,177,MiniMax w/ CustomHeuristic,2024-10-15 19:15:25
+408,MiniMax w/ CustomHeuristic,RandomPlayer,22,21,Depth: 8,Zufall,641,0,MiniMax w/ CustomHeuristic,2024-10-15 19:15:39
+409,RandomPlayer,MiniMax w/ CustomHeuristic,19,19,Zufall,Depth: 9,0,6464,MiniMax w/ CustomHeuristic,2024-10-15 19:17:42
+410,MiniMax w/ CustomHeuristic,RandomPlayer,15,14,Depth: 0,Zufall,0,0,MiniMax w/ CustomHeuristic,2024-10-15 19:17:42
+411,RandomPlayer,MiniMax w/ CustomHeuristic,22,22,Zufall,Depth: 1,0,0,MiniMax w/ CustomHeuristic,2024-10-15 19:17:42
+412,MiniMax w/ CustomHeuristic,RandomPlayer,21,20,Depth: 2,Zufall,0,0,MiniMax w/ CustomHeuristic,2024-10-15 19:17:42
+413,RandomPlayer,MiniMax w/ CustomHeuristic,24,23,Zufall,Depth: 3,0,0,RandomPlayer,2024-10-15 19:17:42
+414,MiniMax w/ CustomHeuristic,RandomPlayer,25,24,Depth: 4,Zufall,3,0,MiniMax w/ CustomHeuristic,2024-10-15 19:17:42
+415,RandomPlayer,MiniMax w/ CustomHeuristic,13,13,Zufall,Depth: 5,0,9,MiniMax w/ CustomHeuristic,2024-10-15 19:17:42
+416,MiniMax w/ CustomHeuristic,RandomPlayer,24,23,Depth: 6,Zufall,52,0,MiniMax w/ CustomHeuristic,2024-10-15 19:17:43
+417,RandomPlayer,MiniMax w/ CustomHeuristic,23,23,Zufall,Depth: 7,0,56,MiniMax w/ CustomHeuristic,2024-10-15 19:17:44
+418,MiniMax w/ CustomHeuristic,RandomPlayer,26,26,Depth: 8,Zufall,165,0,RandomPlayer,2024-10-15 19:17:49
+419,RandomPlayer,MiniMax w/ CustomHeuristic,18,18,Zufall,Depth: 9,0,2004,MiniMax w/ CustomHeuristic,2024-10-15 19:18:25
+420,MiniMax w/ CustomHeuristic,RandomPlayer,24,23,Depth: 0,Zufall,0,0,MiniMax w/ CustomHeuristic,2024-10-15 19:18:25
+421,RandomPlayer,MiniMax w/ CustomHeuristic,20,20,Zufall,Depth: 1,0,0,MiniMax w/ CustomHeuristic,2024-10-15 19:18:25
+422,MiniMax w/ CustomHeuristic,RandomPlayer,16,15,Depth: 2,Zufall,0,0,MiniMax w/ CustomHeuristic,2024-10-15 19:18:25
+423,RandomPlayer,MiniMax w/ CustomHeuristic,25,25,Zufall,Depth: 3,0,0,MiniMax w/ CustomHeuristic,2024-10-15 19:18:25
+424,MiniMax w/ CustomHeuristic,RandomPlayer,21,21,Depth: 4,Zufall,8,0,RandomPlayer,2024-10-15 19:18:25
+425,RandomPlayer,MiniMax w/ CustomHeuristic,26,25,Zufall,Depth: 5,0,8,RandomPlayer,2024-10-15 19:18:25
+426,MiniMax w/ CustomHeuristic,RandomPlayer,17,16,Depth: 6,Zufall,33,0,MiniMax w/ CustomHeuristic,2024-10-15 19:18:26
+427,RandomPlayer,MiniMax w/ CustomHeuristic,31,30,Zufall,Depth: 7,0,53,RandomPlayer,2024-10-15 19:18:27
+428,MiniMax w/ CustomHeuristic,RandomPlayer,17,16,Depth: 8,Zufall,573,0,MiniMax w/ CustomHeuristic,2024-10-15 19:18:37
+429,RandomPlayer,MiniMax w/ CustomHeuristic,23,23,Zufall,Depth: 9,0,539,MiniMax w/ CustomHeuristic,2024-10-15 19:18:49
+430,MiniMax w/ CustomHeuristic,RandomPlayer,22,22,Depth: 0,Zufall,0,0,Draw,2024-10-15 19:18:49
+431,RandomPlayer,MiniMax w/ CustomHeuristic,28,27,Zufall,Depth: 1,0,0,Draw,2024-10-15 19:18:49
+432,MiniMax w/ CustomHeuristic,RandomPlayer,15,14,Depth: 2,Zufall,0,0,MiniMax w/ CustomHeuristic,2024-10-15 19:18:50
+433,RandomPlayer,MiniMax w/ CustomHeuristic,23,23,Zufall,Depth: 3,0,0,MiniMax w/ CustomHeuristic,2024-10-15 19:18:50
+434,MiniMax w/ CustomHeuristic,RandomPlayer,18,18,Depth: 4,Zufall,3,0,RandomPlayer,2024-10-15 19:18:50
+435,RandomPlayer,MiniMax w/ CustomHeuristic,20,20,Zufall,Depth: 5,0,14,MiniMax w/ CustomHeuristic,2024-10-15 19:18:50
+436,MiniMax w/ CustomHeuristic,RandomPlayer,24,23,Depth: 6,Zufall,19,0,MiniMax w/ CustomHeuristic,2024-10-15 19:18:50
+437,RandomPlayer,MiniMax w/ CustomHeuristic,23,23,Zufall,Depth: 7,0,35,MiniMax w/ CustomHeuristic,2024-10-15 19:18:51
+438,MiniMax w/ CustomHeuristic,RandomPlayer,25,24,Depth: 8,Zufall,2433,0,MiniMax w/ CustomHeuristic,2024-10-15 19:19:52
+439,RandomPlayer,MiniMax w/ CustomHeuristic,32,31,Zufall,Depth: 9,0,610,RandomPlayer,2024-10-15 19:20:11
+440,MiniMax w/ CustomHeuristic,RandomPlayer,16,15,Depth: 0,Zufall,0,0,MiniMax w/ CustomHeuristic,2024-10-15 19:20:11
+441,RandomPlayer,MiniMax w/ CustomHeuristic,21,21,Zufall,Depth: 1,0,0,MiniMax w/ CustomHeuristic,2024-10-15 19:20:11
+442,MiniMax w/ CustomHeuristic,RandomPlayer,26,25,Depth: 2,Zufall,0,0,MiniMax w/ CustomHeuristic,2024-10-15 19:20:11
+443,RandomPlayer,MiniMax w/ CustomHeuristic,25,24,Zufall,Depth: 3,0,0,Draw,2024-10-15 19:20:11
+444,MiniMax w/ CustomHeuristic,RandomPlayer,22,21,Depth: 4,Zufall,1,0,MiniMax w/ CustomHeuristic,2024-10-15 19:20:11
+445,RandomPlayer,MiniMax w/ CustomHeuristic,20,20,Zufall,Depth: 5,0,4,MiniMax w/ CustomHeuristic,2024-10-15 19:20:11
+446,MiniMax w/ CustomHeuristic,RandomPlayer,27,27,Depth: 6,Zufall,32,0,RandomPlayer,2024-10-15 19:20:12
+447,RandomPlayer,MiniMax w/ CustomHeuristic,23,23,Zufall,Depth: 7,0,24,MiniMax w/ CustomHeuristic,2024-10-15 19:20:13
+448,MiniMax w/ CustomHeuristic,RandomPlayer,18,17,Depth: 8,Zufall,3226,0,MiniMax w/ CustomHeuristic,2024-10-15 19:21:11
+449,RandomPlayer,MiniMax w/ CustomHeuristic,22,22,Zufall,Depth: 9,0,854,MiniMax w/ CustomHeuristic,2024-10-15 19:21:29
+450,MiniMax w/ CustomHeuristic,RandomPlayer,23,23,Depth: 0,Zufall,0,0,RandomPlayer,2024-10-15 19:21:29
+451,RandomPlayer,MiniMax w/ CustomHeuristic,17,17,Zufall,Depth: 1,0,0,MiniMax w/ CustomHeuristic,2024-10-15 19:21:29
+452,MiniMax w/ CustomHeuristic,RandomPlayer,22,21,Depth: 2,Zufall,0,0,MiniMax w/ CustomHeuristic,2024-10-15 19:21:29
+453,RandomPlayer,MiniMax w/ CustomHeuristic,19,19,Zufall,Depth: 3,0,0,MiniMax w/ CustomHeuristic,2024-10-15 19:21:29
+454,MiniMax w/ CustomHeuristic,RandomPlayer,22,21,Depth: 4,Zufall,2,0,MiniMax w/ CustomHeuristic,2024-10-15 19:21:29
+455,RandomPlayer,MiniMax w/ CustomHeuristic,25,24,Zufall,Depth: 5,0,2,Draw,2024-10-15 19:21:30
+456,MiniMax w/ CustomHeuristic,RandomPlayer,22,21,Depth: 6,Zufall,21,0,MiniMax w/ CustomHeuristic,2024-10-15 19:21:30
+457,RandomPlayer,MiniMax w/ CustomHeuristic,23,23,Zufall,Depth: 7,0,190,MiniMax w/ CustomHeuristic,2024-10-15 19:21:34
+458,MiniMax w/ CustomHeuristic,RandomPlayer,20,19,Depth: 8,Zufall,245,0,MiniMax w/ CustomHeuristic,2024-10-15 19:21:39
+459,RandomPlayer,MiniMax w/ CustomHeuristic,25,24,Zufall,Depth: 9,0,10910,Draw,2024-10-15 19:26:01
+460,MiniMax w/ CustomHeuristic,RandomPlayer,17,16,Depth: 0,Zufall,0,0,MiniMax w/ CustomHeuristic,2024-10-15 19:26:01
+461,RandomPlayer,MiniMax w/ CustomHeuristic,16,16,Zufall,Depth: 1,0,0,MiniMax w/ CustomHeuristic,2024-10-15 19:26:01
+462,MiniMax w/ CustomHeuristic,RandomPlayer,23,22,Depth: 2,Zufall,0,0,MiniMax w/ CustomHeuristic,2024-10-15 19:26:01
+463,RandomPlayer,MiniMax w/ CustomHeuristic,16,16,Zufall,Depth: 3,0,0,MiniMax w/ CustomHeuristic,2024-10-15 19:26:01
+464,MiniMax w/ CustomHeuristic,RandomPlayer,25,25,Depth: 4,Zufall,1,0,RandomPlayer,2024-10-15 19:26:01
+465,RandomPlayer,MiniMax w/ CustomHeuristic,23,23,Zufall,Depth: 5,0,3,MiniMax w/ CustomHeuristic,2024-10-15 19:26:01
+466,MiniMax w/ CustomHeuristic,RandomPlayer,18,17,Depth: 6,Zufall,52,0,MiniMax w/ CustomHeuristic,2024-10-15 19:26:02
+467,RandomPlayer,MiniMax w/ CustomHeuristic,25,25,Zufall,Depth: 7,0,25,MiniMax w/ CustomHeuristic,2024-10-15 19:26:03
+468,MiniMax w/ CustomHeuristic,RandomPlayer,25,24,Depth: 8,Zufall,707,0,MiniMax w/ CustomHeuristic,2024-10-15 19:26:21
+469,RandomPlayer,MiniMax w/ CustomHeuristic,26,26,Zufall,Depth: 9,0,1529,MiniMax w/ CustomHeuristic,2024-10-15 19:27:00
+470,MiniMax w/ CustomHeuristic,RandomPlayer,16,15,Depth: 0,Zufall,0,0,MiniMax w/ CustomHeuristic,2024-10-15 19:27:00
+471,RandomPlayer,MiniMax w/ CustomHeuristic,16,16,Zufall,Depth: 1,0,0,MiniMax w/ CustomHeuristic,2024-10-15 19:27:00
+472,MiniMax w/ CustomHeuristic,RandomPlayer,19,18,Depth: 2,Zufall,0,0,MiniMax w/ CustomHeuristic,2024-10-15 19:27:00
+473,RandomPlayer,MiniMax w/ CustomHeuristic,19,19,Zufall,Depth: 3,0,1,MiniMax w/ CustomHeuristic,2024-10-15 19:27:00
+474,MiniMax w/ CustomHeuristic,RandomPlayer,17,16,Depth: 4,Zufall,11,0,MiniMax w/ CustomHeuristic,2024-10-15 19:27:01
+475,RandomPlayer,MiniMax w/ CustomHeuristic,18,18,Zufall,Depth: 5,0,15,MiniMax w/ CustomHeuristic,2024-10-15 19:27:01
+476,MiniMax w/ CustomHeuristic,RandomPlayer,21,20,Depth: 6,Zufall,366,0,MiniMax w/ CustomHeuristic,2024-10-15 19:27:09
+477,RandomPlayer,MiniMax w/ CustomHeuristic,29,28,Zufall,Depth: 7,0,56,Draw,2024-10-15 19:27:10
+478,MiniMax w/ CustomHeuristic,RandomPlayer,25,24,Depth: 8,Zufall,266,0,MiniMax w/ CustomHeuristic,2024-10-15 19:27:17
+479,RandomPlayer,MiniMax w/ CustomHeuristic,28,27,Zufall,Depth: 9,0,4147,Draw,2024-10-15 19:29:09
+480,MiniMax w/ CustomHeuristic,RandomPlayer,23,22,Depth: 0,Zufall,0,0,MiniMax w/ CustomHeuristic,2024-10-15 19:29:09
+481,RandomPlayer,MiniMax w/ CustomHeuristic,23,23,Zufall,Depth: 1,0,0,MiniMax w/ CustomHeuristic,2024-10-15 19:29:09
+482,MiniMax w/ CustomHeuristic,RandomPlayer,23,22,Depth: 2,Zufall,0,0,MiniMax w/ CustomHeuristic,2024-10-15 19:29:09
+483,RandomPlayer,MiniMax w/ CustomHeuristic,15,15,Zufall,Depth: 3,0,0,MiniMax w/ CustomHeuristic,2024-10-15 19:29:09
+484,MiniMax w/ CustomHeuristic,RandomPlayer,22,21,Depth: 4,Zufall,4,0,MiniMax w/ CustomHeuristic,2024-10-15 19:29:09
+485,RandomPlayer,MiniMax w/ CustomHeuristic,23,23,Zufall,Depth: 5,0,9,MiniMax w/ CustomHeuristic,2024-10-15 19:29:09
+486,MiniMax w/ CustomHeuristic,RandomPlayer,21,21,Depth: 6,Zufall,191,0,RandomPlayer,2024-10-15 19:29:13
+487,RandomPlayer,MiniMax w/ CustomHeuristic,23,23,Zufall,Depth: 7,0,123,MiniMax w/ CustomHeuristic,2024-10-15 19:29:16
+488,MiniMax w/ CustomHeuristic,RandomPlayer,21,20,Depth: 8,Zufall,2618,0,MiniMax w/ CustomHeuristic,2024-10-15 19:30:11
+489,RandomPlayer,MiniMax w/ CustomHeuristic,25,25,Zufall,Depth: 9,0,3456,MiniMax w/ CustomHeuristic,2024-10-15 19:31:37
+490,MiniMax w/ CustomHeuristic,RandomPlayer,18,17,Depth: 0,Zufall,0,0,MiniMax w/ CustomHeuristic,2024-10-15 19:31:37
+491,RandomPlayer,MiniMax w/ CustomHeuristic,21,21,Zufall,Depth: 1,0,0,MiniMax w/ CustomHeuristic,2024-10-15 19:31:37
+492,MiniMax w/ CustomHeuristic,RandomPlayer,25,24,Depth: 2,Zufall,0,0,MiniMax w/ CustomHeuristic,2024-10-15 19:31:38
+493,RandomPlayer,MiniMax w/ CustomHeuristic,18,18,Zufall,Depth: 3,0,1,MiniMax w/ CustomHeuristic,2024-10-15 19:31:38
+494,MiniMax w/ CustomHeuristic,RandomPlayer,20,19,Depth: 4,Zufall,11,0,MiniMax w/ CustomHeuristic,2024-10-15 19:31:38
+495,RandomPlayer,MiniMax w/ CustomHeuristic,19,19,Zufall,Depth: 5,0,10,MiniMax w/ CustomHeuristic,2024-10-15 19:31:38
+496,MiniMax w/ CustomHeuristic,RandomPlayer,19,19,Depth: 6,Zufall,231,0,RandomPlayer,2024-10-15 19:31:42
+497,RandomPlayer,MiniMax w/ CustomHeuristic,27,26,Zufall,Depth: 7,0,233,Draw,2024-10-15 19:31:48
+498,MiniMax w/ CustomHeuristic,RandomPlayer,22,21,Depth: 8,Zufall,1817,0,MiniMax w/ CustomHeuristic,2024-10-15 19:32:28
+499,RandomPlayer,MiniMax w/ CustomHeuristic,18,18,Zufall,Depth: 9,0,2683,MiniMax w/ CustomHeuristic,2024-10-15 19:33:17
+500,MiniMax w/ CustomHeuristic,RandomPlayer,24,23,Depth: 0,Zufall,0,0,MiniMax w/ CustomHeuristic,2024-10-15 19:33:17
+501,RandomPlayer,MiniMax w/ CustomHeuristic,18,18,Zufall,Depth: 1,0,0,MiniMax w/ CustomHeuristic,2024-10-15 19:33:17
+502,MiniMax w/ CustomHeuristic,RandomPlayer,27,27,Depth: 2,Zufall,0,0,Draw,2024-10-15 19:33:17
+503,RandomPlayer,MiniMax w/ CustomHeuristic,20,20,Zufall,Depth: 3,0,1,MiniMax w/ CustomHeuristic,2024-10-15 19:33:17
+504,MiniMax w/ CustomHeuristic,RandomPlayer,19,18,Depth: 4,Zufall,11,0,MiniMax w/ CustomHeuristic,2024-10-15 19:33:17
+505,RandomPlayer,MiniMax w/ CustomHeuristic,15,15,Zufall,Depth: 5,0,50,MiniMax w/ CustomHeuristic,2024-10-15 19:33:18
+506,MiniMax w/ CustomHeuristic,RandomPlayer,25,24,Depth: 6,Zufall,65,0,MiniMax w/ CustomHeuristic,2024-10-15 19:33:19
+507,RandomPlayer,MiniMax w/ CustomHeuristic,25,25,Zufall,Depth: 7,0,77,MiniMax w/ CustomHeuristic,2024-10-15 19:33:21
+508,MiniMax w/ CustomHeuristic,RandomPlayer,25,24,Depth: 8,Zufall,636,0,MiniMax w/ CustomHeuristic,2024-10-15 19:33:37
+509,RandomPlayer,MiniMax w/ CustomHeuristic,20,20,Zufall,Depth: 9,0,1381,MiniMax w/ CustomHeuristic,2024-10-15 19:34:05
+510,MiniMax w/ CustomHeuristic,RandomPlayer,21,21,Depth: 0,Zufall,0,0,RandomPlayer,2024-10-15 19:34:05
+511,RandomPlayer,MiniMax w/ CustomHeuristic,22,22,Zufall,Depth: 1,0,0,MiniMax w/ CustomHeuristic,2024-10-15 19:34:05
+512,MiniMax w/ CustomHeuristic,RandomPlayer,24,23,Depth: 2,Zufall,0,0,MiniMax w/ CustomHeuristic,2024-10-15 19:34:05
+513,RandomPlayer,MiniMax w/ CustomHeuristic,24,23,Zufall,Depth: 3,0,1,RandomPlayer,2024-10-15 19:34:05
+514,MiniMax w/ CustomHeuristic,RandomPlayer,21,20,Depth: 4,Zufall,5,0,MiniMax w/ CustomHeuristic,2024-10-15 19:34:05
+515,RandomPlayer,MiniMax w/ CustomHeuristic,25,24,Zufall,Depth: 5,0,9,RandomPlayer,2024-10-15 19:34:05
+516,MiniMax w/ CustomHeuristic,RandomPlayer,20,19,Depth: 6,Zufall,56,0,MiniMax w/ CustomHeuristic,2024-10-15 19:34:06
+517,RandomPlayer,MiniMax w/ CustomHeuristic,24,24,Zufall,Depth: 7,0,171,MiniMax w/ CustomHeuristic,2024-10-15 19:34:11
+518,MiniMax w/ CustomHeuristic,RandomPlayer,26,25,Depth: 8,Zufall,2136,0,MiniMax w/ CustomHeuristic,2024-10-15 19:35:06
+519,RandomPlayer,MiniMax w/ CustomHeuristic,25,25,Zufall,Depth: 9,0,4414,MiniMax w/ CustomHeuristic,2024-10-15 19:36:56
+520,MiniMax w/ CustomHeuristic,RandomPlayer,23,22,Depth: 0,Zufall,0,0,MiniMax w/ CustomHeuristic,2024-10-15 19:36:57
+521,RandomPlayer,MiniMax w/ CustomHeuristic,23,23,Zufall,Depth: 1,0,0,MiniMax w/ CustomHeuristic,2024-10-15 19:36:57
+522,MiniMax w/ CustomHeuristic,RandomPlayer,21,20,Depth: 2,Zufall,0,0,MiniMax w/ CustomHeuristic,2024-10-15 19:36:57
+523,RandomPlayer,MiniMax w/ CustomHeuristic,24,24,Zufall,Depth: 3,0,5,MiniMax w/ CustomHeuristic,2024-10-15 19:36:57
+524,MiniMax w/ CustomHeuristic,RandomPlayer,24,23,Depth: 4,Zufall,4,0,MiniMax w/ CustomHeuristic,2024-10-15 19:36:57
+525,RandomPlayer,MiniMax w/ CustomHeuristic,14,14,Zufall,Depth: 5,0,56,MiniMax w/ CustomHeuristic,2024-10-15 19:36:58
+526,MiniMax w/ CustomHeuristic,RandomPlayer,26,25,Depth: 6,Zufall,109,0,MiniMax w/ CustomHeuristic,2024-10-15 19:37:00
+527,RandomPlayer,MiniMax w/ CustomHeuristic,18,18,Zufall,Depth: 7,0,161,MiniMax w/ CustomHeuristic,2024-10-15 19:37:03
+528,MiniMax w/ CustomHeuristic,RandomPlayer,22,21,Depth: 8,Zufall,1388,0,MiniMax w/ CustomHeuristic,2024-10-15 19:37:34
+529,RandomPlayer,MiniMax w/ CustomHeuristic,23,23,Zufall,Depth: 9,0,917,MiniMax w/ CustomHeuristic,2024-10-15 19:37:55
+530,MiniMax w/ CustomHeuristic,RandomPlayer,22,21,Depth: 0,Zufall,0,0,MiniMax w/ CustomHeuristic,2024-10-15 19:37:55
+531,RandomPlayer,MiniMax w/ CustomHeuristic,17,17,Zufall,Depth: 1,0,0,MiniMax w/ CustomHeuristic,2024-10-15 19:37:55
+532,MiniMax w/ CustomHeuristic,RandomPlayer,29,29,Depth: 2,Zufall,0,0,Draw,2024-10-15 19:37:55
+533,RandomPlayer,MiniMax w/ CustomHeuristic,26,25,Zufall,Depth: 3,0,1,RandomPlayer,2024-10-15 19:37:55
+534,MiniMax w/ CustomHeuristic,RandomPlayer,20,19,Depth: 4,Zufall,7,0,MiniMax w/ CustomHeuristic,2024-10-15 19:37:55
+535,RandomPlayer,MiniMax w/ CustomHeuristic,22,22,Zufall,Depth: 5,0,24,MiniMax w/ CustomHeuristic,2024-10-15 19:37:56
+536,MiniMax w/ CustomHeuristic,RandomPlayer,20,19,Depth: 6,Zufall,52,0,MiniMax w/ CustomHeuristic,2024-10-15 19:37:57
+537,RandomPlayer,MiniMax w/ CustomHeuristic,34,33,Zufall,Depth: 7,0,97,Draw,2024-10-15 19:38:00
+538,MiniMax w/ CustomHeuristic,RandomPlayer,23,23,Depth: 8,Zufall,823,0,RandomPlayer,2024-10-15 19:38:19
+539,RandomPlayer,MiniMax w/ CustomHeuristic,17,17,Zufall,Depth: 9,0,5227,MiniMax w/ CustomHeuristic,2024-10-15 19:39:48
+540,MiniMax w/ CustomHeuristic,RandomPlayer,21,20,Depth: 0,Zufall,0,0,MiniMax w/ CustomHeuristic,2024-10-15 19:39:48
+541,RandomPlayer,MiniMax w/ CustomHeuristic,18,18,Zufall,Depth: 1,0,0,MiniMax w/ CustomHeuristic,2024-10-15 19:39:48
+542,MiniMax w/ CustomHeuristic,RandomPlayer,21,21,Depth: 2,Zufall,0,0,RandomPlayer,2024-10-15 19:39:48
+543,RandomPlayer,MiniMax w/ CustomHeuristic,22,22,Zufall,Depth: 3,0,0,MiniMax w/ CustomHeuristic,2024-10-15 19:39:48
+544,MiniMax w/ CustomHeuristic,RandomPlayer,21,20,Depth: 4,Zufall,9,0,MiniMax w/ CustomHeuristic,2024-10-15 19:39:48
+545,RandomPlayer,MiniMax w/ CustomHeuristic,29,28,Zufall,Depth: 5,0,21,Draw,2024-10-15 19:39:49
+546,MiniMax w/ CustomHeuristic,RandomPlayer,22,21,Depth: 6,Zufall,30,0,MiniMax w/ CustomHeuristic,2024-10-15 19:39:49
+547,RandomPlayer,MiniMax w/ CustomHeuristic,19,19,Zufall,Depth: 7,0,145,MiniMax w/ CustomHeuristic,2024-10-15 19:39:52
+548,MiniMax w/ CustomHeuristic,RandomPlayer,23,22,Depth: 8,Zufall,5307,0,MiniMax w/ CustomHeuristic,2024-10-15 19:41:54
+549,RandomPlayer,MiniMax w/ CustomHeuristic,27,27,Zufall,Depth: 9,0,814,MiniMax w/ CustomHeuristic,2024-10-15 19:42:16
+550,MiniMax w/ CustomHeuristic,RandomPlayer,28,28,Depth: 0,Zufall,0,0,Draw,2024-10-15 19:42:16
+551,RandomPlayer,MiniMax w/ CustomHeuristic,19,19,Zufall,Depth: 1,0,0,MiniMax w/ CustomHeuristic,2024-10-15 19:42:16
+552,MiniMax w/ CustomHeuristic,RandomPlayer,18,17,Depth: 2,Zufall,0,0,MiniMax w/ CustomHeuristic,2024-10-15 19:42:16
+553,RandomPlayer,MiniMax w/ CustomHeuristic,27,26,Zufall,Depth: 3,0,0,RandomPlayer,2024-10-15 19:42:16
+554,MiniMax w/ CustomHeuristic,RandomPlayer,23,22,Depth: 4,Zufall,11,0,MiniMax w/ CustomHeuristic,2024-10-15 19:42:17
+555,RandomPlayer,MiniMax w/ CustomHeuristic,22,22,Zufall,Depth: 5,0,31,MiniMax w/ CustomHeuristic,2024-10-15 19:42:17
+556,MiniMax w/ CustomHeuristic,RandomPlayer,16,15,Depth: 6,Zufall,137,0,MiniMax w/ CustomHeuristic,2024-10-15 19:42:20
+557,RandomPlayer,MiniMax w/ CustomHeuristic,19,19,Zufall,Depth: 7,0,207,MiniMax w/ CustomHeuristic,2024-10-15 19:42:23
+558,MiniMax w/ CustomHeuristic,RandomPlayer,23,22,Depth: 8,Zufall,5774,0,MiniMax w/ CustomHeuristic,2024-10-15 19:44:36
+559,RandomPlayer,MiniMax w/ CustomHeuristic,20,20,Zufall,Depth: 9,0,1411,MiniMax w/ CustomHeuristic,2024-10-15 19:45:05
+560,MiniMax w/ CustomHeuristic,RandomPlayer,22,21,Depth: 0,Zufall,0,0,MiniMax w/ CustomHeuristic,2024-10-15 19:45:05
+561,RandomPlayer,MiniMax w/ CustomHeuristic,21,21,Zufall,Depth: 1,0,0,MiniMax w/ CustomHeuristic,2024-10-15 19:45:05
+562,MiniMax w/ CustomHeuristic,RandomPlayer,24,23,Depth: 2,Zufall,0,0,MiniMax w/ CustomHeuristic,2024-10-15 19:45:05
+563,RandomPlayer,MiniMax w/ CustomHeuristic,22,22,Zufall,Depth: 3,0,0,MiniMax w/ CustomHeuristic,2024-10-15 19:45:05
+564,MiniMax w/ CustomHeuristic,RandomPlayer,22,21,Depth: 4,Zufall,7,0,MiniMax w/ CustomHeuristic,2024-10-15 19:45:05
+565,RandomPlayer,MiniMax w/ CustomHeuristic,22,22,Zufall,Depth: 5,0,18,MiniMax w/ CustomHeuristic,2024-10-15 19:45:05
+566,MiniMax w/ CustomHeuristic,RandomPlayer,27,26,Depth: 6,Zufall,43,0,MiniMax w/ CustomHeuristic,2024-10-15 19:45:06
+567,RandomPlayer,MiniMax w/ CustomHeuristic,24,24,Zufall,Depth: 7,0,94,MiniMax w/ CustomHeuristic,2024-10-15 19:45:09
+568,MiniMax w/ CustomHeuristic,RandomPlayer,16,16,Depth: 8,Zufall,1132,0,RandomPlayer,2024-10-15 19:45:27
+569,RandomPlayer,MiniMax w/ CustomHeuristic,26,26,Zufall,Depth: 9,0,1607,MiniMax w/ CustomHeuristic,2024-10-15 19:46:09
+570,MiniMax w/ CustomHeuristic,RandomPlayer,21,20,Depth: 0,Zufall,0,0,MiniMax w/ CustomHeuristic,2024-10-15 19:46:09
+571,RandomPlayer,MiniMax w/ CustomHeuristic,24,23,Zufall,Depth: 1,0,0,RandomPlayer,2024-10-15 19:46:09
+572,MiniMax w/ CustomHeuristic,RandomPlayer,19,18,Depth: 2,Zufall,0,0,MiniMax w/ CustomHeuristic,2024-10-15 19:46:09
+573,RandomPlayer,MiniMax w/ CustomHeuristic,21,21,Zufall,Depth: 3,0,2,MiniMax w/ CustomHeuristic,2024-10-15 19:46:09
+574,MiniMax w/ CustomHeuristic,RandomPlayer,27,27,Depth: 4,Zufall,5,0,Draw,2024-10-15 19:46:09
+575,RandomPlayer,MiniMax w/ CustomHeuristic,19,19,Zufall,Depth: 5,0,23,MiniMax w/ CustomHeuristic,2024-10-15 19:46:09
+576,MiniMax w/ CustomHeuristic,RandomPlayer,23,22,Depth: 6,Zufall,257,0,MiniMax w/ CustomHeuristic,2024-10-15 19:46:15
+577,RandomPlayer,MiniMax w/ CustomHeuristic,23,23,Zufall,Depth: 7,0,109,MiniMax w/ CustomHeuristic,2024-10-15 19:46:18
+578,MiniMax w/ CustomHeuristic,RandomPlayer,28,27,Depth: 8,Zufall,842,0,MiniMax w/ CustomHeuristic,2024-10-15 19:46:41
+579,RandomPlayer,MiniMax w/ CustomHeuristic,21,21,Zufall,Depth: 9,0,1179,MiniMax w/ CustomHeuristic,2024-10-15 19:47:06
+580,MiniMax w/ CustomHeuristic,RandomPlayer,20,19,Depth: 0,Zufall,0,0,MiniMax w/ CustomHeuristic,2024-10-15 19:47:06
+581,RandomPlayer,MiniMax w/ CustomHeuristic,16,16,Zufall,Depth: 1,0,0,MiniMax w/ CustomHeuristic,2024-10-15 19:47:06
+582,MiniMax w/ CustomHeuristic,RandomPlayer,13,12,Depth: 2,Zufall,0,0,MiniMax w/ CustomHeuristic,2024-10-15 19:47:06
+583,RandomPlayer,MiniMax w/ CustomHeuristic,21,21,Zufall,Depth: 3,0,0,MiniMax w/ CustomHeuristic,2024-10-15 19:47:06
+584,MiniMax w/ CustomHeuristic,RandomPlayer,21,20,Depth: 4,Zufall,4,0,MiniMax w/ CustomHeuristic,2024-10-15 19:47:06
+585,RandomPlayer,MiniMax w/ CustomHeuristic,22,22,Zufall,Depth: 5,0,10,MiniMax w/ CustomHeuristic,2024-10-15 19:47:06
+586,MiniMax w/ CustomHeuristic,RandomPlayer,22,21,Depth: 6,Zufall,109,0,MiniMax w/ CustomHeuristic,2024-10-15 19:47:09
+587,RandomPlayer,MiniMax w/ CustomHeuristic,24,24,Zufall,Depth: 7,0,203,MiniMax w/ CustomHeuristic,2024-10-15 19:47:14
+588,MiniMax w/ CustomHeuristic,RandomPlayer,23,22,Depth: 8,Zufall,974,0,MiniMax w/ CustomHeuristic,2024-10-15 19:47:36
+589,RandomPlayer,MiniMax w/ CustomHeuristic,29,28,Zufall,Depth: 9,0,4818,RandomPlayer,2024-10-15 19:49:51
+590,MiniMax w/ CustomHeuristic,RandomPlayer,20,19,Depth: 0,Zufall,0,0,MiniMax w/ CustomHeuristic,2024-10-15 19:49:51
+591,RandomPlayer,MiniMax w/ CustomHeuristic,24,24,Zufall,Depth: 1,0,0,MiniMax w/ CustomHeuristic,2024-10-15 19:49:51
+592,MiniMax w/ CustomHeuristic,RandomPlayer,17,16,Depth: 2,Zufall,0,0,MiniMax w/ CustomHeuristic,2024-10-15 19:49:51
+593,RandomPlayer,MiniMax w/ CustomHeuristic,23,22,Zufall,Depth: 3,0,0,RandomPlayer,2024-10-15 19:49:51
+594,MiniMax w/ CustomHeuristic,RandomPlayer,18,17,Depth: 4,Zufall,2,0,MiniMax w/ CustomHeuristic,2024-10-15 19:49:51
+595,RandomPlayer,MiniMax w/ CustomHeuristic,15,15,Zufall,Depth: 5,0,13,MiniMax w/ CustomHeuristic,2024-10-15 19:49:51
+596,MiniMax w/ CustomHeuristic,RandomPlayer,18,17,Depth: 6,Zufall,25,0,MiniMax w/ CustomHeuristic,2024-10-15 19:49:52
+597,RandomPlayer,MiniMax w/ CustomHeuristic,21,21,Zufall,Depth: 7,0,132,MiniMax w/ CustomHeuristic,2024-10-15 19:49:55
+598,MiniMax w/ CustomHeuristic,RandomPlayer,21,21,Depth: 8,Zufall,175,0,RandomPlayer,2024-10-15 19:49:58
+599,RandomPlayer,MiniMax w/ CustomHeuristic,24,24,Zufall,Depth: 9,0,1489,MiniMax w/ CustomHeuristic,2024-10-15 19:50:34
+600,MiniMax w/ CustomHeuristic,RandomPlayer,15,14,Depth: 0,Zufall,0,0,MiniMax w/ CustomHeuristic,2024-10-15 19:50:34
+601,RandomPlayer,MiniMax w/ CustomHeuristic,20,20,Zufall,Depth: 1,0,0,MiniMax w/ CustomHeuristic,2024-10-15 19:50:34
+602,MiniMax w/ CustomHeuristic,RandomPlayer,18,17,Depth: 2,Zufall,0,0,MiniMax w/ CustomHeuristic,2024-10-15 19:50:34
+603,RandomPlayer,MiniMax w/ CustomHeuristic,22,22,Zufall,Depth: 3,0,0,MiniMax w/ CustomHeuristic,2024-10-15 19:50:34
+604,MiniMax w/ CustomHeuristic,RandomPlayer,21,20,Depth: 4,Zufall,4,0,MiniMax w/ CustomHeuristic,2024-10-15 19:50:34
+605,RandomPlayer,MiniMax w/ CustomHeuristic,19,19,Zufall,Depth: 5,0,5,MiniMax w/ CustomHeuristic,2024-10-15 19:50:34
+606,MiniMax w/ CustomHeuristic,RandomPlayer,19,18,Depth: 6,Zufall,17,0,MiniMax w/ CustomHeuristic,2024-10-15 19:50:35
+607,RandomPlayer,MiniMax w/ CustomHeuristic,23,23,Zufall,Depth: 7,0,68,MiniMax w/ CustomHeuristic,2024-10-15 19:50:36
+608,MiniMax w/ CustomHeuristic,RandomPlayer,19,18,Depth: 8,Zufall,147,0,MiniMax w/ CustomHeuristic,2024-10-15 19:50:39
+609,RandomPlayer,MiniMax w/ CustomHeuristic,21,21,Zufall,Depth: 9,0,2049,MiniMax w/ CustomHeuristic,2024-10-15 19:51:22
+610,MiniMax w/ CustomHeuristic,RandomPlayer,17,16,Depth: 0,Zufall,0,0,MiniMax w/ CustomHeuristic,2024-10-15 19:51:22
+611,RandomPlayer,MiniMax w/ CustomHeuristic,18,18,Zufall,Depth: 1,0,0,MiniMax w/ CustomHeuristic,2024-10-15 19:51:22
+612,MiniMax w/ CustomHeuristic,RandomPlayer,20,19,Depth: 2,Zufall,0,0,MiniMax w/ CustomHeuristic,2024-10-15 19:51:22
+613,RandomPlayer,MiniMax w/ CustomHeuristic,22,21,Zufall,Depth: 3,0,0,RandomPlayer,2024-10-15 19:51:22
+614,MiniMax w/ CustomHeuristic,RandomPlayer,20,19,Depth: 4,Zufall,6,0,MiniMax w/ CustomHeuristic,2024-10-15 19:51:22
+615,RandomPlayer,MiniMax w/ CustomHeuristic,20,20,Zufall,Depth: 5,0,4,MiniMax w/ CustomHeuristic,2024-10-15 19:51:22
+616,MiniMax w/ CustomHeuristic,RandomPlayer,29,28,Depth: 6,Zufall,15,0,MiniMax w/ CustomHeuristic,2024-10-15 19:51:23
+617,RandomPlayer,MiniMax w/ CustomHeuristic,21,21,Zufall,Depth: 7,0,123,MiniMax w/ CustomHeuristic,2024-10-15 19:51:25
+618,MiniMax w/ CustomHeuristic,RandomPlayer,22,21,Depth: 8,Zufall,626,0,MiniMax w/ CustomHeuristic,2024-10-15 19:51:39
+619,RandomPlayer,MiniMax w/ CustomHeuristic,26,25,Zufall,Depth: 9,0,649,Draw,2024-10-15 19:51:55
+620,MiniMax w/ CustomHeuristic,RandomPlayer,18,17,Depth: 0,Zufall,0,0,MiniMax w/ CustomHeuristic,2024-10-15 19:51:55
+621,RandomPlayer,MiniMax w/ CustomHeuristic,24,23,Zufall,Depth: 1,0,0,Draw,2024-10-15 19:51:55
+622,MiniMax w/ CustomHeuristic,RandomPlayer,21,20,Depth: 2,Zufall,0,0,MiniMax w/ CustomHeuristic,2024-10-15 19:51:55
+623,RandomPlayer,MiniMax w/ CustomHeuristic,21,21,Zufall,Depth: 3,0,0,MiniMax w/ CustomHeuristic,2024-10-15 19:51:55
+624,MiniMax w/ CustomHeuristic,RandomPlayer,24,23,Depth: 4,Zufall,3,0,MiniMax w/ CustomHeuristic,2024-10-15 19:51:55
+625,RandomPlayer,MiniMax w/ CustomHeuristic,24,23,Zufall,Depth: 5,0,7,RandomPlayer,2024-10-15 19:51:56
+626,MiniMax w/ CustomHeuristic,RandomPlayer,21,20,Depth: 6,Zufall,25,0,MiniMax w/ CustomHeuristic,2024-10-15 19:51:56
+627,RandomPlayer,MiniMax w/ CustomHeuristic,18,18,Zufall,Depth: 7,0,29,MiniMax w/ CustomHeuristic,2024-10-15 19:51:57
+628,MiniMax w/ CustomHeuristic,RandomPlayer,28,28,Depth: 8,Zufall,316,0,Draw,2024-10-15 19:52:05
+629,RandomPlayer,MiniMax w/ CustomHeuristic,28,28,Zufall,Depth: 9,0,490,MiniMax w/ CustomHeuristic,2024-10-15 19:52:19
+630,MiniMax w/ CustomHeuristic,RandomPlayer,20,19,Depth: 0,Zufall,0,0,MiniMax w/ CustomHeuristic,2024-10-15 19:52:19
+631,RandomPlayer,MiniMax w/ CustomHeuristic,21,21,Zufall,Depth: 1,0,0,MiniMax w/ CustomHeuristic,2024-10-15 19:52:19
+632,MiniMax w/ CustomHeuristic,RandomPlayer,20,19,Depth: 2,Zufall,0,0,MiniMax w/ CustomHeuristic,2024-10-15 19:52:19
+633,RandomPlayer,MiniMax w/ CustomHeuristic,17,16,Zufall,Depth: 3,0,2,RandomPlayer,2024-10-15 19:52:19
+634,MiniMax w/ CustomHeuristic,RandomPlayer,20,19,Depth: 4,Zufall,6,0,MiniMax w/ CustomHeuristic,2024-10-15 19:52:19
+635,RandomPlayer,MiniMax w/ CustomHeuristic,19,18,Zufall,Depth: 5,0,25,RandomPlayer,2024-10-15 19:52:20
+636,MiniMax w/ CustomHeuristic,RandomPlayer,21,20,Depth: 6,Zufall,47,0,MiniMax w/ CustomHeuristic,2024-10-15 19:52:21
+637,RandomPlayer,MiniMax w/ CustomHeuristic,26,26,Zufall,Depth: 7,0,114,MiniMax w/ CustomHeuristic,2024-10-15 19:52:24
+638,MiniMax w/ CustomHeuristic,RandomPlayer,19,18,Depth: 8,Zufall,4493,0,MiniMax w/ CustomHeuristic,2024-10-15 19:53:49
+639,RandomPlayer,MiniMax w/ CustomHeuristic,17,17,Zufall,Depth: 9,0,1934,MiniMax w/ CustomHeuristic,2024-10-15 19:54:22
+640,MiniMax w/ CustomHeuristic,RandomPlayer,20,19,Depth: 0,Zufall,0,0,MiniMax w/ CustomHeuristic,2024-10-15 19:54:22
+641,RandomPlayer,MiniMax w/ CustomHeuristic,20,20,Zufall,Depth: 1,0,0,MiniMax w/ CustomHeuristic,2024-10-15 19:54:22
+642,MiniMax w/ CustomHeuristic,RandomPlayer,16,15,Depth: 2,Zufall,0,0,MiniMax w/ CustomHeuristic,2024-10-15 19:54:22
+643,RandomPlayer,MiniMax w/ CustomHeuristic,16,16,Zufall,Depth: 3,0,1,MiniMax w/ CustomHeuristic,2024-10-15 19:54:22
+644,MiniMax w/ CustomHeuristic,RandomPlayer,25,24,Depth: 4,Zufall,3,0,MiniMax w/ CustomHeuristic,2024-10-15 19:54:22
+645,RandomPlayer,MiniMax w/ CustomHeuristic,22,22,Zufall,Depth: 5,0,2,MiniMax w/ CustomHeuristic,2024-10-15 19:54:22
+646,MiniMax w/ CustomHeuristic,RandomPlayer,24,23,Depth: 6,Zufall,10,0,MiniMax w/ CustomHeuristic,2024-10-15 19:54:23
+647,RandomPlayer,MiniMax w/ CustomHeuristic,22,22,Zufall,Depth: 7,0,20,MiniMax w/ CustomHeuristic,2024-10-15 19:54:23
+648,MiniMax w/ CustomHeuristic,RandomPlayer,26,26,Depth: 8,Zufall,159,0,RandomPlayer,2024-10-15 19:54:27
+649,RandomPlayer,MiniMax w/ CustomHeuristic,19,19,Zufall,Depth: 9,0,1050,MiniMax w/ CustomHeuristic,2024-10-15 19:54:47
+650,MiniMax w/ CustomHeuristic,RandomPlayer,15,14,Depth: 0,Zufall,0,0,MiniMax w/ CustomHeuristic,2024-10-15 19:54:47
+651,RandomPlayer,MiniMax w/ CustomHeuristic,27,26,Zufall,Depth: 1,0,0,Draw,2024-10-15 19:54:47
+652,MiniMax w/ CustomHeuristic,RandomPlayer,23,22,Depth: 2,Zufall,0,0,MiniMax w/ CustomHeuristic,2024-10-15 19:54:47
+653,RandomPlayer,MiniMax w/ CustomHeuristic,25,24,Zufall,Depth: 3,0,0,RandomPlayer,2024-10-15 19:54:47
+654,MiniMax w/ CustomHeuristic,RandomPlayer,14,13,Depth: 4,Zufall,3,0,MiniMax w/ CustomHeuristic,2024-10-15 19:54:47
+655,RandomPlayer,MiniMax w/ CustomHeuristic,29,28,Zufall,Depth: 5,0,7,RandomPlayer,2024-10-15 19:54:47
+656,MiniMax w/ CustomHeuristic,RandomPlayer,26,25,Depth: 6,Zufall,19,0,MiniMax w/ CustomHeuristic,2024-10-15 19:54:48
+657,RandomPlayer,MiniMax w/ CustomHeuristic,32,31,Zufall,Depth: 7,0,129,Draw,2024-10-15 19:54:52
+658,MiniMax w/ CustomHeuristic,RandomPlayer,20,19,Depth: 8,Zufall,1203,0,MiniMax w/ CustomHeuristic,2024-10-15 19:55:16
+659,RandomPlayer,MiniMax w/ CustomHeuristic,22,22,Zufall,Depth: 9,0,4181,MiniMax w/ CustomHeuristic,2024-10-15 19:56:48
+660,MiniMax w/ CustomHeuristic,RandomPlayer,24,24,Depth: 0,Zufall,0,0,RandomPlayer,2024-10-15 19:56:48
+661,RandomPlayer,MiniMax w/ CustomHeuristic,18,18,Zufall,Depth: 1,0,0,MiniMax w/ CustomHeuristic,2024-10-15 19:56:48
+662,MiniMax w/ CustomHeuristic,RandomPlayer,19,18,Depth: 2,Zufall,0,0,MiniMax w/ CustomHeuristic,2024-10-15 19:56:48
+663,RandomPlayer,MiniMax w/ CustomHeuristic,23,23,Zufall,Depth: 3,0,0,MiniMax w/ CustomHeuristic,2024-10-15 19:56:48
+664,MiniMax w/ CustomHeuristic,RandomPlayer,19,18,Depth: 4,Zufall,1,0,MiniMax w/ CustomHeuristic,2024-10-15 19:56:48
+665,RandomPlayer,MiniMax w/ CustomHeuristic,22,22,Zufall,Depth: 5,0,5,MiniMax w/ CustomHeuristic,2024-10-15 19:56:48
+666,MiniMax w/ CustomHeuristic,RandomPlayer,22,21,Depth: 6,Zufall,13,0,MiniMax w/ CustomHeuristic,2024-10-15 19:56:49
+667,RandomPlayer,MiniMax w/ CustomHeuristic,23,23,Zufall,Depth: 7,0,136,MiniMax w/ CustomHeuristic,2024-10-15 19:56:52
+668,MiniMax w/ CustomHeuristic,RandomPlayer,22,22,Depth: 8,Zufall,179,0,RandomPlayer,2024-10-15 19:56:56
+669,RandomPlayer,MiniMax w/ CustomHeuristic,22,22,Zufall,Depth: 9,0,971,MiniMax w/ CustomHeuristic,2024-10-15 19:57:17
+670,MiniMax w/ CustomHeuristic,RandomPlayer,19,18,Depth: 0,Zufall,0,0,MiniMax w/ CustomHeuristic,2024-10-15 19:57:17
+671,RandomPlayer,MiniMax w/ CustomHeuristic,31,30,Zufall,Depth: 1,0,0,Draw,2024-10-15 19:57:17
+672,MiniMax w/ CustomHeuristic,RandomPlayer,29,29,Depth: 2,Zufall,0,0,Draw,2024-10-15 19:57:17
+673,RandomPlayer,MiniMax w/ CustomHeuristic,19,19,Zufall,Depth: 3,0,0,MiniMax w/ CustomHeuristic,2024-10-15 19:57:17
+674,MiniMax w/ CustomHeuristic,RandomPlayer,21,20,Depth: 4,Zufall,3,0,MiniMax w/ CustomHeuristic,2024-10-15 19:57:17
+675,RandomPlayer,MiniMax w/ CustomHeuristic,29,28,Zufall,Depth: 5,0,2,Draw,2024-10-15 19:57:17
+676,MiniMax w/ CustomHeuristic,RandomPlayer,21,20,Depth: 6,Zufall,50,0,MiniMax w/ CustomHeuristic,2024-10-15 19:57:18
+677,RandomPlayer,MiniMax w/ CustomHeuristic,25,25,Zufall,Depth: 7,0,19,MiniMax w/ CustomHeuristic,2024-10-15 19:57:19
+678,MiniMax w/ CustomHeuristic,RandomPlayer,22,21,Depth: 8,Zufall,288,0,MiniMax w/ CustomHeuristic,2024-10-15 19:57:25
+679,RandomPlayer,MiniMax w/ CustomHeuristic,38,37,Zufall,Depth: 9,0,257,Draw,2024-10-15 19:57:35
+680,MiniMax w/ CustomHeuristic,RandomPlayer,24,24,Depth: 0,Zufall,0,0,RandomPlayer,2024-10-15 19:57:35
+681,RandomPlayer,MiniMax w/ CustomHeuristic,18,18,Zufall,Depth: 1,0,0,MiniMax w/ CustomHeuristic,2024-10-15 19:57:35
+682,MiniMax w/ CustomHeuristic,RandomPlayer,18,17,Depth: 2,Zufall,0,0,MiniMax w/ CustomHeuristic,2024-10-15 19:57:35
+683,RandomPlayer,MiniMax w/ CustomHeuristic,21,21,Zufall,Depth: 3,0,0,MiniMax w/ CustomHeuristic,2024-10-15 19:57:35
+684,MiniMax w/ CustomHeuristic,RandomPlayer,21,21,Depth: 4,Zufall,1,0,RandomPlayer,2024-10-15 19:57:35
+685,RandomPlayer,MiniMax w/ CustomHeuristic,15,15,Zufall,Depth: 5,0,2,MiniMax w/ CustomHeuristic,2024-10-15 19:57:35
+686,MiniMax w/ CustomHeuristic,RandomPlayer,21,20,Depth: 6,Zufall,15,0,MiniMax w/ CustomHeuristic,2024-10-15 19:57:35
+687,RandomPlayer,MiniMax w/ CustomHeuristic,19,19,Zufall,Depth: 7,0,48,MiniMax w/ CustomHeuristic,2024-10-15 19:57:36
+688,MiniMax w/ CustomHeuristic,RandomPlayer,23,22,Depth: 8,Zufall,196,0,MiniMax w/ CustomHeuristic,2024-10-15 19:57:40
+689,RandomPlayer,MiniMax w/ CustomHeuristic,25,25,Zufall,Depth: 9,0,707,MiniMax w/ CustomHeuristic,2024-10-15 19:57:58
+690,MiniMax w/ CustomHeuristic,RandomPlayer,24,23,Depth: 0,Zufall,0,0,MiniMax w/ CustomHeuristic,2024-10-15 19:57:58
+691,RandomPlayer,MiniMax w/ CustomHeuristic,20,20,Zufall,Depth: 1,0,0,MiniMax w/ CustomHeuristic,2024-10-15 19:57:58
+692,MiniMax w/ CustomHeuristic,RandomPlayer,23,22,Depth: 2,Zufall,0,0,MiniMax w/ CustomHeuristic,2024-10-15 19:57:58
+693,RandomPlayer,MiniMax w/ CustomHeuristic,16,16,Zufall,Depth: 3,0,0,MiniMax w/ CustomHeuristic,2024-10-15 19:57:58
+694,MiniMax w/ CustomHeuristic,RandomPlayer,21,20,Depth: 4,Zufall,2,0,MiniMax w/ CustomHeuristic,2024-10-15 19:57:58
+695,RandomPlayer,MiniMax w/ CustomHeuristic,24,24,Zufall,Depth: 5,0,4,MiniMax w/ CustomHeuristic,2024-10-15 19:57:58
+696,MiniMax w/ CustomHeuristic,RandomPlayer,25,24,Depth: 6,Zufall,8,0,MiniMax w/ CustomHeuristic,2024-10-15 19:57:58
+697,RandomPlayer,MiniMax w/ CustomHeuristic,19,19,Zufall,Depth: 7,0,188,MiniMax w/ CustomHeuristic,2024-10-15 19:58:02
+698,MiniMax w/ CustomHeuristic,RandomPlayer,22,21,Depth: 8,Zufall,105,0,MiniMax w/ CustomHeuristic,2024-10-15 19:58:04
+699,RandomPlayer,MiniMax w/ CustomHeuristic,22,22,Zufall,Depth: 9,0,845,MiniMax w/ CustomHeuristic,2024-10-15 19:58:23
+700,MiniMax w/ CustomHeuristic,RandomPlayer,25,25,Depth: 0,Zufall,0,0,Draw,2024-10-15 19:58:23
+701,RandomPlayer,MiniMax w/ CustomHeuristic,23,23,Zufall,Depth: 1,0,0,MiniMax w/ CustomHeuristic,2024-10-15 19:58:23
+702,MiniMax w/ CustomHeuristic,RandomPlayer,24,23,Depth: 2,Zufall,0,0,MiniMax w/ CustomHeuristic,2024-10-15 19:58:23
+703,RandomPlayer,MiniMax w/ CustomHeuristic,23,23,Zufall,Depth: 3,0,0,MiniMax w/ CustomHeuristic,2024-10-15 19:58:23
+704,MiniMax w/ CustomHeuristic,RandomPlayer,22,21,Depth: 4,Zufall,1,0,MiniMax w/ CustomHeuristic,2024-10-15 19:58:23
+705,RandomPlayer,MiniMax w/ CustomHeuristic,22,22,Zufall,Depth: 5,0,1,MiniMax w/ CustomHeuristic,2024-10-15 19:58:23
+706,MiniMax w/ CustomHeuristic,RandomPlayer,22,21,Depth: 6,Zufall,26,0,MiniMax w/ CustomHeuristic,2024-10-15 19:58:24
+707,RandomPlayer,MiniMax w/ CustomHeuristic,23,23,Zufall,Depth: 7,0,47,MiniMax w/ CustomHeuristic,2024-10-15 19:58:25
+708,MiniMax w/ CustomHeuristic,RandomPlayer,17,16,Depth: 8,Zufall,5413,0,MiniMax w/ CustomHeuristic,2024-10-15 19:59:57
+709,RandomPlayer,MiniMax w/ CustomHeuristic,20,20,Zufall,Depth: 9,0,2743,MiniMax w/ CustomHeuristic,2024-10-15 20:00:52
+710,MiniMax w/ CustomHeuristic,RandomPlayer,22,21,Depth: 0,Zufall,0,0,MiniMax w/ CustomHeuristic,2024-10-15 20:00:52
+711,RandomPlayer,MiniMax w/ CustomHeuristic,30,29,Zufall,Depth: 1,0,0,Draw,2024-10-15 20:00:52
+712,MiniMax w/ CustomHeuristic,RandomPlayer,20,19,Depth: 2,Zufall,0,0,MiniMax w/ CustomHeuristic,2024-10-15 20:00:52
+713,RandomPlayer,MiniMax w/ CustomHeuristic,19,19,Zufall,Depth: 3,0,0,MiniMax w/ CustomHeuristic,2024-10-15 20:00:52
+714,MiniMax w/ CustomHeuristic,RandomPlayer,23,22,Depth: 4,Zufall,1,0,MiniMax w/ CustomHeuristic,2024-10-15 20:00:52
+715,RandomPlayer,MiniMax w/ CustomHeuristic,17,17,Zufall,Depth: 5,0,2,MiniMax w/ CustomHeuristic,2024-10-15 20:00:52
+716,MiniMax w/ CustomHeuristic,RandomPlayer,21,21,Depth: 6,Zufall,12,0,RandomPlayer,2024-10-15 20:00:52
+717,RandomPlayer,MiniMax w/ CustomHeuristic,21,21,Zufall,Depth: 7,0,47,MiniMax w/ CustomHeuristic,2024-10-15 20:00:53
+718,MiniMax w/ CustomHeuristic,RandomPlayer,24,24,Depth: 8,Zufall,2615,0,RandomPlayer,2024-10-15 20:01:56
+719,RandomPlayer,MiniMax w/ CustomHeuristic,27,27,Zufall,Depth: 9,0,573,MiniMax w/ CustomHeuristic,2024-10-15 20:02:11
+720,MiniMax w/ CustomHeuristic,RandomPlayer,15,14,Depth: 0,Zufall,0,0,MiniMax w/ CustomHeuristic,2024-10-15 20:02:11
+721,RandomPlayer,MiniMax w/ CustomHeuristic,22,22,Zufall,Depth: 1,0,0,MiniMax w/ CustomHeuristic,2024-10-15 20:02:11
+722,MiniMax w/ CustomHeuristic,RandomPlayer,27,26,Depth: 2,Zufall,0,0,MiniMax w/ CustomHeuristic,2024-10-15 20:02:11
+723,RandomPlayer,MiniMax w/ CustomHeuristic,16,16,Zufall,Depth: 3,0,0,MiniMax w/ CustomHeuristic,2024-10-15 20:02:11
+724,MiniMax w/ CustomHeuristic,RandomPlayer,25,24,Depth: 4,Zufall,1,0,MiniMax w/ CustomHeuristic,2024-10-15 20:02:11
+725,RandomPlayer,MiniMax w/ CustomHeuristic,25,25,Zufall,Depth: 5,0,4,MiniMax w/ CustomHeuristic,2024-10-15 20:02:11
+726,MiniMax w/ CustomHeuristic,RandomPlayer,24,23,Depth: 6,Zufall,35,0,MiniMax w/ CustomHeuristic,2024-10-15 20:02:12
+727,RandomPlayer,MiniMax w/ CustomHeuristic,23,22,Zufall,Depth: 7,0,42,RandomPlayer,2024-10-15 20:02:13
+728,MiniMax w/ CustomHeuristic,RandomPlayer,15,14,Depth: 8,Zufall,157,0,MiniMax w/ CustomHeuristic,2024-10-15 20:02:16
+729,RandomPlayer,MiniMax w/ CustomHeuristic,25,25,Zufall,Depth: 9,0,1012,MiniMax w/ CustomHeuristic,2024-10-15 20:02:41
+730,MiniMax w/ CustomHeuristic,RandomPlayer,17,16,Depth: 0,Zufall,0,0,MiniMax w/ CustomHeuristic,2024-10-15 20:02:41
+731,RandomPlayer,MiniMax w/ CustomHeuristic,24,24,Zufall,Depth: 1,0,0,MiniMax w/ CustomHeuristic,2024-10-15 20:02:41
+732,MiniMax w/ CustomHeuristic,RandomPlayer,27,26,Depth: 2,Zufall,0,0,MiniMax w/ CustomHeuristic,2024-10-15 20:02:41
+733,RandomPlayer,MiniMax w/ CustomHeuristic,21,21,Zufall,Depth: 3,0,0,MiniMax w/ CustomHeuristic,2024-10-15 20:02:41
+734,MiniMax w/ CustomHeuristic,RandomPlayer,20,19,Depth: 4,Zufall,2,0,MiniMax w/ CustomHeuristic,2024-10-15 20:02:41
+735,RandomPlayer,MiniMax w/ CustomHeuristic,20,20,Zufall,Depth: 5,0,5,MiniMax w/ CustomHeuristic,2024-10-15 20:02:41
+736,MiniMax w/ CustomHeuristic,RandomPlayer,18,17,Depth: 6,Zufall,11,0,MiniMax w/ CustomHeuristic,2024-10-15 20:02:41
+737,RandomPlayer,MiniMax w/ CustomHeuristic,22,21,Zufall,Depth: 7,0,24,RandomPlayer,2024-10-15 20:02:42
+738,MiniMax w/ CustomHeuristic,RandomPlayer,36,36,Depth: 8,Zufall,78,0,RandomPlayer,2024-10-15 20:02:45
+739,RandomPlayer,MiniMax w/ CustomHeuristic,23,22,Zufall,Depth: 9,0,5926,RandomPlayer,2024-10-15 20:04:55
+740,MiniMax w/ CustomHeuristic,RandomPlayer,24,23,Depth: 0,Zufall,0,0,MiniMax w/ CustomHeuristic,2024-10-15 20:04:55
+741,RandomPlayer,MiniMax w/ CustomHeuristic,24,23,Zufall,Depth: 1,0,0,Draw,2024-10-15 20:04:55
+742,MiniMax w/ CustomHeuristic,RandomPlayer,26,25,Depth: 2,Zufall,0,0,MiniMax w/ CustomHeuristic,2024-10-15 20:04:55
+743,RandomPlayer,MiniMax w/ CustomHeuristic,23,23,Zufall,Depth: 3,0,0,MiniMax w/ CustomHeuristic,2024-10-15 20:04:55
+744,MiniMax w/ CustomHeuristic,RandomPlayer,14,14,Depth: 4,Zufall,3,0,RandomPlayer,2024-10-15 20:04:55
+745,RandomPlayer,MiniMax w/ CustomHeuristic,14,14,Zufall,Depth: 5,0,4,MiniMax w/ CustomHeuristic,2024-10-15 20:04:55
+746,MiniMax w/ CustomHeuristic,RandomPlayer,24,23,Depth: 6,Zufall,32,0,MiniMax w/ CustomHeuristic,2024-10-15 20:04:56
+747,RandomPlayer,MiniMax w/ CustomHeuristic,19,19,Zufall,Depth: 7,0,559,MiniMax w/ CustomHeuristic,2024-10-15 20:05:07
+748,MiniMax w/ CustomHeuristic,RandomPlayer,19,18,Depth: 8,Zufall,1067,0,MiniMax w/ CustomHeuristic,2024-10-15 20:05:27
+749,RandomPlayer,MiniMax w/ CustomHeuristic,19,19,Zufall,Depth: 9,0,1384,MiniMax w/ CustomHeuristic,2024-10-15 20:05:53
+750,MiniMax w/ CustomHeuristic,RandomPlayer,15,14,Depth: 0,Zufall,0,0,MiniMax w/ CustomHeuristic,2024-10-15 20:05:53
+751,RandomPlayer,MiniMax w/ CustomHeuristic,16,15,Zufall,Depth: 1,0,0,RandomPlayer,2024-10-15 20:05:53
+752,MiniMax w/ CustomHeuristic,RandomPlayer,24,23,Depth: 2,Zufall,0,0,MiniMax w/ CustomHeuristic,2024-10-15 20:05:53
+753,RandomPlayer,MiniMax w/ CustomHeuristic,23,22,Zufall,Depth: 3,0,0,RandomPlayer,2024-10-15 20:05:53
+754,MiniMax w/ CustomHeuristic,RandomPlayer,20,19,Depth: 4,Zufall,1,0,MiniMax w/ CustomHeuristic,2024-10-15 20:05:53
+755,RandomPlayer,MiniMax w/ CustomHeuristic,17,17,Zufall,Depth: 5,0,4,MiniMax w/ CustomHeuristic,2024-10-15 20:05:53
+756,MiniMax w/ CustomHeuristic,RandomPlayer,25,25,Depth: 6,Zufall,96,0,Draw,2024-10-15 20:05:56
+757,RandomPlayer,MiniMax w/ CustomHeuristic,21,21,Zufall,Depth: 7,0,46,MiniMax w/ CustomHeuristic,2024-10-15 20:05:57
+758,MiniMax w/ CustomHeuristic,RandomPlayer,22,21,Depth: 8,Zufall,410,0,MiniMax w/ CustomHeuristic,2024-10-15 20:06:06
+759,RandomPlayer,MiniMax w/ CustomHeuristic,31,30,Zufall,Depth: 9,0,643,Draw,2024-10-15 20:06:25
+760,MiniMax w/ CustomHeuristic,RandomPlayer,25,25,Depth: 0,Zufall,0,0,Draw,2024-10-15 20:06:25
+761,RandomPlayer,MiniMax w/ CustomHeuristic,17,16,Zufall,Depth: 1,0,0,RandomPlayer,2024-10-15 20:06:25
+762,MiniMax w/ CustomHeuristic,RandomPlayer,23,22,Depth: 2,Zufall,0,0,MiniMax w/ CustomHeuristic,2024-10-15 20:06:25
+763,RandomPlayer,MiniMax w/ CustomHeuristic,23,23,Zufall,Depth: 3,0,0,MiniMax w/ CustomHeuristic,2024-10-15 20:06:25
+764,MiniMax w/ CustomHeuristic,RandomPlayer,18,18,Depth: 4,Zufall,4,0,RandomPlayer,2024-10-15 20:06:25
+765,RandomPlayer,MiniMax w/ CustomHeuristic,22,22,Zufall,Depth: 5,0,21,MiniMax w/ CustomHeuristic,2024-10-15 20:06:26
+766,MiniMax w/ CustomHeuristic,RandomPlayer,25,24,Depth: 6,Zufall,13,0,MiniMax w/ CustomHeuristic,2024-10-15 20:06:26
+767,RandomPlayer,MiniMax w/ CustomHeuristic,26,26,Zufall,Depth: 7,0,112,MiniMax w/ CustomHeuristic,2024-10-15 20:06:29
+768,MiniMax w/ CustomHeuristic,RandomPlayer,21,20,Depth: 8,Zufall,347,0,MiniMax w/ CustomHeuristic,2024-10-15 20:06:36
+769,RandomPlayer,MiniMax w/ CustomHeuristic,22,21,Zufall,Depth: 9,0,993,RandomPlayer,2024-10-15 20:06:57
+770,MiniMax w/ CustomHeuristic,RandomPlayer,20,19,Depth: 0,Zufall,0,0,MiniMax w/ CustomHeuristic,2024-10-15 20:06:57
+771,RandomPlayer,MiniMax w/ CustomHeuristic,15,15,Zufall,Depth: 1,0,0,MiniMax w/ CustomHeuristic,2024-10-15 20:06:57
+772,MiniMax w/ CustomHeuristic,RandomPlayer,21,20,Depth: 2,Zufall,0,0,MiniMax w/ CustomHeuristic,2024-10-15 20:06:57
+773,RandomPlayer,MiniMax w/ CustomHeuristic,19,19,Zufall,Depth: 3,0,0,MiniMax w/ CustomHeuristic,2024-10-15 20:06:57
+774,MiniMax w/ CustomHeuristic,RandomPlayer,14,13,Depth: 4,Zufall,1,0,MiniMax w/ CustomHeuristic,2024-10-15 20:06:57
+775,RandomPlayer,MiniMax w/ CustomHeuristic,28,27,Zufall,Depth: 5,0,3,RandomPlayer,2024-10-15 20:06:57
+776,MiniMax w/ CustomHeuristic,RandomPlayer,27,26,Depth: 6,Zufall,9,0,MiniMax w/ CustomHeuristic,2024-10-15 20:06:57
+777,RandomPlayer,MiniMax w/ CustomHeuristic,25,25,Zufall,Depth: 7,0,47,MiniMax w/ CustomHeuristic,2024-10-15 20:06:59
+778,MiniMax w/ CustomHeuristic,RandomPlayer,23,22,Depth: 8,Zufall,1135,0,MiniMax w/ CustomHeuristic,2024-10-15 20:07:25
+779,RandomPlayer,MiniMax w/ CustomHeuristic,23,23,Zufall,Depth: 9,0,3897,MiniMax w/ CustomHeuristic,2024-10-15 20:08:54
+780,MiniMax w/ CustomHeuristic,RandomPlayer,21,21,Depth: 0,Zufall,0,0,RandomPlayer,2024-10-15 20:08:54
+781,RandomPlayer,MiniMax w/ CustomHeuristic,16,16,Zufall,Depth: 1,0,0,MiniMax w/ CustomHeuristic,2024-10-15 20:08:54
+782,MiniMax w/ CustomHeuristic,RandomPlayer,30,30,Depth: 2,Zufall,0,0,RandomPlayer,2024-10-15 20:08:54
+783,RandomPlayer,MiniMax w/ CustomHeuristic,26,26,Zufall,Depth: 3,0,0,MiniMax w/ CustomHeuristic,2024-10-15 20:08:54
+784,MiniMax w/ CustomHeuristic,RandomPlayer,11,10,Depth: 4,Zufall,1,0,MiniMax w/ CustomHeuristic,2024-10-15 20:08:54
+785,RandomPlayer,MiniMax w/ CustomHeuristic,20,20,Zufall,Depth: 5,0,3,MiniMax w/ CustomHeuristic,2024-10-15 20:08:54
+786,MiniMax w/ CustomHeuristic,RandomPlayer,21,20,Depth: 6,Zufall,23,0,MiniMax w/ CustomHeuristic,2024-10-15 20:08:55
+787,RandomPlayer,MiniMax w/ CustomHeuristic,15,15,Zufall,Depth: 7,0,45,MiniMax w/ CustomHeuristic,2024-10-15 20:08:56
+788,MiniMax w/ CustomHeuristic,RandomPlayer,25,24,Depth: 8,Zufall,184,0,MiniMax w/ CustomHeuristic,2024-10-15 20:09:00
+789,RandomPlayer,MiniMax w/ CustomHeuristic,18,18,Zufall,Depth: 9,0,1848,MiniMax w/ CustomHeuristic,2024-10-15 20:09:33
+790,MiniMax w/ CustomHeuristic,RandomPlayer,21,20,Depth: 0,Zufall,0,0,MiniMax w/ CustomHeuristic,2024-10-15 20:09:33
+791,RandomPlayer,MiniMax w/ CustomHeuristic,21,21,Zufall,Depth: 1,0,0,MiniMax w/ CustomHeuristic,2024-10-15 20:09:33
+792,MiniMax w/ CustomHeuristic,RandomPlayer,21,20,Depth: 2,Zufall,0,0,MiniMax w/ CustomHeuristic,2024-10-15 20:09:33
+793,RandomPlayer,MiniMax w/ CustomHeuristic,27,26,Zufall,Depth: 3,0,0,Draw,2024-10-15 20:09:33
+794,MiniMax w/ CustomHeuristic,RandomPlayer,16,15,Depth: 4,Zufall,2,0,MiniMax w/ CustomHeuristic,2024-10-15 20:09:34
+795,RandomPlayer,MiniMax w/ CustomHeuristic,22,22,Zufall,Depth: 5,0,3,MiniMax w/ CustomHeuristic,2024-10-15 20:09:34
+796,MiniMax w/ CustomHeuristic,RandomPlayer,27,26,Depth: 6,Zufall,17,0,MiniMax w/ CustomHeuristic,2024-10-15 20:09:34
+797,RandomPlayer,MiniMax w/ CustomHeuristic,27,27,Zufall,Depth: 7,0,29,MiniMax w/ CustomHeuristic,2024-10-15 20:09:35
+798,MiniMax w/ CustomHeuristic,RandomPlayer,12,11,Depth: 8,Zufall,2585,0,MiniMax w/ CustomHeuristic,2024-10-15 20:10:06
+799,RandomPlayer,MiniMax w/ CustomHeuristic,23,23,Zufall,Depth: 9,0,12851,MiniMax w/ CustomHeuristic,2024-10-15 20:15:01
+800,MiniMax w/ CustomHeuristic,RandomPlayer,22,21,Depth: 0,Zufall,0,0,MiniMax w/ CustomHeuristic,2024-10-15 20:15:01
+801,RandomPlayer,MiniMax w/ CustomHeuristic,22,22,Zufall,Depth: 1,0,0,MiniMax w/ CustomHeuristic,2024-10-15 20:15:01
+802,MiniMax w/ CustomHeuristic,RandomPlayer,18,17,Depth: 2,Zufall,0,0,MiniMax w/ CustomHeuristic,2024-10-15 20:15:01
+803,RandomPlayer,MiniMax w/ CustomHeuristic,27,26,Zufall,Depth: 3,0,0,Draw,2024-10-15 20:15:01
+804,MiniMax w/ CustomHeuristic,RandomPlayer,20,19,Depth: 4,Zufall,2,0,MiniMax w/ CustomHeuristic,2024-10-15 20:15:02
+805,RandomPlayer,MiniMax w/ CustomHeuristic,17,17,Zufall,Depth: 5,0,7,MiniMax w/ CustomHeuristic,2024-10-15 20:15:02
+806,MiniMax w/ CustomHeuristic,RandomPlayer,21,20,Depth: 6,Zufall,24,0,MiniMax w/ CustomHeuristic,2024-10-15 20:15:02
+807,RandomPlayer,MiniMax w/ CustomHeuristic,22,22,Zufall,Depth: 7,0,88,MiniMax w/ CustomHeuristic,2024-10-15 20:15:04
+808,MiniMax w/ CustomHeuristic,RandomPlayer,25,24,Depth: 8,Zufall,292,0,MiniMax w/ CustomHeuristic,2024-10-15 20:15:11
+809,RandomPlayer,MiniMax w/ CustomHeuristic,25,25,Zufall,Depth: 9,0,549,MiniMax w/ CustomHeuristic,2024-10-15 20:15:25
+810,MiniMax w/ CustomHeuristic,RandomPlayer,26,26,Depth: 0,Zufall,0,0,Draw,2024-10-15 20:15:25
+811,RandomPlayer,MiniMax w/ CustomHeuristic,20,20,Zufall,Depth: 1,0,0,MiniMax w/ CustomHeuristic,2024-10-15 20:15:25
+812,MiniMax w/ CustomHeuristic,RandomPlayer,24,23,Depth: 2,Zufall,0,0,MiniMax w/ CustomHeuristic,2024-10-15 20:15:25
+813,RandomPlayer,MiniMax w/ CustomHeuristic,18,18,Zufall,Depth: 3,0,0,MiniMax w/ CustomHeuristic,2024-10-15 20:15:25
+814,MiniMax w/ CustomHeuristic,RandomPlayer,19,19,Depth: 4,Zufall,2,0,RandomPlayer,2024-10-15 20:15:25
+815,RandomPlayer,MiniMax w/ CustomHeuristic,20,20,Zufall,Depth: 5,0,8,MiniMax w/ CustomHeuristic,2024-10-15 20:15:25
+816,MiniMax w/ CustomHeuristic,RandomPlayer,17,16,Depth: 6,Zufall,100,0,MiniMax w/ CustomHeuristic,2024-10-15 20:15:27
+817,RandomPlayer,MiniMax w/ CustomHeuristic,21,21,Zufall,Depth: 7,0,82,MiniMax w/ CustomHeuristic,2024-10-15 20:15:29
+818,MiniMax w/ CustomHeuristic,RandomPlayer,20,19,Depth: 8,Zufall,2451,0,MiniMax w/ CustomHeuristic,2024-10-15 20:16:18
+819,RandomPlayer,MiniMax w/ CustomHeuristic,21,20,Zufall,Depth: 9,0,953,RandomPlayer,2024-10-15 20:16:37
+820,MiniMax w/ CustomHeuristic,RandomPlayer,20,19,Depth: 0,Zufall,0,0,MiniMax w/ CustomHeuristic,2024-10-15 20:16:37
+821,RandomPlayer,MiniMax w/ CustomHeuristic,18,17,Zufall,Depth: 1,0,0,RandomPlayer,2024-10-15 20:16:37
+822,MiniMax w/ CustomHeuristic,RandomPlayer,18,17,Depth: 2,Zufall,0,0,MiniMax w/ CustomHeuristic,2024-10-15 20:16:37
+823,RandomPlayer,MiniMax w/ CustomHeuristic,20,20,Zufall,Depth: 3,0,0,MiniMax w/ CustomHeuristic,2024-10-15 20:16:37
+824,MiniMax w/ CustomHeuristic,RandomPlayer,23,23,Depth: 4,Zufall,1,0,RandomPlayer,2024-10-15 20:16:37
+825,RandomPlayer,MiniMax w/ CustomHeuristic,26,25,Zufall,Depth: 5,0,2,RandomPlayer,2024-10-15 20:16:37
+826,MiniMax w/ CustomHeuristic,RandomPlayer,18,17,Depth: 6,Zufall,34,0,MiniMax w/ CustomHeuristic,2024-10-15 20:16:38
+827,RandomPlayer,MiniMax w/ CustomHeuristic,16,16,Zufall,Depth: 7,0,147,MiniMax w/ CustomHeuristic,2024-10-15 20:16:40
+828,MiniMax w/ CustomHeuristic,RandomPlayer,19,18,Depth: 8,Zufall,63,0,MiniMax w/ CustomHeuristic,2024-10-15 20:16:41
+829,RandomPlayer,MiniMax w/ CustomHeuristic,21,21,Zufall,Depth: 9,0,3240,MiniMax w/ CustomHeuristic,2024-10-15 20:17:49
+830,MiniMax w/ CustomHeuristic,RandomPlayer,19,18,Depth: 0,Zufall,0,0,MiniMax w/ CustomHeuristic,2024-10-15 20:17:49
+831,RandomPlayer,MiniMax w/ CustomHeuristic,21,21,Zufall,Depth: 1,0,0,MiniMax w/ CustomHeuristic,2024-10-15 20:17:49
+832,MiniMax w/ CustomHeuristic,RandomPlayer,21,20,Depth: 2,Zufall,0,0,MiniMax w/ CustomHeuristic,2024-10-15 20:17:49
+833,RandomPlayer,MiniMax w/ CustomHeuristic,18,18,Zufall,Depth: 3,0,0,MiniMax w/ CustomHeuristic,2024-10-15 20:17:49
+834,MiniMax w/ CustomHeuristic,RandomPlayer,17,16,Depth: 4,Zufall,6,0,MiniMax w/ CustomHeuristic,2024-10-15 20:17:49
+835,RandomPlayer,MiniMax w/ CustomHeuristic,18,18,Zufall,Depth: 5,0,3,MiniMax w/ CustomHeuristic,2024-10-15 20:17:49
+836,MiniMax w/ CustomHeuristic,RandomPlayer,18,17,Depth: 6,Zufall,11,0,MiniMax w/ CustomHeuristic,2024-10-15 20:17:50
+837,RandomPlayer,MiniMax w/ CustomHeuristic,21,21,Zufall,Depth: 7,0,180,MiniMax w/ CustomHeuristic,2024-10-15 20:17:53
+838,MiniMax w/ CustomHeuristic,RandomPlayer,25,24,Depth: 8,Zufall,103,0,MiniMax w/ CustomHeuristic,2024-10-15 20:17:56
+839,RandomPlayer,MiniMax w/ CustomHeuristic,28,27,Zufall,Depth: 9,0,553,RandomPlayer,2024-10-15 20:18:11
+840,MiniMax w/ CustomHeuristic,RandomPlayer,23,22,Depth: 0,Zufall,0,0,MiniMax w/ CustomHeuristic,2024-10-15 20:18:11
+841,RandomPlayer,MiniMax w/ CustomHeuristic,14,14,Zufall,Depth: 1,0,0,MiniMax w/ CustomHeuristic,2024-10-15 20:18:11
+842,MiniMax w/ CustomHeuristic,RandomPlayer,19,18,Depth: 2,Zufall,0,0,MiniMax w/ CustomHeuristic,2024-10-15 20:18:11
+843,RandomPlayer,MiniMax w/ CustomHeuristic,23,23,Zufall,Depth: 3,0,0,MiniMax w/ CustomHeuristic,2024-10-15 20:18:11
+844,MiniMax w/ CustomHeuristic,RandomPlayer,22,21,Depth: 4,Zufall,0,0,MiniMax w/ CustomHeuristic,2024-10-15 20:18:11
+845,RandomPlayer,MiniMax w/ CustomHeuristic,17,17,Zufall,Depth: 5,0,3,MiniMax w/ CustomHeuristic,2024-10-15 20:18:11
+846,MiniMax w/ CustomHeuristic,RandomPlayer,18,17,Depth: 6,Zufall,30,0,MiniMax w/ CustomHeuristic,2024-10-15 20:18:12
+847,RandomPlayer,MiniMax w/ CustomHeuristic,21,21,Zufall,Depth: 7,0,40,MiniMax w/ CustomHeuristic,2024-10-15 20:18:13
+848,MiniMax w/ CustomHeuristic,RandomPlayer,17,16,Depth: 8,Zufall,5164,0,MiniMax w/ CustomHeuristic,2024-10-15 20:19:40
+849,RandomPlayer,MiniMax w/ CustomHeuristic,30,30,Zufall,Depth: 9,0,440,MiniMax w/ CustomHeuristic,2024-10-15 20:19:54
+850,MiniMax w/ CustomHeuristic,RandomPlayer,26,25,Depth: 0,Zufall,0,0,MiniMax w/ CustomHeuristic,2024-10-15 20:19:54
+851,RandomPlayer,MiniMax w/ CustomHeuristic,23,23,Zufall,Depth: 1,0,0,MiniMax w/ CustomHeuristic,2024-10-15 20:19:54
+852,MiniMax w/ CustomHeuristic,RandomPlayer,21,20,Depth: 2,Zufall,0,0,MiniMax w/ CustomHeuristic,2024-10-15 20:19:54
+853,RandomPlayer,MiniMax w/ CustomHeuristic,22,22,Zufall,Depth: 3,0,0,MiniMax w/ CustomHeuristic,2024-10-15 20:19:54
+854,MiniMax w/ CustomHeuristic,RandomPlayer,24,23,Depth: 4,Zufall,0,0,MiniMax w/ CustomHeuristic,2024-10-15 20:19:54
+855,RandomPlayer,MiniMax w/ CustomHeuristic,25,25,Zufall,Depth: 5,0,7,MiniMax w/ CustomHeuristic,2024-10-15 20:19:54
+856,MiniMax w/ CustomHeuristic,RandomPlayer,25,24,Depth: 6,Zufall,28,0,MiniMax w/ CustomHeuristic,2024-10-15 20:19:55
+857,RandomPlayer,MiniMax w/ CustomHeuristic,29,28,Zufall,Depth: 7,0,17,Draw,2024-10-15 20:19:55
+858,MiniMax w/ CustomHeuristic,RandomPlayer,27,27,Depth: 8,Zufall,589,0,RandomPlayer,2024-10-15 20:20:11
+859,RandomPlayer,MiniMax w/ CustomHeuristic,20,19,Zufall,Depth: 9,0,321,RandomPlayer,2024-10-15 20:20:17
+860,MiniMax w/ CustomHeuristic,RandomPlayer,21,20,Depth: 0,Zufall,0,0,MiniMax w/ CustomHeuristic,2024-10-15 20:20:17
+861,RandomPlayer,MiniMax w/ CustomHeuristic,23,22,Zufall,Depth: 1,0,0,Draw,2024-10-15 20:20:17
+862,MiniMax w/ CustomHeuristic,RandomPlayer,15,14,Depth: 2,Zufall,0,0,MiniMax w/ CustomHeuristic,2024-10-15 20:20:17
+863,RandomPlayer,MiniMax w/ CustomHeuristic,21,21,Zufall,Depth: 3,0,0,MiniMax w/ CustomHeuristic,2024-10-15 20:20:17
+864,MiniMax w/ CustomHeuristic,RandomPlayer,21,20,Depth: 4,Zufall,1,0,MiniMax w/ CustomHeuristic,2024-10-15 20:20:17
+865,RandomPlayer,MiniMax w/ CustomHeuristic,19,19,Zufall,Depth: 5,0,4,MiniMax w/ CustomHeuristic,2024-10-15 20:20:17
+866,MiniMax w/ CustomHeuristic,RandomPlayer,27,27,Depth: 6,Zufall,6,0,Draw,2024-10-15 20:20:17
+867,RandomPlayer,MiniMax w/ CustomHeuristic,20,20,Zufall,Depth: 7,0,61,MiniMax w/ CustomHeuristic,2024-10-15 20:20:19
+868,MiniMax w/ CustomHeuristic,RandomPlayer,22,21,Depth: 8,Zufall,272,0,MiniMax w/ CustomHeuristic,2024-10-15 20:20:25
+869,RandomPlayer,MiniMax w/ CustomHeuristic,33,32,Zufall,Depth: 9,0,772,Draw,2024-10-15 20:20:49
+870,MiniMax w/ CustomHeuristic,RandomPlayer,17,16,Depth: 0,Zufall,0,0,MiniMax w/ CustomHeuristic,2024-10-15 20:20:49
+871,RandomPlayer,MiniMax w/ CustomHeuristic,23,23,Zufall,Depth: 1,0,0,MiniMax w/ CustomHeuristic,2024-10-15 20:20:49
+872,MiniMax w/ CustomHeuristic,RandomPlayer,23,22,Depth: 2,Zufall,0,0,MiniMax w/ CustomHeuristic,2024-10-15 20:20:49
+873,RandomPlayer,MiniMax w/ CustomHeuristic,24,23,Zufall,Depth: 3,0,0,RandomPlayer,2024-10-15 20:20:49
+874,MiniMax w/ CustomHeuristic,RandomPlayer,26,26,Depth: 4,Zufall,0,0,RandomPlayer,2024-10-15 20:20:49
+875,RandomPlayer,MiniMax w/ CustomHeuristic,23,23,Zufall,Depth: 5,0,3,MiniMax w/ CustomHeuristic,2024-10-15 20:20:49
+876,MiniMax w/ CustomHeuristic,RandomPlayer,21,20,Depth: 6,Zufall,14,0,MiniMax w/ CustomHeuristic,2024-10-15 20:20:50
+877,RandomPlayer,MiniMax w/ CustomHeuristic,28,27,Zufall,Depth: 7,0,51,RandomPlayer,2024-10-15 20:20:51
+878,MiniMax w/ CustomHeuristic,RandomPlayer,26,25,Depth: 8,Zufall,625,0,MiniMax w/ CustomHeuristic,2024-10-15 20:21:07
+879,RandomPlayer,MiniMax w/ CustomHeuristic,16,16,Zufall,Depth: 9,0,4481,MiniMax w/ CustomHeuristic,2024-10-15 20:22:19
+880,MiniMax w/ CustomHeuristic,RandomPlayer,17,16,Depth: 0,Zufall,0,0,MiniMax w/ CustomHeuristic,2024-10-15 20:22:19
+881,RandomPlayer,MiniMax w/ CustomHeuristic,20,20,Zufall,Depth: 1,0,0,MiniMax w/ CustomHeuristic,2024-10-15 20:22:19
+882,MiniMax w/ CustomHeuristic,RandomPlayer,22,21,Depth: 2,Zufall,0,0,MiniMax w/ CustomHeuristic,2024-10-15 20:22:19
+883,RandomPlayer,MiniMax w/ CustomHeuristic,21,21,Zufall,Depth: 3,0,0,MiniMax w/ CustomHeuristic,2024-10-15 20:22:19
+884,MiniMax w/ CustomHeuristic,RandomPlayer,19,18,Depth: 4,Zufall,2,0,MiniMax w/ CustomHeuristic,2024-10-15 20:22:19
+885,RandomPlayer,MiniMax w/ CustomHeuristic,20,20,Zufall,Depth: 5,0,4,MiniMax w/ CustomHeuristic,2024-10-15 20:22:19
+886,MiniMax w/ CustomHeuristic,RandomPlayer,23,22,Depth: 6,Zufall,65,0,MiniMax w/ CustomHeuristic,2024-10-15 20:22:21
+887,RandomPlayer,MiniMax w/ CustomHeuristic,31,30,Zufall,Depth: 7,0,84,Draw,2024-10-15 20:22:23
+888,MiniMax w/ CustomHeuristic,RandomPlayer,26,25,Depth: 8,Zufall,1319,0,MiniMax w/ CustomHeuristic,2024-10-15 20:22:58
+889,RandomPlayer,MiniMax w/ CustomHeuristic,20,20,Zufall,Depth: 9,0,624,MiniMax w/ CustomHeuristic,2024-10-15 20:23:10
+890,MiniMax w/ CustomHeuristic,RandomPlayer,23,22,Depth: 0,Zufall,0,0,MiniMax w/ CustomHeuristic,2024-10-15 20:23:10
+891,RandomPlayer,MiniMax w/ CustomHeuristic,22,22,Zufall,Depth: 1,0,0,MiniMax w/ CustomHeuristic,2024-10-15 20:23:10
+892,MiniMax w/ CustomHeuristic,RandomPlayer,18,17,Depth: 2,Zufall,0,0,MiniMax w/ CustomHeuristic,2024-10-15 20:23:10
+893,RandomPlayer,MiniMax w/ CustomHeuristic,17,17,Zufall,Depth: 3,0,0,MiniMax w/ CustomHeuristic,2024-10-15 20:23:10
+894,MiniMax w/ CustomHeuristic,RandomPlayer,26,25,Depth: 4,Zufall,1,0,MiniMax w/ CustomHeuristic,2024-10-15 20:23:10
+895,RandomPlayer,MiniMax w/ CustomHeuristic,29,29,Zufall,Depth: 5,0,1,MiniMax w/ CustomHeuristic,2024-10-15 20:23:10
+896,MiniMax w/ CustomHeuristic,RandomPlayer,23,22,Depth: 6,Zufall,24,0,MiniMax w/ CustomHeuristic,2024-10-15 20:23:11
+897,RandomPlayer,MiniMax w/ CustomHeuristic,22,22,Zufall,Depth: 7,0,98,MiniMax w/ CustomHeuristic,2024-10-15 20:23:13
+898,MiniMax w/ CustomHeuristic,RandomPlayer,30,30,Depth: 8,Zufall,64,0,RandomPlayer,2024-10-15 20:23:15
+899,RandomPlayer,MiniMax w/ CustomHeuristic,18,18,Zufall,Depth: 9,0,2176,MiniMax w/ CustomHeuristic,2024-10-15 20:23:54
+900,MiniMax w/ CustomHeuristic,RandomPlayer,18,17,Depth: 0,Zufall,0,0,MiniMax w/ CustomHeuristic,2024-10-15 20:23:54
+901,RandomPlayer,MiniMax w/ CustomHeuristic,18,18,Zufall,Depth: 1,0,0,MiniMax w/ CustomHeuristic,2024-10-15 20:23:54
+902,MiniMax w/ CustomHeuristic,RandomPlayer,18,17,Depth: 2,Zufall,0,0,MiniMax w/ CustomHeuristic,2024-10-15 20:23:54
+903,RandomPlayer,MiniMax w/ CustomHeuristic,19,19,Zufall,Depth: 3,0,0,MiniMax w/ CustomHeuristic,2024-10-15 20:23:54
+904,MiniMax w/ CustomHeuristic,RandomPlayer,26,26,Depth: 4,Zufall,1,0,RandomPlayer,2024-10-15 20:23:54
+905,RandomPlayer,MiniMax w/ CustomHeuristic,28,27,Zufall,Depth: 5,0,3,RandomPlayer,2024-10-15 20:23:54
+906,MiniMax w/ CustomHeuristic,RandomPlayer,19,18,Depth: 6,Zufall,76,0,MiniMax w/ CustomHeuristic,2024-10-15 20:23:56
+907,RandomPlayer,MiniMax w/ CustomHeuristic,21,21,Zufall,Depth: 7,0,77,MiniMax w/ CustomHeuristic,2024-10-15 20:23:57
+908,MiniMax w/ CustomHeuristic,RandomPlayer,22,21,Depth: 8,Zufall,360,0,MiniMax w/ CustomHeuristic,2024-10-15 20:24:05
+909,RandomPlayer,MiniMax w/ CustomHeuristic,16,16,Zufall,Depth: 9,0,548,MiniMax w/ CustomHeuristic,2024-10-15 20:24:14
+910,MiniMax w/ CustomHeuristic,RandomPlayer,24,24,Depth: 0,Zufall,0,0,Draw,2024-10-15 20:24:14
+911,RandomPlayer,MiniMax w/ CustomHeuristic,19,19,Zufall,Depth: 1,0,0,MiniMax w/ CustomHeuristic,2024-10-15 20:24:14
+912,MiniMax w/ CustomHeuristic,RandomPlayer,19,18,Depth: 2,Zufall,0,0,MiniMax w/ CustomHeuristic,2024-10-15 20:24:14
+913,RandomPlayer,MiniMax w/ CustomHeuristic,17,17,Zufall,Depth: 3,0,0,MiniMax w/ CustomHeuristic,2024-10-15 20:24:14
+914,MiniMax w/ CustomHeuristic,RandomPlayer,19,18,Depth: 4,Zufall,1,0,MiniMax w/ CustomHeuristic,2024-10-15 20:24:14
+915,RandomPlayer,MiniMax w/ CustomHeuristic,31,30,Zufall,Depth: 5,0,3,Draw,2024-10-15 20:24:14
+916,MiniMax w/ CustomHeuristic,RandomPlayer,23,22,Depth: 6,Zufall,35,0,MiniMax w/ CustomHeuristic,2024-10-15 20:24:15
+917,RandomPlayer,MiniMax w/ CustomHeuristic,20,20,Zufall,Depth: 7,0,57,MiniMax w/ CustomHeuristic,2024-10-15 20:24:16
+918,MiniMax w/ CustomHeuristic,RandomPlayer,24,23,Depth: 8,Zufall,435,0,MiniMax w/ CustomHeuristic,2024-10-15 20:24:26
+919,RandomPlayer,MiniMax w/ CustomHeuristic,19,19,Zufall,Depth: 9,0,272,MiniMax w/ CustomHeuristic,2024-10-15 20:24:32
+920,MiniMax w/ CustomHeuristic,RandomPlayer,17,16,Depth: 0,Zufall,0,0,MiniMax w/ CustomHeuristic,2024-10-15 20:24:32
+921,RandomPlayer,MiniMax w/ CustomHeuristic,24,24,Zufall,Depth: 1,0,0,MiniMax w/ CustomHeuristic,2024-10-15 20:24:32
+922,MiniMax w/ CustomHeuristic,RandomPlayer,17,16,Depth: 2,Zufall,0,0,MiniMax w/ CustomHeuristic,2024-10-15 20:24:32
+923,RandomPlayer,MiniMax w/ CustomHeuristic,19,19,Zufall,Depth: 3,0,0,MiniMax w/ CustomHeuristic,2024-10-15 20:24:32
+924,MiniMax w/ CustomHeuristic,RandomPlayer,23,22,Depth: 4,Zufall,2,0,MiniMax w/ CustomHeuristic,2024-10-15 20:24:32
+925,RandomPlayer,MiniMax w/ CustomHeuristic,22,22,Zufall,Depth: 5,0,8,MiniMax w/ CustomHeuristic,2024-10-15 20:24:32
+926,MiniMax w/ CustomHeuristic,RandomPlayer,20,19,Depth: 6,Zufall,34,0,MiniMax w/ CustomHeuristic,2024-10-15 20:24:33
+927,RandomPlayer,MiniMax w/ CustomHeuristic,28,28,Zufall,Depth: 7,0,38,MiniMax w/ CustomHeuristic,2024-10-15 20:24:34
+928,MiniMax w/ CustomHeuristic,RandomPlayer,26,25,Depth: 8,Zufall,67,0,MiniMax w/ CustomHeuristic,2024-10-15 20:24:35
+929,RandomPlayer,MiniMax w/ CustomHeuristic,22,22,Zufall,Depth: 9,0,486,MiniMax w/ CustomHeuristic,2024-10-15 20:24:46
+930,MiniMax w/ CustomHeuristic,RandomPlayer,18,17,Depth: 0,Zufall,0,0,MiniMax w/ CustomHeuristic,2024-10-15 20:24:46
+931,RandomPlayer,MiniMax w/ CustomHeuristic,17,17,Zufall,Depth: 1,0,0,MiniMax w/ CustomHeuristic,2024-10-15 20:24:46
+932,MiniMax w/ CustomHeuristic,RandomPlayer,23,22,Depth: 2,Zufall,0,0,MiniMax w/ CustomHeuristic,2024-10-15 20:24:46
+933,RandomPlayer,MiniMax w/ CustomHeuristic,16,16,Zufall,Depth: 3,0,0,MiniMax w/ CustomHeuristic,2024-10-15 20:24:46
+934,MiniMax w/ CustomHeuristic,RandomPlayer,21,20,Depth: 4,Zufall,1,0,MiniMax w/ CustomHeuristic,2024-10-15 20:24:46
+935,RandomPlayer,MiniMax w/ CustomHeuristic,24,24,Zufall,Depth: 5,0,2,MiniMax w/ CustomHeuristic,2024-10-15 20:24:46
+936,MiniMax w/ CustomHeuristic,RandomPlayer,25,25,Depth: 6,Zufall,27,0,RandomPlayer,2024-10-15 20:24:47
+937,RandomPlayer,MiniMax w/ CustomHeuristic,19,19,Zufall,Depth: 7,0,30,MiniMax w/ CustomHeuristic,2024-10-15 20:24:47
+938,MiniMax w/ CustomHeuristic,RandomPlayer,27,26,Depth: 8,Zufall,72,0,MiniMax w/ CustomHeuristic,2024-10-15 20:24:49
+939,RandomPlayer,MiniMax w/ CustomHeuristic,21,21,Zufall,Depth: 9,0,826,MiniMax w/ CustomHeuristic,2024-10-15 20:25:07
+940,MiniMax w/ CustomHeuristic,RandomPlayer,16,15,Depth: 0,Zufall,0,0,MiniMax w/ CustomHeuristic,2024-10-15 20:25:07
+941,RandomPlayer,MiniMax w/ CustomHeuristic,25,24,Zufall,Depth: 1,0,0,Draw,2024-10-15 20:25:07
+942,MiniMax w/ CustomHeuristic,RandomPlayer,22,21,Depth: 2,Zufall,0,0,MiniMax w/ CustomHeuristic,2024-10-15 20:25:07
+943,RandomPlayer,MiniMax w/ CustomHeuristic,19,19,Zufall,Depth: 3,0,0,MiniMax w/ CustomHeuristic,2024-10-15 20:25:07
+944,MiniMax w/ CustomHeuristic,RandomPlayer,20,19,Depth: 4,Zufall,2,0,MiniMax w/ CustomHeuristic,2024-10-15 20:25:07
+945,RandomPlayer,MiniMax w/ CustomHeuristic,18,18,Zufall,Depth: 5,0,6,MiniMax w/ CustomHeuristic,2024-10-15 20:25:07
+946,MiniMax w/ CustomHeuristic,RandomPlayer,25,24,Depth: 6,Zufall,8,0,MiniMax w/ CustomHeuristic,2024-10-15 20:25:07
+947,RandomPlayer,MiniMax w/ CustomHeuristic,22,21,Zufall,Depth: 7,0,50,RandomPlayer,2024-10-15 20:25:08
+948,MiniMax w/ CustomHeuristic,RandomPlayer,25,24,Depth: 8,Zufall,445,0,MiniMax w/ CustomHeuristic,2024-10-15 20:25:19
+949,RandomPlayer,MiniMax w/ CustomHeuristic,20,20,Zufall,Depth: 9,0,258,MiniMax w/ CustomHeuristic,2024-10-15 20:25:25
+950,MiniMax w/ CustomHeuristic,RandomPlayer,27,26,Depth: 0,Zufall,0,0,MiniMax w/ CustomHeuristic,2024-10-15 20:25:25
+951,RandomPlayer,MiniMax w/ CustomHeuristic,20,20,Zufall,Depth: 1,0,0,MiniMax w/ CustomHeuristic,2024-10-15 20:25:25
+952,MiniMax w/ CustomHeuristic,RandomPlayer,24,24,Depth: 2,Zufall,0,0,RandomPlayer,2024-10-15 20:25:25
+953,RandomPlayer,MiniMax w/ CustomHeuristic,23,23,Zufall,Depth: 3,0,0,MiniMax w/ CustomHeuristic,2024-10-15 20:25:25
+954,MiniMax w/ CustomHeuristic,RandomPlayer,23,23,Depth: 4,Zufall,1,0,RandomPlayer,2024-10-15 20:25:25
+955,RandomPlayer,MiniMax w/ CustomHeuristic,18,18,Zufall,Depth: 5,0,11,MiniMax w/ CustomHeuristic,2024-10-15 20:25:25
+956,MiniMax w/ CustomHeuristic,RandomPlayer,27,26,Depth: 6,Zufall,14,0,MiniMax w/ CustomHeuristic,2024-10-15 20:25:25
+957,RandomPlayer,MiniMax w/ CustomHeuristic,19,19,Zufall,Depth: 7,0,135,MiniMax w/ CustomHeuristic,2024-10-15 20:25:28
+958,MiniMax w/ CustomHeuristic,RandomPlayer,21,20,Depth: 8,Zufall,272,0,MiniMax w/ CustomHeuristic,2024-10-15 20:25:34
+959,RandomPlayer,MiniMax w/ CustomHeuristic,27,26,Zufall,Depth: 9,0,1507,RandomPlayer,2024-10-15 20:26:13
+960,MiniMax w/ CustomHeuristic,RandomPlayer,19,18,Depth: 0,Zufall,0,0,MiniMax w/ CustomHeuristic,2024-10-15 20:26:13
+961,RandomPlayer,MiniMax w/ CustomHeuristic,17,17,Zufall,Depth: 1,0,0,MiniMax w/ CustomHeuristic,2024-10-15 20:26:13
+962,MiniMax w/ CustomHeuristic,RandomPlayer,20,19,Depth: 2,Zufall,0,0,MiniMax w/ CustomHeuristic,2024-10-15 20:26:13
+963,RandomPlayer,MiniMax w/ CustomHeuristic,27,26,Zufall,Depth: 3,0,0,Draw,2024-10-15 20:26:13
+964,MiniMax w/ CustomHeuristic,RandomPlayer,22,21,Depth: 4,Zufall,1,0,MiniMax w/ CustomHeuristic,2024-10-15 20:26:13
+965,RandomPlayer,MiniMax w/ CustomHeuristic,19,19,Zufall,Depth: 5,0,5,MiniMax w/ CustomHeuristic,2024-10-15 20:26:13
+966,MiniMax w/ CustomHeuristic,RandomPlayer,28,28,Depth: 6,Zufall,9,0,Draw,2024-10-15 20:26:13
+967,RandomPlayer,MiniMax w/ CustomHeuristic,23,23,Zufall,Depth: 7,0,26,MiniMax w/ CustomHeuristic,2024-10-15 20:26:14
+968,MiniMax w/ CustomHeuristic,RandomPlayer,24,23,Depth: 8,Zufall,1495,0,MiniMax w/ CustomHeuristic,2024-10-15 20:26:50
+969,RandomPlayer,MiniMax w/ CustomHeuristic,27,27,Zufall,Depth: 9,0,1265,MiniMax w/ CustomHeuristic,2024-10-15 20:27:24
+970,MiniMax w/ CustomHeuristic,RandomPlayer,31,31,Depth: 0,Zufall,0,0,Draw,2024-10-15 20:27:24
+971,RandomPlayer,MiniMax w/ CustomHeuristic,25,24,Zufall,Depth: 1,0,0,RandomPlayer,2024-10-15 20:27:24
+972,MiniMax w/ CustomHeuristic,RandomPlayer,19,18,Depth: 2,Zufall,0,0,MiniMax w/ CustomHeuristic,2024-10-15 20:27:24
+973,RandomPlayer,MiniMax w/ CustomHeuristic,23,22,Zufall,Depth: 3,0,0,RandomPlayer,2024-10-15 20:27:24
+974,MiniMax w/ CustomHeuristic,RandomPlayer,22,21,Depth: 4,Zufall,1,0,MiniMax w/ CustomHeuristic,2024-10-15 20:27:24
+975,RandomPlayer,MiniMax w/ CustomHeuristic,18,17,Zufall,Depth: 5,0,3,RandomPlayer,2024-10-15 20:27:24
+976,MiniMax w/ CustomHeuristic,RandomPlayer,26,25,Depth: 6,Zufall,22,0,MiniMax w/ CustomHeuristic,2024-10-15 20:27:25
+977,RandomPlayer,MiniMax w/ CustomHeuristic,23,22,Zufall,Depth: 7,0,52,RandomPlayer,2024-10-15 20:27:26
+978,MiniMax w/ CustomHeuristic,RandomPlayer,22,21,Depth: 8,Zufall,255,0,MiniMax w/ CustomHeuristic,2024-10-15 20:27:31
+979,RandomPlayer,MiniMax w/ CustomHeuristic,21,21,Zufall,Depth: 9,0,1459,MiniMax w/ CustomHeuristic,2024-10-15 20:28:02
+980,MiniMax w/ CustomHeuristic,RandomPlayer,19,18,Depth: 0,Zufall,0,0,MiniMax w/ CustomHeuristic,2024-10-15 20:28:02
+981,RandomPlayer,MiniMax w/ CustomHeuristic,19,19,Zufall,Depth: 1,0,0,MiniMax w/ CustomHeuristic,2024-10-15 20:28:02
+982,MiniMax w/ CustomHeuristic,RandomPlayer,18,17,Depth: 2,Zufall,0,0,MiniMax w/ CustomHeuristic,2024-10-15 20:28:02
+983,RandomPlayer,MiniMax w/ CustomHeuristic,22,22,Zufall,Depth: 3,0,0,MiniMax w/ CustomHeuristic,2024-10-15 20:28:02
+984,MiniMax w/ CustomHeuristic,RandomPlayer,33,33,Depth: 4,Zufall,0,0,Draw,2024-10-15 20:28:02
+985,RandomPlayer,MiniMax w/ CustomHeuristic,21,21,Zufall,Depth: 5,0,8,MiniMax w/ CustomHeuristic,2024-10-15 20:28:02
+986,MiniMax w/ CustomHeuristic,RandomPlayer,25,24,Depth: 6,Zufall,7,0,MiniMax w/ CustomHeuristic,2024-10-15 20:28:02
+987,RandomPlayer,MiniMax w/ CustomHeuristic,20,20,Zufall,Depth: 7,0,89,MiniMax w/ CustomHeuristic,2024-10-15 20:28:04
+988,MiniMax w/ CustomHeuristic,RandomPlayer,20,19,Depth: 8,Zufall,2305,0,MiniMax w/ CustomHeuristic,2024-10-15 20:28:50
+989,RandomPlayer,MiniMax w/ CustomHeuristic,25,25,Zufall,Depth: 9,0,7183,MiniMax w/ CustomHeuristic,2024-10-15 20:31:50
+990,MiniMax w/ CustomHeuristic,RandomPlayer,16,15,Depth: 0,Zufall,0,0,MiniMax w/ CustomHeuristic,2024-10-15 20:31:50
+991,RandomPlayer,MiniMax w/ CustomHeuristic,18,18,Zufall,Depth: 1,0,0,MiniMax w/ CustomHeuristic,2024-10-15 20:31:50
+992,MiniMax w/ CustomHeuristic,RandomPlayer,26,25,Depth: 2,Zufall,0,0,MiniMax w/ CustomHeuristic,2024-10-15 20:31:50
+993,RandomPlayer,MiniMax w/ CustomHeuristic,24,24,Zufall,Depth: 3,0,0,MiniMax w/ CustomHeuristic,2024-10-15 20:31:50
+994,MiniMax w/ CustomHeuristic,RandomPlayer,22,21,Depth: 4,Zufall,2,0,MiniMax w/ CustomHeuristic,2024-10-15 20:31:50
+995,RandomPlayer,MiniMax w/ CustomHeuristic,21,20,Zufall,Depth: 5,0,21,RandomPlayer,2024-10-15 20:31:50
+996,MiniMax w/ CustomHeuristic,RandomPlayer,26,26,Depth: 6,Zufall,9,0,Draw,2024-10-15 20:31:51
+997,RandomPlayer,MiniMax w/ CustomHeuristic,22,22,Zufall,Depth: 7,0,46,MiniMax w/ CustomHeuristic,2024-10-15 20:31:52
+998,MiniMax w/ CustomHeuristic,RandomPlayer,24,23,Depth: 8,Zufall,1270,0,MiniMax w/ CustomHeuristic,2024-10-15 20:32:22
+999,RandomPlayer,MiniMax w/ CustomHeuristic,32,31,Zufall,Depth: 9,0,908,Draw,2024-10-15 20:32:50

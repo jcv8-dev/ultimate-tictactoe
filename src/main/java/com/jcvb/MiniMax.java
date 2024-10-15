@@ -48,7 +48,7 @@ public class MiniMax implements Player {
 	public int getBestMove(UltimateBoard ultimateBoard){
 		List<Integer> moves =  ultimateBoard.getPossibleMoves();
 		int bestMove = 0;
-		int bestValue = 0;
+		int bestValue = Integer.MIN_VALUE;
 		for(int move: moves) {
 			UltimateBoard copy = ultimateBoard.deepClone();
 			copy.makeMove(move);
@@ -64,15 +64,7 @@ public class MiniMax implements Player {
 	
 	public int getBestMoveThreaded(UltimateBoard ultimateBoard) {
 		List<Integer> moves =  ultimateBoard.getPossibleMoves();
-//		for(int i = 0; i < moves.size(); i++){
-//			if(moves.size() == 1) {
-//				break;
-//			}
-//			if(Math.random() < 0.2){
-//				moves.remove(i);
-//				i--;
-//			}
-//		}
+
 		List<CompletableFuture<Integer>> futures = new ArrayList<>();
 		
 		for (int move : moves) {
@@ -100,6 +92,7 @@ public class MiniMax implements Player {
 	
 	public void play(UltimateBoard ultimateBoard) {
 		int bestMove = getBestMoveThreaded(ultimateBoard);
+//		int bestMove = getBestMove(ultimateBoard);
 		ultimateBoard.makeMove(bestMove);
 	}
 
@@ -114,7 +107,7 @@ public class MiniMax implements Player {
 	}
 
 	public static void main(String[] args) {
-		GameStatus result = new Game(new MiniMax(new CustomHeuristic(GameStatus.ONE), 7), new MiniMax(new CustomHeuristic(GameStatus.TWO), 7)).run();
+		GameStatus result = new Game(new MiniMax(new CustomHeuristic(GameStatus.ONE), 10), new HumanPlayer()).run();
 		System.out.println(result);
 	}
 

@@ -1,6 +1,7 @@
 package com.jcvb;
 
 import java.util.ArrayList;
+import java.util.Comparator;
 import java.util.List;
 import java.util.Random;
 
@@ -9,7 +10,7 @@ public class MonteCarloTreeSearch implements Player {
     private final GameStatus player;
     private final int simulations = 300000;  // Number of MCTS simulations
     private final double explorationConstant = Math.sqrt(2);  // UCT exploration constant
-    private final int msPerMove = 10000;
+    private final int msPerMove = 500;
 
     public MonteCarloTreeSearch(GameStatus player) {
         this.player = player;
@@ -144,11 +145,11 @@ public class MonteCarloTreeSearch implements Player {
         }
 
         public Node getBestChild() {
-            return children.stream().max((n1, n2) -> Integer.compare(n1.visits, n2.visits)).orElse(null);
+            return children.stream().max(Comparator.comparingInt(n -> n.visits)).orElse(null);
         }
 
         public Node getBestUCTChild(double explorationConstant) {
-            return children.stream().max((n1, n2) -> Double.compare(n1.getUCTValue(explorationConstant), n2.getUCTValue(explorationConstant))).orElse(null);
+            return children.stream().max(Comparator.comparingDouble(n -> n.getUCTValue(explorationConstant))).orElse(null);
         }
 
         public double getUCTValue(double explorationConstant) {

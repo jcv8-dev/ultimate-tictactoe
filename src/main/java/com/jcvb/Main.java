@@ -3,12 +3,12 @@ package com.jcvb;
 public class Main {
 	public static void main(String[] args) {
 		
-		int NUM_GAMES = 100;
+		int NUM_GAMES = 1000;
 		// MiniMax, RandomPlayer, Draw
 		int[] wins = new int[3];
 		int DEPTH = 12;
-		Player miniMax1 = new MiniMax(new CustomHeuristic(GameStatus.ONE), DEPTH);
-		Player miniMax2 = new MiniMax(new CustomHeuristic(GameStatus.TWO), DEPTH);
+
+
 
 		Player monteCarloTreeSearch1 = new MonteCarloTreeSearch(GameStatus.ONE);
 		Player monteCarloTreeSearch2 = new MonteCarloTreeSearch(GameStatus.TWO);
@@ -20,7 +20,8 @@ public class Main {
 			Game game;
 			if (i % 2 == 0) {
 //				result = new Game(randomPlayer, miniMax2).run();
-				game = new Game(miniMax1, monteCarloTreeSearch2);
+				Player miniMax1 = new MiniMax(new CustomHeuristic(GameStatus.ONE), i%10);
+				game = new Game(miniMax1, randomPlayer);
 				result = game.run();
 				if(result.ordinal() == 0){
 					wins[1]++;
@@ -31,14 +32,15 @@ public class Main {
 				printVictoryMessage(result, i, "MiniMax", "MCTS");
 			} else {
 //				result = new Game(minimax1, randomPlayer).run();
-				game = new Game(monteCarloTreeSearch1, miniMax2);
+				Player miniMax2 = new MiniMax(new CustomHeuristic(GameStatus.TWO), i%10);
+				game = new Game(randomPlayer, miniMax2);
 				result = game.run();
 				wins[result.ordinal()]++;
 
 //				printVictoryMessage(result, i, "miniMax", "Random");
 				printVictoryMessage(result, i, "MCTS", "MiniMax");
 			}
-			printStats(wins, monteCarloTreeSearch1, randomPlayer);
+//			printStats(wins, randomPlayer, randomPlayer);
 			GameLogger.logGameResult(i, game.getStats());
 		}
 		
